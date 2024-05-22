@@ -1,0 +1,801 @@
+"striker","season","event","batting_team","innings","Runs","BallsFaced","StrikeRate","Average","Fours","Sixes","NotOuts","Hundreds","Fifties","HighScore"
+"A Jain","2022/23","Sheffield Shield","Queensland",4,76,173,43.9306358381503,25.3333333333333,6,0,1,0,0,44
+"A Pyecroft","2018/19","Sheffield Shield","Tasmania",3,15,42,35.7142857142857,5,1,0,0,0,0,12
+"A Pyecroft","2019/20","Marsh Sheffield Shield","Tasmania",2,6,23,26.0869565217391,3,1,0,0,0,0,4
+"A Zampa","2016/17","Sheffield Shield","South Australia",1,31,52,59.6153846153846,31,2,0,0,0,0,31
+"A Zampa","2017/18","Sheffield Shield","South Australia",6,107,172,62.2093023255814,21.4,8,2,1,0,1,57
+"A Zampa","2022/23","Sheffield Shield","New South Wales",3,44,68,64.7058823529412,44,3,1,2,0,0,24
+"AA Bevilaqua","2017/18","Sheffield Shield","Western Australia",4,57,42,135.714285714286,19,5,3,1,0,0,36
+"AB Holder","2017/18","Sheffield Shield","Western Australia",2,10,35,28.5714285714286,10,1,0,1,0,0,8
+"AC Agar","2017/18","Sheffield Shield","Western Australia",2,106,169,62.7218934911243,53,13,0,0,0,1,86
+"AC Agar","2019/20","Marsh Sheffield Shield","Western Australia",1,4,5,80,4,1,0,0,0,0,4
+"AC Agar","2020/21","Sheffield Shield","Western Australia",6,162,292,55.4794520547945,32.4,22,0,1,1,0,114
+"AC Agar","2022/23","Sheffield Shield","Western Australia",1,72,118,61.0169491525424,72,5,3,0,0,1,72
+"ACI Lovell","2023/24","Sheffield Shield","Queensland",8,116,225,51.5555555555556,14.5,18,0,0,0,0,45
+"AI Ross","2017/18","Sheffield Shield","South Australia",2,14,31,45.1612903225806,7,2,0,0,0,0,10
+"AJ Doolan","2017/18","Sheffield Shield","Tasmania",6,352,536,65.6716417910448,88,40,5,2,1,1,247
+"AJ Doolan","2018/19","Sheffield Shield","Tasmania",14,662,1437,46.0681976339596,47.2857142857143,82,4,0,1,5,115
+"AJ Doolan","2019/20","Marsh Sheffield Shield","Tasmania",10,199,478,41.6317991631799,19.9,24,1,0,0,1,58
+"AJ Doolan","2020/21","Sheffield Shield","Tasmania",5,69,220,31.3636363636364,13.8,8,0,0,0,0,29
+"AJ Finch","2016/17","Sheffield Shield","Victoria",2,121,201,60.1990049751244,60.5,12,3,0,0,1,83
+"AJ Finch","2017/18","Sheffield Shield","Victoria",2,3,19,15.7894736842105,1.5,0,0,0,0,0,3
+"AJ Finch","2018/19","Sheffield Shield","Victoria",2,51,91,56.043956043956,25.5,9,0,0,0,1,50
+"AJ Finch","2019/20","Marsh Sheffield Shield","Victoria",3,104,164,63.4146341463415,34.6666666666667,9,4,0,0,1,57
+"AJ Nair","2021/22","Sheffield Shield","New South Wales",1,0,10,0,0,0,0,0,0,0,0
+"AJ Turner","2017/18","Sheffield Shield","Western Australia",6,248,389,63.7532133676093,41.3333333333333,36,0,0,0,2,81
+"AJ Turner","2018/19","Sheffield Shield","Western Australia",2,8,12,66.6666666666667,4,0,0,0,0,0,5
+"AJ Turner","2020/21","Sheffield Shield","Western Australia",2,10,44,22.7272727272727,5,1,0,0,0,0,6
+"AJ Turner","2022/23","Sheffield Shield","Western Australia",3,175,378,46.2962962962963,58.3333333333333,16,1,0,1,0,128
+"AJ Turner","2023/24","Sheffield Shield","Western Australia",6,184,248,74.1935483870968,36.8,12,6,1,0,2,82
+"AL Fekete","2017/18","Sheffield Shield","Tasmania",2,26,54,48.1481481481481,Inf,3,1,2,0,0,25
+"AL Fekete","2018/19","Sheffield Shield","Victoria",2,6,29,20.6896551724138,6,1,0,1,0,0,5
+"AL Fekete","2019/20","Marsh Sheffield Shield","Victoria",1,4,6,66.6666666666667,Inf,1,0,1,0,0,4
+"AM Hardie","2018/19","Sheffield Shield","Western Australia",2,31,53,58.4905660377358,15.5,5,0,0,0,0,30
+"AM Hardie","2019/20","Marsh Sheffield Shield","Western Australia",4,146,286,51.048951048951,48.6666666666667,19,1,1,1,0,100
+"AM Hardie","2020/21","Sheffield Shield","Western Australia",2,31,71,43.6619718309859,15.5,4,0,0,0,0,26
+"AM Hardie","2021/22","Sheffield Shield","Western Australia",5,238,473,50.3171247357294,119,34,1,3,1,0,174
+"AM Hardie","2022/23","Sheffield Shield","Western Australia",15,378,705,53.6170212765957,29.0769230769231,56,2,2,0,2,70
+"AM Hardie","2023/24","Sheffield Shield","Western Australia",11,377,643,58.6314152410575,34.2727272727273,49,1,0,0,2,99
+"AP Chandrasinghe","2022/23","Sheffield Shield","Victoria",16,325,1302,24.9615975422427,23.2142857142857,35,0,2,1,1,119
+"AT Carey","2016/17","Sheffield Shield","South Australia",2,102,115,88.695652173913,51,6,3,0,0,1,57
+"AT Carey","2017/18","Sheffield Shield","South Australia",8,315,502,62.7490039840637,45,38,2,1,1,1,139
+"AT Carey","2019/20","Marsh Sheffield Shield","South Australia",5,230,310,74.1935483870968,46,39,1,0,1,1,117
+"AT Carey","2020/21","Sheffield Shield","South Australia",4,193,316,61.0759493670886,48.25,21,1,0,1,0,125
+"AT Carey","2021/22","Sheffield Shield","South Australia",8,172,274,62.7737226277372,24.5714285714286,14,1,1,0,1,66
+"AT Carey","2022/23","Sheffield Shield","South Australia",5,178,271,65.6826568265683,35.6,17,1,0,0,2,70
+"AT Carey","2023/24","Sheffield Shield","South Australia",4,221,299,73.9130434782609,55.25,28,1,0,0,2,90
+"B Doggett","2017/18","Sheffield Shield","Queensland",4,21,78,26.9230769230769,5.25,4,0,0,0,0,15
+"B Doggett","2019/20","Marsh Sheffield Shield","Queensland",2,12,25,48,6,2,0,0,0,0,12
+"B Doggett","2020/21","Sheffield Shield","Queensland",3,6,31,19.3548387096774,Inf,1,0,3,0,0,4
+"B Doggett","2021/22","Sheffield Shield","South Australia",4,22,28,78.5714285714286,7.33333333333333,2,0,1,0,0,10
+"B Doggett","2022/23","Sheffield Shield","South Australia",8,87,171,50.8771929824561,14.5,9,0,2,0,0,49
+"B Doggett","2023/24","Sheffield Shield","South Australia",12,41,136,30.1470588235294,4.55555555555556,4,0,3,0,0,12
+"B Nikitaras","2021/22","Sheffield Shield","New South Wales",2,100,192,52.0833333333333,50,14,3,0,0,1,56
+"B Nikitaras","2022/23","Sheffield Shield","New South Wales",13,240,604,39.7350993377483,18.4615384615385,21,3,0,0,0,46
+"B Nikitaras","2023/24","Sheffield Shield","New South Wales",9,177,468,37.8205128205128,19.6666666666667,19,2,0,0,1,56
+"B Stanlake","2018/19","Sheffield Shield","Queensland",4,4,30,13.3333333333333,2,1,0,2,0,0,4
+"B Stanlake","2019/20","Marsh Sheffield Shield","Queensland",4,0,29,0,0,0,0,1,0,0,0
+"B Stanlake","2023/24","Sheffield Shield","Tasmania",1,0,1,0,NA,0,0,1,0,0,0
+"BAD Manenti","2021/22","Sheffield Shield","Tasmania",2,42,75,56,42,6,1,1,0,0,23
+"BAD Manenti","2022/23","Sheffield Shield","South Australia",15,478,629,75.9936406995231,34.1428571428571,59,8,1,0,4,88
+"BAD Manenti","2023/24","Sheffield Shield","South Australia",19,609,790,77.0886075949367,38.0625,71,10,3,0,5,86
+"BD Macdonald","2022/23","Sheffield Shield","New South Wales",2,82,156,52.5641025641026,41,10,0,0,0,1,61
+"BD Macdonald","2023/24","Sheffield Shield","New South Wales",5,55,182,30.2197802197802,11,7,0,0,0,0,22
+"BE Street","2019/20","Marsh Sheffield Shield","Queensland",11,385,1218,31.6091954022989,38.5,48,0,1,2,1,115
+"BE Street","2020/21","Sheffield Shield","Queensland",10,391,1277,30.61863743148,39.1,44,0,0,1,2,117
+"BE Street","2021/22","Sheffield Shield","Queensland",13,377,1074,35.1024208566108,29,39,3,0,1,1,143
+"BE Street","2022/23","Sheffield Shield","Queensland",11,336,1032,32.5581395348837,33.6,37,0,1,1,1,102
+"BE Street","2023/24","Sheffield Shield","Queensland",13,238,782,30.4347826086957,18.3076923076923,24,1,0,0,1,56
+"BJ Dwarshuis","2022/23","Sheffield Shield","New South Wales",9,183,345,53.0434782608696,30.5,21,1,3,0,1,60
+"BJ Dwarshuis","2023/24","Sheffield Shield","New South Wales",4,37,121,30.5785123966942,9.25,3,0,0,0,0,21
+"BJ Holt","2018/19","Sheffield Shield","New South Wales",1,25,72,34.7222222222222,25,2,0,0,0,0,25
+"BJ Holt","2020/21","Sheffield Shield","New South Wales",4,64,191,33.5078534031414,21.3333333333333,9,0,1,0,0,29
+"BJ Holt","2021/22","Sheffield Shield","New South Wales",5,44,124,35.4838709677419,8.8,7,0,0,0,0,20
+"BJ Holt","2022/23","Sheffield Shield","New South Wales",11,230,376,61.1702127659574,28.75,21,5,3,0,1,54
+"BJ Webster","2017/18","Sheffield Shield","Tasmania",4,157,446,35.2017937219731,52.3333333333333,13,0,1,1,0,136
+"BJ Webster","2018/19","Sheffield Shield","Tasmania",6,169,440,38.4090909090909,33.8,12,0,1,0,1,80
+"BJ Webster","2019/20","Marsh Sheffield Shield","Tasmania",7,381,509,74.852652259332,63.5,42,7,1,1,2,187
+"BJ Webster","2020/21","Sheffield Shield","Tasmania",14,404,646,62.5386996904025,31.0769230769231,43,3,1,1,1,135
+"BJ Webster","2021/22","Sheffield Shield","Tasmania",7,297,381,77.9527559055118,59.4,38,6,2,1,1,166
+"BJ Webster","2022/23","Sheffield Shield","Tasmania",16,596,1085,54.9308755760369,42.5714285714286,74,0,2,1,2,168
+"BJ Webster","2023/24","Sheffield Shield","Tasmania",19,938,1650,56.8484848484849,58.625,115,10,3,3,6,167
+"BL Couch","2021/22","Sheffield Shield","Victoria",1,1,4,25,1,0,0,0,0,0,1
+"BL Edwards","2019/20","Marsh Sheffield Shield","Queensland",2,9,36,25,4.5,1,0,0,0,0,8
+"BL Edwards","2021/22","Sheffield Shield","Queensland",3,1,18,5.55555555555556,Inf,0,0,3,0,0,1
+"BM Hope","2021/22","Sheffield Shield","Tasmania",1,2,11,18.1818181818182,2,0,0,0,0,0,2
+"BM Hope","2023/24","Sheffield Shield","Tasmania",19,490,790,62.0253164556962,32.6666666666667,68,6,4,1,2,132
+"BR Davis","2018/19","Sheffield Shield","South Australia",2,75,183,40.9836065573771,37.5,11,0,0,0,1,52
+"BR Davis","2020/21","Sheffield Shield","South Australia",6,105,310,33.8709677419355,17.5,11,0,0,0,1,57
+"BR McDermott","2017/18","Sheffield Shield","Tasmania",3,92,181,50.828729281768,46,8,3,1,0,1,75
+"BR McDermott","2018/19","Sheffield Shield","Tasmania",8,211,441,47.8458049886621,35.1666666666667,28,3,2,0,3,69
+"BR McDermott","2019/20","Marsh Sheffield Shield","Tasmania",9,363,959,37.851929092805,40.3333333333333,45,0,0,0,3,89
+"BR McDermott","2020/21","Sheffield Shield","Tasmania",7,355,838,42.36276849642,59.1666666666667,31,10,1,0,4,90
+"BR McDermott","2021/22","Sheffield Shield","Tasmania",7,299,720,41.5277777777778,49.8333333333333,32,4,1,0,2,94
+"BR McDermott","2022/23","Sheffield Shield","Tasmania",14,238,677,35.1550960118168,18.3076923076923,21,6,1,0,1,50
+"BR McDermott","2023/24","Sheffield Shield","Queensland",11,378,609,62.0689655172414,42,43,8,2,1,1,146
+"BT Capel","2021/22","Sheffield Shield","South Australia",2,9,25,36,4.5,2,0,0,0,0,8
+"C Connolly","2023/24","Sheffield Shield","Western Australia",2,108,145,74.4827586206897,54,16,3,0,0,1,90
+"C Green","2018/19","Sheffield Shield","Western Australia",1,8,9,88.8888888888889,8,1,0,0,0,0,8
+"C Green","2019/20","Marsh Sheffield Shield","Western Australia",9,513,989,51.8705763397371,102.6,64,5,4,2,1,158
+"C Green","2020/21","Sheffield Shield","Western Australia",9,650,1135,57.2687224669604,81.25,66,8,1,2,1,251
+"C Green","2021/22","Sheffield Shield","Western Australia",6,196,363,53.9944903581267,32.6666666666667,22,4,0,1,1,106
+"C Green","2023/24","Sheffield Shield","Western Australia",3,205,307,66.7752442996743,102.5,30,2,1,1,1,103
+"C Kellaway","2022/23","Sheffield Shield","Victoria",13,361,1060,34.0566037735849,30.0833333333333,44,0,1,0,3,81
+"C Kellaway","2023/24","Sheffield Shield","Victoria",15,422,1104,38.2246376811594,30.1428571428571,54,2,1,0,2,53
+"C Valente","2018/19","Sheffield Shield","South Australia",4,59,156,37.8205128205128,14.75,6,1,0,0,0,24
+"C Valente","2019/20","Marsh Sheffield Shield","South Australia",2,12,35,34.2857142857143,6,3,0,0,0,0,8
+"CA Vidler","2023/24","Sheffield Shield","Queensland",2,0,16,0,NA,0,0,2,0,0,0
+"CA Wakim","2018/19","Sheffield Shield","Tasmania",8,273,653,41.8070444104135,34.125,30,0,0,1,0,160
+"CA Wakim","2019/20","Marsh Sheffield Shield","Tasmania",6,194,415,46.7469879518072,38.8,27,0,1,0,2,78
+"CA Wakim","2020/21","Sheffield Shield","Tasmania",13,308,730,42.1917808219178,23.6923076923077,34,0,0,0,1,83
+"CA Wakim","2021/22","Sheffield Shield","Tasmania",5,189,401,47.1321695760599,37.8,25,0,0,0,3,68
+"CA Wakim","2022/23","Sheffield Shield","Tasmania",1,9,67,13.4328358208955,9,1,0,0,0,0,9
+"CA Wakim","2023/24","Sheffield Shield","Tasmania",21,683,1271,53.7372147915028,32.5238095238095,101,1,0,2,2,148
+"CD Hinchliffe","2017/18","Sheffield Shield","Western Australia",2,1,9,11.1111111111111,0.5,0,0,0,0,0,1
+"CH Stobo","2017/18","Sheffield Shield","New South Wales",2,10,43,23.2558139534884,5,0,0,0,0,0,8
+"CH Stobo","2022/23","Sheffield Shield","Western Australia",8,159,399,39.8496240601504,22.7142857142857,15,0,1,0,0,38
+"CH Stobo","2023/24","Sheffield Shield","Western Australia",16,263,590,44.5762711864407,17.5333333333333,29,1,1,0,1,61
+"CJ Ferguson","2016/17","Sheffield Shield","South Australia",2,28,77,36.3636363636364,14,4,0,0,0,0,26
+"CJ Ferguson","2017/18","Sheffield Shield","South Australia",8,267,559,47.7638640429338,33.375,35,0,0,0,2,92
+"CJ Ferguson","2018/19","Sheffield Shield","South Australia",8,159,350,45.4285714285714,19.875,22,0,0,0,1,60
+"CJ Ferguson","2019/20","Marsh Sheffield Shield","South Australia",10,199,497,40.0402414486922,19.9,29,0,0,0,1,82
+"CJ Ferguson","2020/21","Sheffield Shield","South Australia",6,177,461,38.3947939262473,35.4,30,0,1,0,1,97
+"CJ Gannon","2018/19","Sheffield Shield","Queensland",2,6,20,30,3,1,0,0,0,0,4
+"CJ Gannon","2019/20","Marsh Sheffield Shield","Queensland",10,147,436,33.7155963302752,18.375,19,0,2,0,0,45
+"CJ Gannon","2020/21","Sheffield Shield","Western Australia",4,93,130,71.5384615384615,46.5,10,3,2,0,1,58
+"CJ Gannon","2021/22","Sheffield Shield","Western Australia",1,0,1,0,0,0,0,0,0,0,0
+"CJ Gannon","2022/23","Sheffield Shield","Western Australia",3,31,59,52.5423728813559,15.5,5,0,1,0,0,17
+"CJ Gannon","2023/24","Sheffield Shield","Western Australia",10,151,315,47.9365079365079,16.7777777777778,17,1,1,0,0,42
+"CJ Green","2022/23","Sheffield Shield","New South Wales",10,290,487,59.5482546201232,41.4285714285714,36,2,3,0,3,59
+"CJ Green","2023/24","Sheffield Shield","New South Wales",9,246,501,49.1017964071856,61.5,28,5,5,0,3,63
+"CJ McInerney","2017/18","Sheffield Shield","South Australia",2,51,92,55.4347826086956,25.5,4,2,0,0,1,51
+"CJ McInerney","2018/19","Sheffield Shield","South Australia",10,251,611,41.0801963993453,25.1,29,0,0,0,1,51
+"CJ McInerney","2020/21","Sheffield Shield","South Australia",4,49,127,38.5826771653543,12.25,3,0,0,0,0,26
+"CJ McInerney","2023/24","Sheffield Shield","South Australia",2,37,100,37,18.5,6,0,0,0,0,21
+"CJ Rocchiccioli","2021/22","Sheffield Shield","Western Australia",3,51,37,137.837837837838,51,4,2,2,0,1,50
+"CJ Rocchiccioli","2022/23","Sheffield Shield","Western Australia",14,106,244,43.4426229508197,8.83333333333333,9,1,2,0,0,27
+"CJ Rocchiccioli","2023/24","Sheffield Shield","Western Australia",17,241,327,73.7003058103976,26.7777777777778,26,7,8,0,0,36
+"CJ Sayers","2016/17","Sheffield Shield","South Australia",1,23,39,58.974358974359,Inf,1,0,1,0,0,23
+"CJ Sayers","2017/18","Sheffield Shield","South Australia",3,55,111,49.5495495495495,18.3333333333333,7,0,0,0,0,46
+"CJ Sayers","2018/19","Sheffield Shield","South Australia",5,35,56,62.5,17.5,6,0,3,0,0,20
+"CJ Sayers","2019/20","Marsh Sheffield Shield","South Australia",10,227,319,71.1598746081505,25.2222222222222,33,2,1,0,1,58
+"CJ Sayers","2020/21","Sheffield Shield","South Australia",11,178,402,44.2786069651741,19.7777777777778,18,3,2,0,1,52
+"CL McClure","2021/22","Sheffield Shield","Victoria",2,0,4,0,0,0,0,1,0,0,0
+"CL McClure","2022/23","Sheffield Shield","Victoria",7,17,33,51.5151515151515,2.83333333333333,3,0,1,0,0,9
+"CL McClure","2023/24","Sheffield Shield","Victoria",2,4,14,28.5714285714286,4,0,0,1,0,0,4
+"CL White","2016/17","Sheffield Shield","Victoria",2,21,88,23.8636363636364,10.5,2,0,0,0,0,17
+"CL White","2018/19","Sheffield Shield","Victoria",6,208,365,56.986301369863,41.6,23,2,1,0,2,63
+"CP Jewell","2019/20","Marsh Sheffield Shield","Tasmania",2,24,73,32.8767123287671,12,3,0,0,0,0,14
+"CP Jewell","2020/21","Sheffield Shield","Tasmania",8,290,564,51.4184397163121,36.25,37,1,0,1,0,140
+"CP Jewell","2021/22","Sheffield Shield","Tasmania",10,229,488,46.9262295081967,22.9,29,0,0,0,1,52
+"CP Jewell","2022/23","Sheffield Shield","Tasmania",19,652,1235,52.7935222672065,38.3529411764706,83,3,2,2,3,121
+"CP Jewell","2023/24","Sheffield Shield","Tasmania",21,556,998,55.7114228456914,26.4761904761905,79,4,0,1,1,227
+"CP Tremain","2016/17","Sheffield Shield","Victoria",2,12,51,23.5294117647059,6,1,0,0,0,0,12
+"CP Tremain","2017/18","Sheffield Shield","Victoria",1,2,19,10.5263157894737,2,0,0,0,0,0,2
+"CP Tremain","2018/19","Sheffield Shield","Victoria",7,38,127,29.9212598425197,5.42857142857143,5,0,0,0,0,11
+"CP Tremain","2019/20","Marsh Sheffield Shield","Victoria",6,63,169,37.2781065088757,31.5,8,0,4,0,0,23
+"CP Tremain","2021/22","Sheffield Shield","New South Wales",9,169,319,52.9780564263323,24.1428571428571,15,5,2,0,1,58
+"CP Tremain","2022/23","Sheffield Shield","New South Wales",13,86,285,30.1754385964912,7.81818181818182,9,1,2,0,0,24
+"CP Tremain","2023/24","Sheffield Shield","New South Wales",13,39,109,35.7798165137615,4.33333333333333,4,1,4,0,0,13
+"CR Hemphrey","2017/18","Sheffield Shield","Queensland",5,142,372,38.1720430107527,28.4,12,0,0,0,1,77
+"CR Hemphrey","2018/19","Sheffield Shield","Queensland",10,221,588,37.5850340136054,24.5555555555556,24,2,1,0,1,93
+"CR Hemphrey","2019/20","Marsh Sheffield Shield","Queensland",7,189,464,40.7327586206897,27,18,0,0,0,2,64
+"CT Bancroft","2017/18","Sheffield Shield","Western Australia",2,51,103,49.5145631067961,25.5,6,0,0,0,0,38
+"CT Bancroft","2018/19","Sheffield Shield","Western Australia",6,168,327,51.3761467889908,28,23,0,0,0,2,52
+"CT Bancroft","2019/20","Marsh Sheffield Shield","Western Australia",9,93,349,26.647564469914,11.625,9,0,1,0,0,25
+"CT Bancroft","2020/21","Sheffield Shield","Western Australia",9,336,741,45.3441295546559,37.3333333333333,40,0,0,1,2,104
+"CT Bancroft","2021/22","Sheffield Shield","Western Australia",11,406,935,43.4224598930481,40.6,38,0,1,2,0,141
+"CT Bancroft","2022/23","Sheffield Shield","Western Australia",20,945,2102,44.9571836346337,59.0625,96,0,4,4,1,176
+"CT Bancroft","2023/24","Sheffield Shield","Western Australia",17,778,1997,38.9584376564847,48.625,69,2,1,3,4,122
+"D Warren","2023/24","Sheffield Shield","Victoria",3,3,8,37.5,Inf,0,0,3,0,0,3
+"DA Warner","2017/18","Sheffield Shield","New South Wales",4,178,304,58.5526315789474,44.5,22,0,0,0,1,83
+"DA Warner","2019/20","Marsh Sheffield Shield","New South Wales",4,141,259,54.4401544401544,47,22,0,1,1,0,125
+"DA Warner","2020/21","Sheffield Shield","New South Wales",2,93,139,66.9064748201439,46.5,13,0,0,0,1,69
+"DE Bollinger","2017/18","Sheffield Shield","New South Wales",1,0,3,0,0,0,0,0,0,0,0
+"DJ Worrall","2016/17","Sheffield Shield","South Australia",1,17,29,58.6206896551724,17,3,0,0,0,0,17
+"DJ Worrall","2017/18","Sheffield Shield","South Australia",6,20,64,31.25,6.66666666666667,3,0,3,0,0,14
+"DJ Worrall","2018/19","Sheffield Shield","South Australia",4,59,166,35.5421686746988,29.5,7,0,2,0,0,31
+"DJ Worrall","2019/20","Marsh Sheffield Shield","South Australia",3,74,77,96.1038961038961,37,10,1,1,0,0,36
+"DJ Worrall","2020/21","Sheffield Shield","South Australia",7,82,213,38.4976525821596,20.5,9,2,3,0,0,22
+"DJ Worrall","2021/22","Sheffield Shield","South Australia",6,53,89,59.5505617977528,10.6,8,1,1,0,0,24
+"DJM Moody","2018/19","Sheffield Shield","Western Australia",3,16,37,43.2432432432432,16,1,0,2,0,0,12
+"DJM Moody","2019/20","Marsh Sheffield Shield","Western Australia",8,65,187,34.7593582887701,13,4,0,3,0,0,31
+"DJM Moody","2022/23","Sheffield Shield","Western Australia",6,15,39,38.4615384615385,3,1,0,1,0,0,6
+"DJM Short","2017/18","Sheffield Shield","Western Australia",2,101,172,58.7209302325581,50.5,16,0,0,0,1,66
+"DJM Short","2018/19","Sheffield Shield","Western Australia",5,134,185,72.4324324324324,33.5,18,2,1,0,1,61
+"DJM Short","2020/21","Sheffield Shield","Western Australia",2,74,91,81.3186813186813,74,8,1,1,0,1,57
+"DJM Short","2021/22","Sheffield Shield","Western Australia",4,44,162,27.1604938271605,11,4,0,0,0,0,24
+"DJM Short","2022/23","Sheffield Shield","Western Australia",4,169,303,55.7755775577558,84.5,17,4,2,0,1,87
+"DJM Short","2023/24","Sheffield Shield","Western Australia",4,147,341,43.108504398827,36.75,23,0,0,0,1,50
+"DL Solway","2019/20","Marsh Sheffield Shield","New South Wales",8,379,805,47.0807453416149,63.1666666666667,44,0,2,1,2,133
+"DL Solway","2020/21","Sheffield Shield","New South Wales",9,214,619,34.5718901453958,26.75,28,0,1,0,2,86
+"DMK Grant","2017/18","Sheffield Shield","South Australia",1,8,16,50,Inf,1,0,1,0,0,8
+"DMK Grant","2020/21","Sheffield Shield","South Australia",3,11,22,50,Inf,2,0,3,0,0,5
+"DMK Grant","2021/22","Sheffield Shield","South Australia",7,24,90,26.6666666666667,4.8,1,1,2,0,0,12
+"DMK Grant","2022/23","Sheffield Shield","South Australia",2,1,58,1.72413793103448,1,0,0,1,0,0,1
+"DP Hughes","2017/18","Sheffield Shield","New South Wales",7,281,475,59.1578947368421,70.25,41,0,3,0,2,98
+"DP Hughes","2018/19","Sheffield Shield","New South Wales",8,339,805,42.111801242236,48.4285714285714,44,0,1,0,4,78
+"DP Hughes","2019/20","Marsh Sheffield Shield","New South Wales",12,478,825,57.9393939393939,43.4545454545455,68,2,1,2,1,136
+"DP Hughes","2020/21","Sheffield Shield","New South Wales",14,315,799,39.424280350438,22.5,38,1,0,0,1,74
+"DP Hughes","2021/22","Sheffield Shield","New South Wales",9,337,847,39.7874852420307,48.1428571428571,47,0,2,0,4,89
+"DP Hughes","2022/23","Sheffield Shield","New South Wales",15,537,1233,43.5523114355231,38.3571428571429,64,0,1,1,2,178
+"DP Hughes","2023/24","Sheffield Shield","New South Wales",16,434,790,54.9367088607595,28.9333333333333,51,4,1,1,4,114
+"DR Drew","2019/20","Marsh Sheffield Shield","South Australia",1,9,20,45,9,2,0,0,0,0,9
+"DR Drew","2021/22","Sheffield Shield","South Australia",2,137,333,41.1411411411411,68.5,16,1,0,1,0,130
+"DR Drew","2022/23","Sheffield Shield","South Australia",16,656,1438,45.6189151599444,43.7333333333333,81,0,1,1,3,208
+"DR Drew","2023/24","Sheffield Shield","South Australia",10,123,321,38.3177570093458,12.3,13,0,0,0,0,29
+"DR Sams","2018/19","Sheffield Shield","New South Wales",2,14,27,51.8518518518519,7,0,1,0,0,0,14
+"DT Christian","2016/17","Sheffield Shield","Victoria",2,62,213,29.1079812206573,31,6,0,0,0,1,58
+"DT Christian","2017/18","Sheffield Shield","Victoria",2,35,122,28.6885245901639,17.5,3,0,0,0,0,35
+"EJM Cowan","2017/18","Sheffield Shield","New South Wales",3,169,272,62.1323529411765,56.3333333333333,22,1,0,0,2,68
+"EM Vines","2019/20","Marsh Sheffield Shield","Victoria",4,41,190,21.5789473684211,10.25,5,0,0,0,0,12
+"EM Vines","2021/22","Sheffield Shield","Tasmania",2,38,113,33.6283185840708,19,2,0,0,0,0,38
+"F O'Neill","2022/23","Sheffield Shield","Victoria",14,194,443,43.7923250564334,16.1666666666667,26,1,2,0,0,35
+"F O'Neill","2023/24","Sheffield Shield","Victoria",15,251,315,79.6825396825397,27.8888888888889,28,6,6,0,1,70
+"Fawad Ahmed","2016/17","Sheffield Shield","Victoria",2,8,7,114.285714285714,8,2,0,1,0,0,8
+"Fawad Ahmed","2017/18","Sheffield Shield","Victoria",1,0,3,0,NA,0,0,1,0,0,0
+"GJ Bailey","2017/18","Sheffield Shield","Tasmania",5,260,486,53.4979423868313,52,31,3,0,1,2,106
+"GJ Bailey","2018/19","Sheffield Shield","Tasmania",6,37,96,38.5416666666667,6.16666666666667,3,0,0,0,0,15
+"GJ Bailey","2019/20","Marsh Sheffield Shield","Tasmania",2,7,13,53.8461538461538,3.5,1,0,0,0,0,7
+"GJ Maxwell","2017/18","Sheffield Shield","Victoria",2,49,124,39.5161290322581,49,4,0,1,0,0,45
+"GJ Maxwell","2018/19","Sheffield Shield","Victoria",2,35,59,59.3220338983051,17.5,4,0,0,0,0,35
+"GJ Maxwell","2019/20","Marsh Sheffield Shield","Victoria",3,101,111,90.990990990991,33.6666666666667,11,3,0,0,1,57
+"GJ Maxwell","2022/23","Sheffield Shield","Victoria",2,5,11,45.4545454545455,2.5,0,0,0,0,0,5
+"GS Sandhu","2017/18","Sheffield Shield","New South Wales",2,20,77,25.974025974026,10,1,0,0,0,0,14
+"GS Sandhu","2018/19","Sheffield Shield","Tasmania",2,6,47,12.7659574468085,3,1,0,0,0,0,6
+"GS Sandhu","2021/22","Sheffield Shield","Queensland",7,86,218,39.4495412844037,12.2857142857143,11,1,0,0,0,39
+"GS Sandhu","2022/23","Sheffield Shield","Queensland",7,148,348,42.5287356321839,21.1428571428571,19,1,0,0,0,42
+"GS Sandhu","2023/24","Sheffield Shield","Queensland",14,171,497,34.4064386317907,14.25,27,1,2,0,0,32
+"GT Bell","2017/18","Sheffield Shield","Tasmania",1,2,40,5,2,0,0,0,0,0,2
+"GT Bell","2018/19","Sheffield Shield","Tasmania",9,31,125,24.8,3.44444444444444,3,0,0,0,0,15
+"GT Bell","2019/20","Marsh Sheffield Shield","Tasmania",6,13,104,12.5,4.33333333333333,0,0,3,0,0,6
+"GT Bell","2020/21","Sheffield Shield","Tasmania",4,18,68,26.4705882352941,9,1,0,2,0,0,13
+"GT Bell","2021/22","Sheffield Shield","Tasmania",3,19,33,57.5757575757576,9.5,2,1,1,0,0,19
+"GT Bell","2023/24","Sheffield Shield","Tasmania",13,58,136,42.6470588235294,7.25,9,2,5,0,0,20
+"H Kerr","2021/22","Sheffield Shield","New South Wales",7,192,275,69.8181818181818,38.4,22,3,2,0,2,88
+"H Kerr","2022/23","Sheffield Shield","New South Wales",6,69,188,36.7021276595745,11.5,7,1,0,0,0,24
+"H Kerr","2023/24","Sheffield Shield","New South Wales",1,86,148,58.1081081081081,86,13,0,0,0,1,86
+"H McKenzie","2023/24","Sheffield Shield","Western Australia",2,4,35,11.4285714285714,2,0,0,0,0,0,3
+"HJ Hunt","2019/20","Marsh Sheffield Shield","South Australia",13,250,708,35.3107344632768,19.2307692307692,26,0,0,0,1,75
+"HJ Hunt","2020/21","Sheffield Shield","South Australia",12,495,1257,39.3794749403341,41.25,67,2,0,1,3,127
+"HJ Hunt","2021/22","Sheffield Shield","South Australia",11,473,1012,46.7391304347826,47.3,56,4,1,2,1,134
+"HJ Hunt","2022/23","Sheffield Shield","South Australia",18,441,1230,35.8536585365854,25.9411764705882,57,3,1,0,3,97
+"HJ Hunt","2023/24","Sheffield Shield","South Australia",14,355,883,40.2038505096263,25.3571428571429,44,0,0,1,1,162
+"HJ Nielsen","2018/19","Sheffield Shield","South Australia",10,216,476,45.3781512605042,21.6,23,1,0,0,1,82
+"HJ Nielsen","2019/20","Marsh Sheffield Shield","South Australia",10,261,517,50.4835589941973,32.625,34,0,2,0,2,86
+"HJ Nielsen","2020/21","Sheffield Shield","South Australia",12,417,1053,39.6011396011396,34.75,58,0,0,1,2,114
+"HJ Nielsen","2021/22","Sheffield Shield","South Australia",7,230,462,49.7835497835498,38.3333333333333,26,0,1,0,2,71
+"HJ Nielsen","2022/23","Sheffield Shield","South Australia",11,255,702,36.3247863247863,28.3333333333333,27,1,2,0,1,90
+"HJ Nielsen","2023/24","Sheffield Shield","South Australia",17,440,924,47.6190476190476,27.5,46,4,1,0,3,67
+"HNA Conway","2018/19","Sheffield Shield","New South Wales",3,2,11,18.1818181818182,2,0,0,2,0,0,2
+"HNA Conway","2019/20","Marsh Sheffield Shield","New South Wales",8,82,263,31.1787072243346,20.5,12,0,4,0,0,31
+"HNA Conway","2020/21","Sheffield Shield","New South Wales",5,8,31,25.8064516129032,8,0,0,4,0,0,7
+"HNA Conway","2021/22","Sheffield Shield","New South Wales",9,61,263,23.1939163498099,12.2,7,0,4,0,0,20
+"HNA Conway","2022/23","Sheffield Shield","South Australia",3,1,33,3.03030303030303,0.5,0,0,1,0,0,1
+"HNA Conway","2023/24","Sheffield Shield","South Australia",5,21,83,25.3012048192771,7,2,0,2,0,0,12
+"HP Kingston","2018/19","Sheffield Shield","Tasmania",2,14,42,33.3333333333333,7,3,0,0,0,0,14
+"HPA Matthias","2022/23","Sheffield Shield","South Australia",2,21,60,35,10.5,1,0,0,0,0,12
+"HWR Cartwright","2017/18","Sheffield Shield","Western Australia",6,334,551,60.6170598911071,66.8,45,2,1,1,2,111
+"HWR Cartwright","2018/19","Sheffield Shield","Western Australia",8,215,441,48.7528344671202,30.7142857142857,26,0,1,0,1,66
+"HWR Cartwright","2019/20","Marsh Sheffield Shield","Western Australia",3,79,152,51.9736842105263,26.3333333333333,14,0,0,0,0,42
+"HWR Cartwright","2020/21","Sheffield Shield","Western Australia",2,139,244,56.9672131147541,139,15,4,1,0,1,96
+"HWR Cartwright","2021/22","Sheffield Shield","Western Australia",11,480,944,50.8474576271186,48,58,8,1,2,2,121
+"HWR Cartwright","2022/23","Sheffield Shield","Western Australia",18,629,1321,47.6154428463285,39.3125,89,4,2,0,7,82
+"HWR Cartwright","2023/24","Sheffield Shield","Western Australia",17,529,1015,52.1182266009852,31.1176470588235,66,9,0,1,3,132
+"IJ Carlisle","2023/24","Sheffield Shield","Tasmania",8,52,118,44.0677966101695,10.4,7,2,3,0,0,24
+"J Clayton","2021/22","Sheffield Shield","Queensland",4,133,305,43.6065573770492,33.25,14,1,0,1,0,109
+"J Clayton","2022/23","Sheffield Shield","Queensland",15,389,1068,36.4232209737828,29.9230769230769,38,0,2,0,3,87
+"J Clayton","2023/24","Sheffield Shield","Queensland",19,555,1328,41.7921686746988,32.6470588235294,63,2,2,2,3,109
+"J Edwards","2018/19","Sheffield Shield","New South Wales",7,241,416,57.9326923076923,40.1666666666667,25,2,1,1,0,101
+"J Edwards","2019/20","Marsh Sheffield Shield","New South Wales",3,96,189,50.7936507936508,48,13,0,1,0,0,48
+"J Edwards","2020/21","Sheffield Shield","New South Wales",4,56,138,40.5797101449275,18.6666666666667,7,0,1,0,0,37
+"J Edwards","2021/22","Sheffield Shield","New South Wales",13,217,493,44.0162271805274,18.0833333333333,26,0,1,0,0,42
+"J Edwards","2022/23","Sheffield Shield","New South Wales",5,213,330,64.5454545454545,42.6,26,3,0,1,0,138
+"J Edwards","2023/24","Sheffield Shield","New South Wales",12,373,682,54.692082111437,33.9090909090909,32,2,1,0,2,99
+"J Fraser-McGurk","2019/20","Marsh Sheffield Shield","Victoria",4,88,170,51.7647058823529,22,10,1,0,0,1,51
+"J Fraser-McGurk","2020/21","Sheffield Shield","Victoria",4,83,175,47.4285714285714,27.6666666666667,10,1,1,0,0,38
+"J Fraser-McGurk","2021/22","Sheffield Shield","Victoria",4,47,105,44.7619047619048,11.75,7,0,0,0,0,25
+"J Fraser-McGurk","2023/24","Sheffield Shield","South Australia",16,313,359,87.1866295264624,19.5625,34,8,0,1,0,101
+"J Goodwin","2021/22","Sheffield Shield","Western Australia",2,16,38,42.1052631578947,8,3,0,0,0,0,10
+"J Goodwin","2023/24","Sheffield Shield","Western Australia",14,421,1068,39.4194756554307,32.3846153846154,48,3,1,1,2,115
+"J Merlo","2019/20","Marsh Sheffield Shield","Victoria",2,4,8,50,2,1,0,0,0,0,4
+"J Merlo","2021/22","Sheffield Shield","Victoria",6,119,405,29.3827160493827,23.8,12,0,1,0,1,64
+"J Merlo","2023/24","Sheffield Shield","Victoria",4,59,163,36.1963190184049,14.75,10,0,0,0,0,21
+"J Nicholas","2019/20","Marsh Sheffield Shield","Western Australia",2,45,55,81.8181818181818,22.5,6,2,0,0,0,44
+"J Nisbet","2023/24","Sheffield Shield","New South Wales",8,62,124,50,8.85714285714286,9,0,1,0,0,20
+"J Seymour","2020/21","Sheffield Shield","Victoria",1,60,123,48.780487804878,60,7,1,0,0,1,60
+"J Seymour","2021/22","Sheffield Shield","Victoria",8,194,466,41.6309012875536,24.25,29,1,0,1,0,105
+"J Sinfield","2022/23","Sheffield Shield","Queensland",3,43,101,42.5742574257426,43,6,0,2,0,0,29
+"J Weatherald","2016/17","Sheffield Shield","South Australia",2,62,137,45.2554744525547,31,8,0,0,0,1,60
+"J Weatherald","2017/18","Sheffield Shield","South Australia",8,219,470,46.5957446808511,27.375,24,0,0,0,2,71
+"J Weatherald","2018/19","Sheffield Shield","South Australia",10,276,518,53.2818532818533,27.6,28,5,0,1,0,150
+"J Weatherald","2019/20","Marsh Sheffield Shield","South Australia",13,380,765,49.6732026143791,29.2307692307692,52,0,0,1,2,126
+"J Weatherald","2020/21","Sheffield Shield","South Australia",8,311,628,49.5222929936306,38.875,40,3,0,1,1,105
+"J Weatherald","2021/22","Sheffield Shield","South Australia",7,235,475,49.4736842105263,39.1666666666667,23,2,1,1,0,122
+"J Weatherald","2022/23","Sheffield Shield","South Australia",12,342,671,50.9687034277198,28.5,50,2,0,1,2,100
+"J Weatherald","2023/24","Sheffield Shield","Tasmania",2,41,71,57.7464788732394,20.5,6,0,0,0,0,29
+"JA Burns","2017/18","Sheffield Shield","Queensland",6,298,487,61.1909650924025,59.6,27,6,1,1,0,202
+"JA Burns","2018/19","Sheffield Shield","Queensland",10,338,612,55.2287581699346,37.5555555555556,28,5,1,0,3,96
+"JA Burns","2019/20","Marsh Sheffield Shield","Queensland",11,515,820,62.8048780487805,51.5,71,1,1,1,3,135
+"JA Burns","2020/21","Sheffield Shield","Queensland",10,317,569,55.7117750439367,31.7,34,3,0,1,0,171
+"JA Burns","2021/22","Sheffield Shield","Queensland",11,244,628,38.8535031847134,22.1818181818182,31,1,0,0,0,49
+"JA Burns","2022/23","Sheffield Shield","Queensland",17,422,1081,39.0379278445883,26.375,46,1,1,0,3,85
+"JA Burns","2023/24","Sheffield Shield","Queensland",13,446,1122,39.7504456327986,37.1666666666667,44,1,1,1,3,133
+"JA Freeman","2018/19","Sheffield Shield","Tasmania",2,26,87,29.8850574712644,26,4,0,1,0,0,22
+"JA Freeman","2020/21","Sheffield Shield","Tasmania",8,100,212,47.1698113207547,14.2857142857143,14,0,1,0,0,38
+"JA Freeman","2021/22","Sheffield Shield","Tasmania",3,29,36,80.5555555555556,14.5,4,0,1,0,0,21
+"JA Freeman","2022/23","Sheffield Shield","Tasmania",15,288,461,62.472885032538,22.1538461538462,37,1,2,0,3,63
+"JA Freeman","2023/24","Sheffield Shield","Tasmania",17,295,423,69.7399527186761,18.4375,40,2,1,0,0,47
+"JA Richardson","2017/18","Sheffield Shield","Western Australia",1,0,1,0,0,0,0,0,0,0,0
+"JA Richardson","2018/19","Sheffield Shield","Western Australia",1,53,53,100,53,6,0,0,0,1,53
+"JA Richardson","2019/20","Marsh Sheffield Shield","Western Australia",3,60,145,41.3793103448276,20,7,0,0,0,0,39
+"JA Richardson","2021/22","Sheffield Shield","Western Australia",3,119,156,76.2820512820513,39.6666666666667,22,0,0,0,1,50
+"JA Richardson","2022/23","Sheffield Shield","Western Australia",2,32,69,46.3768115942029,32,2,0,1,0,0,21
+"JA Richardson","2023/24","Sheffield Shield","Western Australia",1,35,40,87.5,35,7,0,0,0,0,35
+"JC Silk","2017/18","Sheffield Shield","Tasmania",3,186,267,69.6629213483146,62,24,2,0,0,2,76
+"JC Silk","2018/19","Sheffield Shield","Tasmania",14,397,1169,33.9606501283148,28.3571428571429,40,0,0,0,1,90
+"JC Silk","2019/20","Marsh Sheffield Shield","Tasmania",10,218,525,41.5238095238095,24.2222222222222,24,2,1,0,1,67
+"JC Silk","2020/21","Sheffield Shield","Tasmania",15,376,912,41.2280701754386,25.0666666666667,56,0,0,1,2,106
+"JC Silk","2021/22","Sheffield Shield","Tasmania",7,311,536,58.0223880597015,51.8333333333333,39,0,1,1,1,100
+"JC Silk","2022/23","Sheffield Shield","Tasmania",17,512,1020,50.1960784313725,36.5714285714286,47,5,3,2,0,154
+"JC Silk","2023/24","Sheffield Shield","Tasmania",21,630,1285,49.0272373540856,35,79,1,3,1,3,181
+"JD Dalton","2016/17","Sheffield Shield","South Australia",2,32,113,28.3185840707965,16,1,0,0,0,0,32
+"JD Dalton","2017/18","Sheffield Shield","South Australia",6,173,420,41.1904761904762,28.8333333333333,17,0,0,0,2,64
+"JD Wildermuth","2017/18","Sheffield Shield","Queensland",6,219,413,53.0266343825666,36.5,29,0,0,0,2,73
+"JD Wildermuth","2018/19","Sheffield Shield","Queensland",3,20,54,37.037037037037,6.66666666666667,3,0,0,0,0,10
+"JD Wildermuth","2019/20","Marsh Sheffield Shield","Queensland",6,233,376,61.968085106383,38.8333333333333,32,0,0,0,2,80
+"JD Wildermuth","2020/21","Sheffield Shield","Queensland",8,178,207,85.9903381642512,25.4285714285714,25,4,1,0,1,57
+"JD Wildermuth","2021/22","Sheffield Shield","Queensland",10,87,179,48.6033519553073,9.66666666666667,9,1,1,0,0,34
+"JD Wildermuth","2022/23","Sheffield Shield","Queensland",5,68,157,43.312101910828,17,9,0,1,0,0,38
+"JD Wildermuth","2023/24","Sheffield Shield","Queensland",13,390,781,49.9359795134443,32.5,51,1,1,0,2,91
+"JJ Bazley","2020/21","Sheffield Shield","Queensland",1,26,45,57.7777777777778,26,3,1,0,0,0,26
+"JJ Bazley","2021/22","Sheffield Shield","Queensland",9,124,201,61.6915422885572,17.7142857142857,14,2,2,0,1,64
+"JJ Bazley","2022/23","Sheffield Shield","Queensland",3,71,106,66.9811320754717,71,6,4,2,0,1,64
+"JJ Bazley","2023/24","Sheffield Shield","Queensland",2,4,18,22.2222222222222,2,1,0,0,0,0,4
+"JJ Peirson","2017/18","Sheffield Shield","Queensland",6,224,464,48.2758620689655,56,21,0,2,0,2,82
+"JJ Peirson","2018/19","Sheffield Shield","Queensland",9,159,395,40.253164556962,17.6666666666667,17,0,0,0,0,42
+"JJ Peirson","2019/20","Marsh Sheffield Shield","Queensland",12,277,560,49.4642857142857,27.7,37,1,2,0,1,51
+"JJ Peirson","2020/21","Sheffield Shield","Queensland",9,402,632,63.6075949367089,44.6666666666667,58,1,0,1,4,109
+"JJ Peirson","2021/22","Sheffield Shield","Queensland",12,397,680,58.3823529411765,36.0909090909091,48,4,1,2,1,132
+"JJ Peirson","2022/23","Sheffield Shield","Queensland",15,460,802,57.356608478803,35.3846153846154,57,0,2,2,1,123
+"JJ Peirson","2023/24","Sheffield Shield","Queensland",17,512,1006,50.8946322067594,30.1176470588235,58,3,0,1,3,106
+"JJS Sangha","2018/19","Sheffield Shield","New South Wales",7,214,416,51.4423076923077,30.5714285714286,23,1,0,1,0,117
+"JJS Sangha","2019/20","Marsh Sheffield Shield","New South Wales",2,16,22,72.7272727272727,16,2,0,1,0,0,11
+"JJS Sangha","2020/21","Sheffield Shield","New South Wales",7,191,362,52.7624309392265,27.2857142857143,29,0,0,1,0,103
+"JJS Sangha","2021/22","Sheffield Shield","New South Wales",13,504,1038,48.5549132947977,38.7692307692308,55,5,0,1,4,142
+"JJS Sangha","2022/23","Sheffield Shield","New South Wales",15,394,820,48.0487804878049,28.1428571428571,47,3,1,0,3,54
+"JJS Sangha","2023/24","Sheffield Shield","New South Wales",8,153,282,54.2553191489362,19.125,21,2,0,0,1,78
+"JL Curtis","2023/24","Sheffield Shield","Western Australia",1,0,1,0,0,0,0,0,0,0,0
+"JL Pattinson","2016/17","Sheffield Shield","Victoria",2,97,248,39.1129032258064,97,12,1,1,0,1,80
+"JL Pattinson","2018/19","Sheffield Shield","Victoria",4,66,205,32.1951219512195,16.5,9,0,0,0,0,30
+"JL Pattinson","2019/20","Marsh Sheffield Shield","Victoria",5,54,148,36.4864864864865,13.5,6,0,1,0,0,42
+"JL Pattinson","2020/21","Sheffield Shield","Victoria",4,54,224,24.1071428571429,13.5,6,0,0,0,0,16
+"JL Pattinson","2021/22","Sheffield Shield","Victoria",7,100,229,43.6681222707424,14.2857142857143,16,0,0,0,0,45
+"JM Bird","2017/18","Sheffield Shield","Tasmania",1,13,21,61.9047619047619,13,2,0,0,0,0,13
+"JM Bird","2018/19","Sheffield Shield","Tasmania",11,195,234,83.3333333333333,24.375,28,4,3,0,1,50
+"JM Bird","2019/20","Marsh Sheffield Shield","Tasmania",4,20,36,55.5555555555556,5,3,0,0,0,0,8
+"JM Bird","2020/21","Sheffield Shield","Tasmania",12,196,224,87.5,17.8181818181818,24,6,1,0,2,64
+"JM Bird","2021/22","Sheffield Shield","Tasmania",5,46,42,109.52380952381,9.2,4,2,0,0,0,26
+"JM Bird","2022/23","Sheffield Shield","Tasmania",12,120,190,63.1578947368421,10.9090909090909,15,0,1,0,0,30
+"JM Bird","2023/24","Sheffield Shield","New South Wales",13,117,197,59.3908629441624,9,8,3,0,0,0,34
+"JM Carder","2019/20","Marsh Sheffield Shield","Western Australia",7,178,379,46.9656992084433,25.4285714285714,24,0,0,0,0,44
+"JM Carder","2020/21","Sheffield Shield","Western Australia",2,61,131,46.5648854961832,Inf,4,0,2,0,1,57
+"JM Carder","2021/22","Sheffield Shield","South Australia",10,327,629,51.9872813990461,32.7,42,0,0,1,1,118
+"JM Carder","2022/23","Sheffield Shield","South Australia",12,180,410,43.9024390243902,15,30,0,0,0,1,54
+"JM Carder","2023/24","Sheffield Shield","South Australia",10,143,572,25,14.3,18,0,0,0,0,37
+"JM Holland","2016/17","Sheffield Shield","Victoria",2,17,13,130.769230769231,8.5,2,1,0,0,0,17
+"JM Holland","2018/19","Sheffield Shield","Victoria",6,52,85,61.1764705882353,13,7,1,2,0,0,29
+"JM Holland","2019/20","Marsh Sheffield Shield","Victoria",2,0,31,0,0,0,0,1,0,0,0
+"JM Holland","2020/21","Sheffield Shield","Victoria",3,13,16,81.25,4.33333333333333,3,0,0,0,0,13
+"JM Holland","2021/22","Sheffield Shield","Victoria",5,1,28,3.57142857142857,0.5,0,0,3,0,0,1
+"JM Holland","2022/23","Sheffield Shield","Victoria",10,125,159,78.6163522012579,20.8333333333333,18,1,4,0,1,55
+"JM Mennie","2016/17","Sheffield Shield","South Australia",2,41,71,57.7464788732394,41,6,0,1,0,0,36
+"JM Mennie","2017/18","Sheffield Shield","South Australia",8,101,262,38.5496183206107,14.4285714285714,12,1,1,0,0,38
+"JM Mennie","2018/19","Sheffield Shield","South Australia",8,107,202,52.970297029703,17.8333333333333,12,1,2,0,0,43
+"JM Mennie","2019/20","Marsh Sheffield Shield","South Australia",5,118,181,65.1933701657459,23.6,15,0,0,0,0,49
+"JP Faulkner","2017/18","Sheffield Shield","Tasmania",1,1,6,16.6666666666667,1,0,0,0,0,0,1
+"JP Inglis","2017/18","Sheffield Shield","Western Australia",6,150,257,58.3657587548638,30,17,2,1,0,1,86
+"JP Inglis","2018/19","Sheffield Shield","Western Australia",8,103,229,44.9781659388646,14.7142857142857,17,0,1,0,0,29
+"JP Inglis","2019/20","Marsh Sheffield Shield","Western Australia",7,101,202,50,14.4285714285714,7,2,0,0,1,58
+"JP Inglis","2020/21","Sheffield Shield","Western Australia",7,312,365,85.4794520547945,78,46,6,3,1,2,153
+"JP Inglis","2021/22","Sheffield Shield","Western Australia",2,41,47,87.2340425531915,20.5,3,1,0,0,0,28
+"JP Inglis","2022/23","Sheffield Shield","Western Australia",6,199,257,77.431906614786,33.1666666666667,24,0,0,1,0,116
+"JP Inglis","2023/24","Sheffield Shield","Western Australia",6,266,420,63.3333333333333,53.2,32,4,1,1,0,136
+"JR Doran","2017/18","Sheffield Shield","Tasmania",4,203,568,35.7394366197183,50.75,26,0,0,0,1,97
+"JR Doran","2018/19","Sheffield Shield","Tasmania",10,135,458,29.4759825327511,16.875,7,0,2,0,0,47
+"JR Doran","2019/20","Marsh Sheffield Shield","Tasmania",7,158,374,42.2459893048128,22.5714285714286,20,0,0,0,1,63
+"JR Doran","2020/21","Sheffield Shield","Tasmania",14,615,1532,40.1436031331593,43.9285714285714,68,1,0,2,3,123
+"JR Doran","2021/22","Sheffield Shield","Tasmania",8,199,481,41.3721413721414,24.875,27,1,0,0,2,72
+"JR Doran","2022/23","Sheffield Shield","Tasmania",16,402,822,48.9051094890511,26.8,44,3,1,0,2,85
+"JR Doran","2023/24","Sheffield Shield","Tasmania",14,479,839,57.0917759237187,34.2142857142857,68,2,0,1,1,118
+"JR Hazlewood","2019/20","Marsh Sheffield Shield","New South Wales",2,1,10,10,0.5,0,0,0,0,0,1
+"JR Hazlewood","2020/21","Sheffield Shield","New South Wales",4,3,23,13.0434782608696,1.5,0,0,2,0,0,3
+"JR Philippe","2017/18","Sheffield Shield","Western Australia",4,92,123,74.7967479674797,23,18,0,0,0,1,74
+"JR Philippe","2018/19","Sheffield Shield","Western Australia",8,273,453,60.2649006622517,39,32,2,1,0,2,76
+"JR Philippe","2019/20","Marsh Sheffield Shield","Western Australia",9,283,561,50.445632798574,31.4444444444444,38,1,0,0,3,65
+"JR Philippe","2021/22","Sheffield Shield","Western Australia",11,357,718,49.7214484679666,35.7,38,5,1,1,2,129
+"JR Philippe","2022/23","Sheffield Shield","Western Australia",11,140,332,42.1686746987952,14,18,1,1,0,0,30
+"JR Philippe","2023/24","Sheffield Shield","Western Australia",11,174,281,61.9217081850534,17.4,21,1,1,0,1,52
+"JS Buckingham","2021/22","Sheffield Shield","South Australia",1,0,10,0,NA,0,0,1,0,0,0
+"JS Buckingham","2022/23","Sheffield Shield","South Australia",7,25,66,37.8787878787879,6.25,4,0,3,0,0,17
+"JS Buckingham","2023/24","Sheffield Shield","South Australia",11,6,90,6.66666666666667,1.5,0,0,7,0,0,2
+"JS Lehmann","2016/17","Sheffield Shield","South Australia",2,15,32,46.875,7.5,1,0,0,0,0,14
+"JS Lehmann","2017/18","Sheffield Shield","South Australia",8,129,230,56.0869565217391,16.125,19,0,0,0,0,43
+"JS Lehmann","2018/19","Sheffield Shield","South Australia",10,148,398,37.1859296482412,16.4444444444444,16,0,1,0,1,61
+"JS Lehmann","2019/20","Marsh Sheffield Shield","South Australia",5,55,139,39.568345323741,11,3,0,0,0,0,25
+"JS Lehmann","2020/21","Sheffield Shield","South Australia",4,206,311,66.2379421221865,68.6666666666667,24,0,1,0,2,80
+"JS Lehmann","2021/22","Sheffield Shield","South Australia",3,106,106,100,35.3333333333333,16,0,0,0,1,94
+"JS Lehmann","2022/23","Sheffield Shield","South Australia",19,531,919,57.7801958650707,31.2352941176471,67,0,2,1,4,101
+"JS Lehmann","2023/24","Sheffield Shield","South Australia",20,428,672,63.6904761904762,21.4,57,0,0,1,3,115
+"JS Paris","2017/18","Sheffield Shield","Western Australia",2,37,182,20.3296703296703,37,3,0,1,0,0,23
+"JS Paris","2018/19","Sheffield Shield","Western Australia",5,58,203,28.5714285714286,11.6,5,0,0,0,0,26
+"JS Paris","2019/20","Marsh Sheffield Shield","Western Australia",4,134,265,50.5660377358491,33.5,20,2,0,0,1,93
+"JS Paris","2020/21","Sheffield Shield","Western Australia",2,52,100,52,26,7,0,0,0,0,48
+"JS Paris","2021/22","Sheffield Shield","Western Australia",9,127,335,37.910447761194,18.1428571428571,13,2,2,0,0,27
+"JS Paris","2022/23","Sheffield Shield","Western Australia",8,123,384,32.03125,20.5,10,1,2,0,0,31
+"JS Paris","2023/24","Sheffield Shield","Western Australia",15,220,588,37.4149659863946,18.3333333333333,23,2,3,0,0,40
+"JW Wells","2017/18","Sheffield Shield","Western Australia",2,19,54,35.1851851851852,9.5,3,0,0,0,0,13
+"K Brazell","2023/24","Sheffield Shield","South Australia",6,104,298,34.8993288590604,17.3333333333333,19,0,0,0,0,30
+"KJS Elliott","2023/24","Sheffield Shield","Tasmania",4,37,103,35.9223300970874,9.25,3,0,0,0,0,21
+"KR Patterson","2017/18","Sheffield Shield","New South Wales",7,154,367,41.9618528610354,25.6666666666667,18,0,1,0,1,72
+"KR Patterson","2018/19","Sheffield Shield","New South Wales",8,133,350,38,19,16,0,1,0,1,56
+"KR Patterson","2019/20","Marsh Sheffield Shield","New South Wales",5,130,287,45.2961672473868,32.5,16,0,1,0,1,54
+"KR Patterson","2020/21","Sheffield Shield","New South Wales",16,342,729,46.9135802469136,21.375,42,2,0,1,0,102
+"KR Patterson","2021/22","Sheffield Shield","New South Wales",9,253,498,50.8032128514056,28.1111111111111,38,1,0,1,0,112
+"KR Patterson","2022/23","Sheffield Shield","New South Wales",16,417,966,43.167701863354,29.7857142857143,36,2,2,1,2,122
+"KR Patterson","2023/24","Sheffield Shield","New South Wales",4,59,160,36.875,14.75,4,1,0,0,0,32
+"KR Smith","2018/19","Sheffield Shield","South Australia",2,25,94,26.5957446808511,12.5,3,0,0,0,0,24
+"KR Smith","2022/23","Sheffield Shield","South Australia",2,46,68,67.6470588235294,23,8,0,0,0,0,46
+"KR Smith","2023/24","Sheffield Shield","South Australia",6,101,165,61.2121212121212,16.8333333333333,21,0,0,0,0,33
+"KW Richardson","2017/18","Sheffield Shield","South Australia",2,19,30,63.3333333333333,9.5,2,1,0,0,0,16
+"KW Richardson","2020/21","Sheffield Shield","South Australia",1,3,25,12,3,0,0,0,0,0,3
+"L Guthrie","2017/18","Sheffield Shield","Western Australia",3,4,15,26.6666666666667,1.33333333333333,1,0,0,0,0,4
+"L Guthrie","2018/19","Sheffield Shield","Western Australia",5,25,63,39.6825396825397,12.5,3,0,3,0,0,14
+"L Guthrie","2019/20","Marsh Sheffield Shield","Western Australia",2,13,60,21.6666666666667,13,0,0,1,0,0,13
+"L Guthrie","2020/21","Sheffield Shield","Western Australia",1,8,16,50,8,2,0,0,0,0,8
+"L Guthrie","2022/23","Sheffield Shield","Queensland",3,27,61,44.2622950819672,13.5,3,0,1,0,0,16
+"L Guthrie","2023/24","Sheffield Shield","Queensland",4,27,96,28.125,9,4,0,1,0,0,9
+"L Haskett","2023/24","Sheffield Shield","Western Australia",7,31,98,31.6326530612245,7.75,2,0,3,0,0,8
+"L Neil-Smith","2019/20","Marsh Sheffield Shield","Tasmania",5,62,199,31.1557788944724,15.5,3,0,1,0,0,37
+"L Neil-Smith","2020/21","Sheffield Shield","Tasmania",1,13,67,19.4029850746269,13,1,0,0,0,0,13
+"L Neil-Smith","2021/22","Sheffield Shield","Tasmania",4,169,456,37.0614035087719,56.3333333333333,21,2,1,0,2,71
+"L Neil-Smith","2022/23","Sheffield Shield","Tasmania",3,30,100,30,15,4,0,1,0,0,20
+"L Neil-Smith","2023/24","Sheffield Shield","Tasmania",7,52,246,21.1382113821138,7.42857142857143,7,1,0,0,0,23
+"L Pope","2018/19","Sheffield Shield","South Australia",3,0,15,0,0,0,0,0,0,0,0
+"L Pope","2019/20","Marsh Sheffield Shield","South Australia",2,3,22,13.6363636363636,3,0,0,1,0,0,3
+"L Pope","2020/21","Sheffield Shield","South Australia",6,5,48,10.4166666666667,1.66666666666667,0,0,3,0,0,5
+"L Pope","2021/22","Sheffield Shield","South Australia",6,22,105,20.952380952381,5.5,2,0,2,0,0,12
+"L Scott","2020/21","Sheffield Shield","South Australia",12,245,705,34.7517730496454,24.5,27,5,2,0,1,61
+"L Scott","2021/22","Sheffield Shield","South Australia",6,125,288,43.4027777777778,25,10,1,1,0,0,42
+"L Scott","2022/23","Sheffield Shield","South Australia",6,80,156,51.2820512820513,13.3333333333333,9,1,0,0,0,40
+"L Scott","2023/24","Sheffield Shield","South Australia",4,110,259,42.4710424710425,27.5,15,1,0,0,1,50
+"LC Hatcher","2019/20","Marsh Sheffield Shield","New South Wales",3,27,77,35.0649350649351,9,5,0,0,0,0,27
+"LC Hatcher","2020/21","Sheffield Shield","New South Wales",1,1,2,50,Inf,0,0,1,0,0,1
+"LC Hatcher","2021/22","Sheffield Shield","New South Wales",2,24,48,50,12,4,0,0,0,0,24
+"LC Hatcher","2022/23","Sheffield Shield","New South Wales",4,8,26,30.7692307692308,2.66666666666667,0,0,1,0,0,4
+"LC Hatcher","2023/24","Sheffield Shield","New South Wales",4,7,31,22.5806451612903,7,1,0,3,0,0,5
+"LD Hearne","2020/21","Sheffield Shield","New South Wales",2,54,106,50.9433962264151,27,9,0,0,0,1,50
+"LD Hearne","2021/22","Sheffield Shield","New South Wales",6,143,296,48.3108108108108,23.8333333333333,17,0,0,0,1,65
+"LD Pfeffer","2017/18","Sheffield Shield","Queensland",2,32,62,51.6129032258064,16,6,0,0,0,0,17
+"LD Pfeffer","2019/20","Marsh Sheffield Shield","Queensland",2,78,194,40.2061855670103,39,13,0,0,0,1,50
+"LJ Robins","2018/19","Sheffield Shield","South Australia",4,21,33,63.6363636363636,10.5,3,1,2,0,0,12
+"LJ Robins","2019/20","Marsh Sheffield Shield","South Australia",2,1,20,5,0.5,0,0,0,0,0,1
+"LR Morris","2020/21","Sheffield Shield","Western Australia",3,5,27,18.5185185185185,5,0,0,2,0,0,4
+"LR Morris","2021/22","Sheffield Shield","Western Australia",5,23,56,41.0714285714286,7.66666666666667,4,0,2,0,0,14
+"LR Morris","2022/23","Sheffield Shield","Western Australia",5,2,45,4.44444444444444,0.666666666666667,0,0,2,0,0,1
+"LR Morris","2023/24","Sheffield Shield","Western Australia",3,0,9,0,0,0,0,1,0,0,0
+"LW Feldman","2017/18","Sheffield Shield","Queensland",4,26,57,45.6140350877193,26,2,1,3,0,0,11
+"LW Feldman","2018/19","Sheffield Shield","Queensland",8,57,107,53.2710280373832,9.5,5,2,2,0,0,13
+"M Bryant","2019/20","Marsh Sheffield Shield","Queensland",2,5,18,27.7777777777778,2.5,1,0,0,0,0,5
+"M Bryant","2022/23","Sheffield Shield","Queensland",8,291,430,67.6744186046512,36.375,46,0,0,0,1,84
+"M Bryant","2023/24","Sheffield Shield","Queensland",4,54,95,56.8421052631579,13.5,9,0,0,0,0,33
+"M Gilkes","2019/20","Marsh Sheffield Shield","New South Wales",5,135,300,45,27,14,5,0,0,1,83
+"M Gilkes","2020/21","Sheffield Shield","New South Wales",4,175,378,46.2962962962963,43.75,21,0,0,0,2,66
+"M Gilkes","2021/22","Sheffield Shield","New South Wales",10,271,569,47.6274165202109,27.1,31,1,0,0,2,64
+"M Gilkes","2022/23","Sheffield Shield","New South Wales",14,329,720,45.6944444444444,23.5,40,3,0,0,3,94
+"M Gilkes","2023/24","Sheffield Shield","New South Wales",17,350,803,43.5865504358655,20.5882352941176,32,0,0,0,4,57
+"M Kelly","2017/18","Sheffield Shield","Western Australia",1,1,3,33.3333333333333,1,0,0,0,0,0,1
+"M Kelly","2018/19","Sheffield Shield","Western Australia",6,69,158,43.6708860759494,13.8,7,0,1,0,0,25
+"M Kelly","2019/20","Marsh Sheffield Shield","Western Australia",9,154,453,33.9955849889625,19.25,23,0,1,0,0,46
+"M Kelly","2020/21","Sheffield Shield","Western Australia",4,115,188,61.1702127659574,28.75,11,8,0,0,1,89
+"M Kelly","2021/22","Sheffield Shield","Western Australia",6,79,195,40.5128205128205,19.75,9,1,2,0,0,41
+"M Kelly","2022/23","Sheffield Shield","Western Australia",9,99,228,43.4210526315789,14.1428571428571,12,1,2,0,0,47
+"M Kelly","2023/24","Sheffield Shield","Western Australia",2,14,35,40,14,2,0,1,0,0,14
+"M Labuschagne","2017/18","Sheffield Shield","Queensland",8,228,506,45.0592885375494,32.5714285714286,25,0,1,0,2,88
+"M Labuschagne","2018/19","Sheffield Shield","Queensland",7,170,310,54.8387096774194,24.2857142857143,16,0,0,0,1,59
+"M Labuschagne","2019/20","Marsh Sheffield Shield","Queensland",8,286,590,48.4745762711864,40.8571428571429,38,0,1,0,3,72
+"M Labuschagne","2020/21","Sheffield Shield","Queensland",10,821,1408,58.3096590909091,82.1,91,2,0,4,2,192
+"M Labuschagne","2021/22","Sheffield Shield","Queensland",9,311,689,45.1378809869376,38.875,31,0,1,1,0,110
+"M Labuschagne","2022/23","Sheffield Shield","Queensland",5,158,370,42.7027027027027,31.6,22,1,0,1,0,127
+"M Labuschagne","2023/24","Sheffield Shield","Queensland",4,107,289,37.0242214532872,26.75,13,1,0,0,0,45
+"M Perry","2020/21","Sheffield Shield","Victoria",3,50,121,41.3223140495868,16.6666666666667,7,0,0,0,0,35
+"M Perry","2021/22","Sheffield Shield","Victoria",10,136,320,42.5,17,20,0,2,0,1,74
+"M Perry","2022/23","Sheffield Shield","Victoria",14,311,761,40.8672798948752,28.2727272727273,38,1,3,0,1,75
+"M Perry","2023/24","Sheffield Shield","Victoria",17,276,779,35.4300385109114,18.4,32,1,2,0,0,43
+"M Wright","2019/20","Marsh Sheffield Shield","Tasmania",2,28,122,22.9508196721311,14,3,0,0,0,0,20
+"M Wright","2020/21","Sheffield Shield","Tasmania",4,68,232,29.3103448275862,17,7,0,0,0,0,33
+"M Wright","2021/22","Sheffield Shield","Tasmania",4,182,423,43.0260047281324,91,18,1,2,0,2,78
+"M Wright","2022/23","Sheffield Shield","Tasmania",4,131,294,44.5578231292517,32.75,16,3,0,0,1,59
+"MA Starc","2017/18","Sheffield Shield","New South Wales",1,23,51,45.0980392156863,23,1,0,0,0,0,23
+"MA Starc","2019/20","Marsh Sheffield Shield","New South Wales",2,8,24,33.3333333333333,4,0,0,0,0,0,6
+"MA Starc","2020/21","Sheffield Shield","New South Wales",12,268,532,50.3759398496241,29.7777777777778,29,3,3,0,2,86
+"MC Henriques","2017/18","Sheffield Shield","New South Wales",7,192,324,59.2592592592593,38.4,21,1,2,1,0,131
+"MC Henriques","2018/19","Sheffield Shield","New South Wales",7,219,370,59.1891891891892,31.2857142857143,23,0,0,0,1,78
+"MC Henriques","2019/20","Marsh Sheffield Shield","New South Wales",8,263,440,59.7727272727273,37.5714285714286,26,5,1,1,0,124
+"MC Henriques","2020/21","Sheffield Shield","New South Wales",10,492,886,55.5304740406321,61.5,54,3,2,2,2,167
+"MC Henriques","2021/22","Sheffield Shield","New South Wales",3,36,78,46.1538461538462,12,5,0,0,0,0,23
+"MC Henriques","2022/23","Sheffield Shield","New South Wales",19,504,1125,44.8,31.5,42,6,3,0,2,99
+"MC Henriques","2023/24","Sheffield Shield","New South Wales",17,432,893,48.3762597984323,27,50,3,1,0,4,95
+"MG Neser","2017/18","Sheffield Shield","Queensland",5,142,254,55.9055118110236,28.4,19,1,0,0,1,58
+"MG Neser","2018/19","Sheffield Shield","Queensland",7,162,261,62.0689655172414,40.5,22,2,3,0,1,75
+"MG Neser","2019/20","Marsh Sheffield Shield","Queensland",7,104,199,52.2613065326633,17.3333333333333,15,0,1,0,0,37
+"MG Neser","2020/21","Sheffield Shield","Queensland",5,161,277,58.1227436823105,32.2,24,1,0,1,0,121
+"MG Neser","2021/22","Sheffield Shield","Queensland",4,42,95,44.2105263157895,14,5,0,1,0,0,24
+"MG Neser","2022/23","Sheffield Shield","Queensland",11,357,633,56.3981042654028,35.7,41,5,1,1,1,136
+"MG Neser","2023/24","Sheffield Shield","Queensland",11,368,630,58.4126984126984,36.8,39,5,1,1,2,140
+"MJ Owen","2023/24","Sheffield Shield","Tasmania",10,241,257,93.7743190661479,26.7777777777778,34,6,1,0,2,74
+"MJ Swepson","2017/18","Sheffield Shield","Queensland",5,105,158,66.4556962025316,21,14,1,0,0,0,35
+"MJ Swepson","2018/19","Sheffield Shield","Queensland",6,51,78,65.3846153846154,8.5,7,0,0,0,0,15
+"MJ Swepson","2019/20","Marsh Sheffield Shield","Queensland",5,54,65,83.0769230769231,18,7,0,2,0,0,20
+"MJ Swepson","2020/21","Sheffield Shield","Queensland",5,61,60,101.666666666667,20.3333333333333,12,0,2,0,0,25
+"MJ Swepson","2021/22","Sheffield Shield","Queensland",3,14,28,50,7,1,0,1,0,0,8
+"MJ Swepson","2022/23","Sheffield Shield","Queensland",4,54,73,73.972602739726,27,4,0,2,0,0,28
+"MJ Swepson","2023/24","Sheffield Shield","Queensland",13,59,142,41.5492957746479,6.55555555555556,5,0,4,0,0,16
+"MP Kuhnemann","2020/21","Sheffield Shield","Queensland",2,13,36,36.1111111111111,13,1,0,1,0,0,10
+"MP Kuhnemann","2021/22","Sheffield Shield","Queensland",7,74,147,50.3401360544218,24.6666666666667,8,1,4,0,0,24
+"MP Kuhnemann","2022/23","Sheffield Shield","Queensland",3,9,14,64.2857142857143,4.5,0,0,1,0,0,7
+"MP Stoinis","2017/18","Sheffield Shield","Western Australia",2,15,31,48.3870967741936,7.5,2,0,0,0,0,13
+"MP Stoinis","2019/20","Marsh Sheffield Shield","Western Australia",8,178,379,46.9656992084433,25.4285714285714,23,0,1,0,2,60
+"MP Stoinis","2022/23","Sheffield Shield","Western Australia",3,93,140,66.4285714285714,31,12,2,0,0,1,56
+"MR Marsh","2017/18","Sheffield Shield","Western Australia",2,22,32,68.75,11,2,1,0,0,0,14
+"MR Marsh","2018/19","Sheffield Shield","Western Australia",8,248,392,63.265306122449,31,35,3,0,1,0,105
+"MR Marsh","2020/21","Sheffield Shield","Western Australia",2,46,98,46.9387755102041,23,5,0,0,0,0,24
+"MR Marsh","2022/23","Sheffield Shield","Western Australia",1,108,111,97.2972972972973,Inf,9,4,1,1,0,108
+"MS Harris","2016/17","Sheffield Shield","Victoria",2,141,212,66.5094339622642,70.5,12,2,0,1,0,120
+"MS Harris","2017/18","Sheffield Shield","Victoria",2,114,150,76,57,18,0,0,0,1,86
+"MS Harris","2018/19","Sheffield Shield","Victoria",10,641,958,66.9102296450939,64.1,86,2,0,1,5,174
+"MS Harris","2019/20","Marsh Sheffield Shield","Victoria",7,346,668,51.7964071856287,57.6666666666667,41,4,1,1,3,116
+"MS Harris","2020/21","Sheffield Shield","Victoria",7,492,1000,49.2,98.4,57,2,2,2,0,239
+"MS Harris","2021/22","Sheffield Shield","Victoria",8,322,830,38.7951807228916,40.25,28,3,0,1,2,137
+"MS Harris","2022/23","Sheffield Shield","Victoria",17,601,1230,48.8617886178862,37.5625,82,3,1,2,3,111
+"MS Harris","2023/24","Sheffield Shield","Victoria",16,476,1137,41.8645558487247,29.75,54,3,0,1,2,164
+"MS Wade","2017/18","Sheffield Shield","Tasmania",4,360,640,56.25,120,40,5,1,3,0,139
+"MS Wade","2018/19","Sheffield Shield","Tasmania",14,746,1266,58.9257503949447,62.1666666666667,85,12,2,2,5,137
+"MS Wade","2019/20","Marsh Sheffield Shield","Tasmania",2,60,141,42.5531914893617,30,8,1,0,0,0,40
+"MS Wade","2020/21","Sheffield Shield","Tasmania",8,403,882,45.6916099773243,57.5714285714286,46,4,1,0,5,90
+"MS Wade","2021/22","Sheffield Shield","Tasmania",2,111,216,51.3888888888889,55.5,14,1,0,0,2,61
+"MS Wade","2022/23","Sheffield Shield","Tasmania",6,297,396,75,49.5,38,2,0,1,0,146
+"MS Wade","2023/24","Sheffield Shield","Tasmania",12,287,613,46.8189233278956,26.0909090909091,28,4,1,1,1,105
+"MT Renshaw","2017/18","Sheffield Shield","Queensland",8,314,517,60.7350096711799,52.3333333333333,32,4,2,1,2,112
+"MT Renshaw","2018/19","Sheffield Shield","Queensland",8,202,401,50.3740648379052,25.25,28,0,0,0,1,73
+"MT Renshaw","2019/20","Marsh Sheffield Shield","Queensland",6,125,332,37.6506024096386,20.8333333333333,9,0,0,0,0,28
+"MT Renshaw","2020/21","Sheffield Shield","Queensland",10,500,1026,48.7329434697856,62.5,53,6,2,2,0,168
+"MT Renshaw","2021/22","Sheffield Shield","Queensland",12,215,612,35.1307189542484,17.9166666666667,21,2,0,0,0,43
+"MT Renshaw","2022/23","Sheffield Shield","Queensland",8,310,731,42.4076607387141,51.6666666666667,22,5,2,1,1,200
+"MT Renshaw","2023/24","Sheffield Shield","Queensland",15,374,839,44.5768772348033,24.9333333333333,35,4,0,1,2,135
+"MT Steketee","2018/19","Sheffield Shield","Queensland",8,93,201,46.2686567164179,13.2857142857143,12,1,1,0,0,41
+"MT Steketee","2019/20","Marsh Sheffield Shield","Queensland",7,143,222,64.4144144144144,23.8333333333333,17,1,1,0,1,52
+"MT Steketee","2020/21","Sheffield Shield","Queensland",6,68,107,63.5514018691589,11.3333333333333,5,3,0,0,0,27
+"MT Steketee","2021/22","Sheffield Shield","Queensland",9,62,81,76.5432098765432,8.85714285714286,7,1,2,0,0,19
+"MT Steketee","2022/23","Sheffield Shield","Queensland",9,128,182,70.3296703296703,16,15,0,1,0,0,43
+"MT Steketee","2023/24","Sheffield Shield","Queensland",13,144,194,74.2268041237113,20.5714285714286,18,2,6,0,0,37
+"MW Edwards","2017/18","Sheffield Shield","New South Wales",2,12,19,63.1578947368421,6,3,0,0,0,0,8
+"MW Edwards","2022/23","Sheffield Shield","New South Wales",4,25,50,50,8.33333333333333,2,0,1,0,0,12
+"MW Short","2018/19","Sheffield Shield","Victoria",7,277,599,46.2437395659432,55.4,27,4,2,0,3,64
+"MW Short","2019/20","Marsh Sheffield Shield","Victoria",9,323,593,54.468802698145,35.8888888888889,44,0,0,0,2,98
+"MW Short","2020/21","Sheffield Shield","Victoria",4,64,193,33.160621761658,16,7,0,0,0,0,30
+"MW Short","2021/22","Sheffield Shield","Victoria",13,306,670,45.6716417910448,27.8181818181818,37,3,2,0,1,90
+"MW Short","2022/23","Sheffield Shield","Victoria",16,623,967,64.4260599793175,41.5333333333333,74,2,1,2,3,119
+"MW Short","2023/24","Sheffield Shield","Victoria",9,203,355,57.1830985915493,22.5555555555556,16,1,0,1,1,100
+"N McAndrew","2021/22","Sheffield Shield","South Australia",9,173,457,37.855579868709,24.7142857142857,16,3,2,0,1,65
+"N McAndrew","2022/23","Sheffield Shield","South Australia",13,289,653,44.2572741194487,48.1666666666667,30,4,7,0,1,56
+"N McAndrew","2023/24","Sheffield Shield","South Australia",17,221,464,47.6293103448276,15.7857142857143,28,3,3,0,1,50
+"N Radhakrishnan","2021/22","Sheffield Shield","Tasmania",2,17,82,20.7317073170732,8.5,2,0,0,0,0,13
+"NA McSweeney","2018/19","Sheffield Shield","Queensland",4,57,288,19.7916666666667,14.25,5,0,0,0,0,35
+"NA McSweeney","2019/20","Marsh Sheffield Shield","Queensland",6,69,230,30,13.8,4,0,1,0,0,24
+"NA McSweeney","2021/22","Sheffield Shield","South Australia",4,160,350,45.7142857142857,53.3333333333333,19,0,1,0,1,99
+"NA McSweeney","2022/23","Sheffield Shield","South Australia",16,492,1099,44.7679708826206,35.1428571428571,54,1,2,2,2,118
+"NA McSweeney","2023/24","Sheffield Shield","South Australia",20,762,1861,40.9457281031703,40.1052631578947,73,7,1,3,3,117
+"NCR Larkin","2017/18","Sheffield Shield","New South Wales",3,117,249,46.9879518072289,39,12,0,0,0,1,85
+"NCR Larkin","2018/19","Sheffield Shield","New South Wales",8,180,443,40.6320541760722,22.5,20,0,0,0,1,67
+"NCR Larkin","2019/20","Marsh Sheffield Shield","New South Wales",10,267,534,50,26.7,35,1,0,0,1,91
+"NCR Larkin","2020/21","Sheffield Shield","New South Wales",12,329,743,44.2799461641992,29.9090909090909,39,1,1,1,0,161
+"NJ Maddinson","2017/18","Sheffield Shield","New South Wales",5,46,96,47.9166666666667,9.2,9,0,0,0,0,24
+"NJ Maddinson","2018/19","Sheffield Shield","Victoria",4,334,503,66.4015904572565,83.5,37,2,0,2,1,136
+"NJ Maddinson","2019/20","Marsh Sheffield Shield","Victoria",7,630,972,64.8148148148148,105,62,16,1,2,3,224
+"NJ Maddinson","2020/21","Sheffield Shield","Victoria",7,238,323,73.6842105263158,34,20,8,0,0,1,77
+"NJ Maddinson","2021/22","Sheffield Shield","Victoria",13,545,955,57.0680628272251,54.5,58,8,3,2,2,128
+"NJ Maddinson","2022/23","Sheffield Shield","Victoria",10,163,240,67.9166666666667,16.3,18,7,0,0,0,40
+"NJ Maddinson","2023/24","Sheffield Shield","Victoria",7,361,542,66.6051660516605,51.5714285714286,36,9,0,3,0,109
+"NL Bertus","2018/19","Sheffield Shield","New South Wales",2,33,94,35.1063829787234,33,2,0,1,0,0,17
+"NL Bertus","2019/20","Marsh Sheffield Shield","New South Wales",4,70,162,43.2098765432099,17.5,10,0,0,0,1,53
+"NM Lyon","2017/18","Sheffield Shield","New South Wales",4,17,45,37.7777777777778,5.66666666666667,1,0,1,0,0,6
+"NM Lyon","2019/20","Marsh Sheffield Shield","New South Wales",8,108,180,60,18,10,2,2,0,0,31
+"NM Lyon","2020/21","Sheffield Shield","New South Wales",11,68,151,45.0331125827815,6.8,7,1,1,0,0,21
+"NM Lyon","2021/22","Sheffield Shield","New South Wales",4,22,81,27.1604938271605,5.5,2,0,0,0,0,15
+"NM Lyon","2022/23","Sheffield Shield","New South Wales",5,8,27,29.6296296296296,2.66666666666667,1,0,2,0,0,6
+"NM Lyon","2023/24","Sheffield Shield","New South Wales",7,55,215,25.5813953488372,11,5,0,2,0,0,17
+"NP Winter","2017/18","Sheffield Shield","South Australia",4,30,90,33.3333333333333,15,5,0,2,0,0,15
+"NP Winter","2018/19","Sheffield Shield","South Australia",9,145,395,36.7088607594937,18.125,14,0,1,0,1,53
+"NP Winter","2019/20","Marsh Sheffield Shield","South Australia",7,107,382,28.0104712041885,21.4,14,0,2,0,0,42
+"NP Winter","2020/21","Sheffield Shield","South Australia",2,9,82,10.9756097560976,4.5,0,0,0,0,0,5
+"NP Winter","2021/22","Sheffield Shield","South Australia",1,4,13,30.7692307692308,4,1,0,0,0,0,4
+"NT Ellis","2019/20","Marsh Sheffield Shield","Tasmania",2,27,68,39.7058823529412,13.5,2,0,0,0,0,20
+"NT Ellis","2020/21","Sheffield Shield","Tasmania",8,137,371,36.9272237196765,17.125,19,1,0,0,0,41
+"NT Ellis","2022/23","Sheffield Shield","Tasmania",4,41,123,33.3333333333333,10.25,6,0,0,0,0,20
+"O Davies","2022/23","Sheffield Shield","New South Wales",4,84,98,85.7142857142857,21,9,0,0,0,0,31
+"O Davies","2023/24","Sheffield Shield","New South Wales",12,670,827,81.0157194679565,67,85,5,2,3,3,131
+"PJ Cummins","2017/18","Sheffield Shield","New South Wales",1,9,34,26.4705882352941,9,0,0,0,0,0,9
+"PM Nevill","2017/18","Sheffield Shield","New South Wales",5,62,196,31.6326530612245,12.4,7,0,0,0,0,20
+"PM Nevill","2018/19","Sheffield Shield","New South Wales",5,93,270,34.4444444444444,23.25,7,0,1,0,1,72
+"PM Nevill","2019/20","Marsh Sheffield Shield","New South Wales",10,250,569,43.9367311072056,27.7777777777778,21,0,1,0,1,53
+"PM Nevill","2020/21","Sheffield Shield","New South Wales",10,246,551,44.6460980036298,30.75,32,0,2,0,3,62
+"PM Nevill","2021/22","Sheffield Shield","New South Wales",8,138,408,33.8235294117647,19.7142857142857,14,0,1,0,0,34
+"PM Siddle","2017/18","Sheffield Shield","Victoria",1,3,9,33.3333333333333,3,0,0,0,0,0,3
+"PM Siddle","2018/19","Sheffield Shield","Victoria",6,62,118,52.5423728813559,15.5,8,0,2,0,0,42
+"PM Siddle","2019/20","Marsh Sheffield Shield","Victoria",8,93,147,63.265306122449,13.2857142857143,9,3,1,0,0,40
+"PM Siddle","2020/21","Sheffield Shield","Tasmania",10,146,311,46.9453376205788,24.3333333333333,22,0,4,0,0,46
+"PM Siddle","2021/22","Sheffield Shield","Tasmania",7,69,103,66.9902912621359,17.25,8,0,3,0,0,31
+"PM Siddle","2022/23","Sheffield Shield","Tasmania",11,72,162,44.4444444444444,10.2857142857143,9,0,4,0,0,20
+"PM Siddle","2023/24","Sheffield Shield","Victoria",7,30,54,55.5555555555556,6,2,0,2,0,0,19
+"PR George","2018/19","Sheffield Shield","Queensland",2,3,18,16.6666666666667,3,0,0,1,0,0,3
+"PSP Handscomb","2017/18","Sheffield Shield","Victoria",2,13,54,24.0740740740741,6.5,0,0,0,0,0,13
+"PSP Handscomb","2018/19","Sheffield Shield","Victoria",4,161,234,68.8034188034188,40.25,25,1,0,0,2,81
+"PSP Handscomb","2019/20","Marsh Sheffield Shield","Victoria",10,230,427,53.864168618267,23,23,1,0,0,1,92
+"PSP Handscomb","2020/21","Sheffield Shield","Victoria",7,214,366,58.4699453551913,35.6666666666667,26,1,1,0,2,73
+"PSP Handscomb","2021/22","Sheffield Shield","Victoria",15,697,1505,46.312292358804,49.7857142857143,79,0,1,2,3,148
+"PSP Handscomb","2022/23","Sheffield Shield","Victoria",10,634,961,65.9729448491155,70.4444444444444,61,8,1,2,2,281
+"PSP Handscomb","2023/24","Sheffield Shield","Victoria",18,593,1325,44.7547169811321,32.9444444444444,54,2,0,1,4,114
+"R Hackney","2021/22","Sheffield Shield","New South Wales",6,60,256,23.4375,10,7,0,0,0,0,38
+"R Hackney","2022/23","Sheffield Shield","New South Wales",3,191,360,53.0555555555556,63.6666666666667,22,1,0,1,1,102
+"R Hackney","2023/24","Sheffield Shield","New South Wales",13,179,468,38.2478632478633,14.9166666666667,22,0,1,0,0,44
+"R Hadley","2023/24","Sheffield Shield","New South Wales",1,15,32,46.875,Inf,1,0,1,0,0,15
+"RJ Quiney","2016/17","Sheffield Shield","Victoria",2,49,93,52.6881720430108,24.5,6,0,0,0,0,48
+"RP Kellepotha","2022/23","Sheffield Shield","Victoria",1,5,15,33.3333333333333,Inf,0,0,1,0,0,5
+"RP Meredith","2017/18","Sheffield Shield","Tasmania",1,0,2,0,NA,0,0,1,0,0,0
+"RP Meredith","2018/19","Sheffield Shield","Tasmania",8,12,68,17.6470588235294,12,1,0,7,0,0,4
+"RP Meredith","2019/20","Marsh Sheffield Shield","Tasmania",4,7,48,14.5833333333333,3.5,1,0,2,0,0,7
+"RP Meredith","2020/21","Sheffield Shield","Tasmania",4,40,76,52.6315789473684,40,7,0,3,0,0,15
+"RP Meredith","2022/23","Sheffield Shield","Tasmania",8,39,61,63.9344262295082,9.75,6,1,4,0,0,24
+"RP Meredith","2023/24","Sheffield Shield","Tasmania",5,55,130,42.3076923076923,55,4,2,4,0,0,44
+"RR Ayre","2021/22","Sheffield Shield","New South Wales",1,1,9,11.1111111111111,Inf,0,0,1,0,0,1
+"S Fanning","2022/23","Sheffield Shield","Western Australia",7,137,474,28.9029535864979,19.5714285714286,17,0,0,0,1,61
+"S Fanning","2023/24","Sheffield Shield","Western Australia",3,14,53,26.4150943396226,4.66666666666667,2,0,0,0,0,10
+"S Konstas","2023/24","Sheffield Shield","New South Wales",6,155,375,41.3333333333333,25.8333333333333,21,0,0,0,1,57
+"S Milenko","2017/18","Sheffield Shield","Tasmania",2,128,140,91.4285714285714,64,17,3,0,0,2,78
+"S Milenko","2018/19","Sheffield Shield","Tasmania",4,54,119,45.3781512605042,13.5,7,0,0,0,0,22
+"S Milenko","2019/20","Marsh Sheffield Shield","Tasmania",5,137,201,68.1592039800995,27.4,13,4,0,1,0,100
+"SA Abbott","2017/18","Sheffield Shield","New South Wales",1,15,31,48.3870967741936,15,2,0,0,0,0,15
+"SA Abbott","2018/19","Sheffield Shield","New South Wales",6,129,178,72.4719101123596,25.8,14,3,1,0,0,47
+"SA Abbott","2019/20","Marsh Sheffield Shield","New South Wales",4,91,137,66.4233576642336,22.75,11,0,0,0,0,35
+"SA Abbott","2020/21","Sheffield Shield","New South Wales",11,555,828,67.0289855072464,69.375,47,21,3,1,5,102
+"SA Abbott","2021/22","Sheffield Shield","New South Wales",4,42,133,31.5789473684211,10.5,1,0,0,0,0,16
+"SA Abbott","2022/23","Sheffield Shield","New South Wales",10,215,332,64.7590361445783,21.5,19,4,0,0,2,62
+"SB Harper","2019/20","Marsh Sheffield Shield","Victoria",7,225,434,51.8433179723502,45,30,2,2,0,2,72
+"SB Harper","2020/21","Sheffield Shield","Victoria",1,106,167,63.4730538922156,Inf,14,0,1,1,0,106
+"SB Harper","2021/22","Sheffield Shield","Victoria",13,208,620,33.5483870967742,18.9090909090909,24,2,2,0,1,93
+"SB Harper","2022/23","Sheffield Shield","Victoria",17,397,802,49.501246882793,28.3571428571429,34,3,3,1,1,132
+"SB Harper","2023/24","Sheffield Shield","Victoria",18,480,621,77.2946859903382,26.6666666666667,50,15,0,1,0,151
+"SD Heazlett","2017/18","Sheffield Shield","Queensland",5,150,305,49.1803278688525,37.5,15,2,1,0,1,59
+"SD Heazlett","2018/19","Sheffield Shield","Queensland",8,152,352,43.1818181818182,19,15,5,0,0,1,68
+"SD Heazlett","2019/20","Marsh Sheffield Shield","Queensland",7,115,304,37.8289473684211,16.4285714285714,16,0,0,0,0,34
+"SD Heazlett","2022/23","Sheffield Shield","Queensland",3,43,109,39.4495412844037,14.3333333333333,8,0,0,0,0,26
+"SE Gotch","2016/17","Sheffield Shield","Victoria",2,100,346,28.9017341040462,50,7,1,0,0,1,52
+"SE Gotch","2017/18","Sheffield Shield","Victoria",2,1,21,4.76190476190476,1,0,0,1,0,0,1
+"SE Gotch","2018/19","Sheffield Shield","Victoria",9,319,702,45.4415954415954,53.1666666666667,41,2,3,0,3,93
+"SE Gotch","2019/20","Marsh Sheffield Shield","Victoria",3,213,439,48.5193621867882,213,19,3,2,2,0,102
+"SE Gotch","2020/21","Sheffield Shield","Victoria",4,17,114,14.9122807017544,4.25,1,0,0,0,0,7
+"SE Marsh","2017/18","Sheffield Shield","Western Australia",2,68,138,49.2753623188406,34,11,0,0,0,0,39
+"SE Marsh","2018/19","Sheffield Shield","Western Australia",2,184,308,59.7402597402597,184,26,2,1,1,0,163
+"SE Marsh","2019/20","Marsh Sheffield Shield","Western Australia",11,437,944,46.2923728813559,43.7,63,0,1,1,2,214
+"SE Marsh","2020/21","Sheffield Shield","Western Australia",9,490,849,57.7149587750294,61.25,54,8,1,2,3,115
+"SE Marsh","2021/22","Sheffield Shield","Western Australia",10,356,768,46.3541666666667,39.5555555555556,45,2,1,1,2,118
+"SE Marsh","2022/23","Sheffield Shield","Western Australia",2,17,53,32.0754716981132,8.5,2,0,0,0,0,16
+"SH Johnson","2022/23","Sheffield Shield","South Australia",4,8,26,30.7692307692308,4,1,0,2,0,0,6
+"SH Johnson","2023/24","Sheffield Shield","South Australia",2,17,35,48.5714285714286,8.5,4,0,0,0,0,17
+"SJ Truloff","2017/18","Sheffield Shield","Queensland",2,23,39,58.974358974359,11.5,4,0,0,0,0,13
+"SJ Truloff","2018/19","Sheffield Shield","Queensland",2,11,23,47.8260869565217,5.5,1,0,0,0,0,11
+"SJ Truloff","2021/22","Sheffield Shield","Queensland",6,114,305,37.3770491803279,19,15,0,0,0,0,37
+"SJ Truloff","2022/23","Sheffield Shield","Queensland",5,30,81,37.037037037037,6,4,0,0,0,0,15
+"SL Kerber","2020/21","Sheffield Shield","South Australia",2,88,177,49.7175141242938,44,12,0,0,0,1,55
+"SL Kerber","2021/22","Sheffield Shield","South Australia",1,11,16,68.75,11,2,0,0,0,0,11
+"SL Rainbird","2017/18","Sheffield Shield","Tasmania",3,105,162,64.8148148148148,35,14,2,0,0,1,57
+"SL Rainbird","2018/19","Sheffield Shield","Tasmania",3,59,92,64.1304347826087,19.6666666666667,8,0,0,0,1,59
+"SL Rainbird","2019/20","Marsh Sheffield Shield","Tasmania",6,12,82,14.6341463414634,3,1,0,2,0,0,8
+"SL Rainbird","2020/21","Sheffield Shield","Tasmania",3,17,23,73.9130434782609,8.5,2,0,1,0,0,7
+"SL Rainbird","2021/22","Sheffield Shield","Tasmania",3,12,46,26.0869565217391,4,1,0,0,0,0,12
+"SL Rainbird","2022/23","Sheffield Shield","Tasmania",1,14,27,51.8518518518519,14,2,0,0,0,0,14
+"SL Rainbird","2023/24","Sheffield Shield","Tasmania",1,2,13,15.3846153846154,2,0,0,0,0,0,2
+"SM Boland","2017/18","Sheffield Shield","Victoria",1,3,7,42.8571428571429,3,0,0,0,0,0,3
+"SM Boland","2018/19","Sheffield Shield","Victoria",5,37,105,35.2380952380952,12.3333333333333,7,0,2,0,0,16
+"SM Boland","2019/20","Marsh Sheffield Shield","Victoria",4,8,43,18.6046511627907,4,1,0,2,0,0,4
+"SM Boland","2020/21","Sheffield Shield","Victoria",4,16,89,17.9775280898876,8,1,0,2,0,0,10
+"SM Boland","2021/22","Sheffield Shield","Victoria",5,8,66,12.1212121212121,2.66666666666667,1,0,2,0,0,5
+"SM Boland","2022/23","Sheffield Shield","Victoria",7,58,158,36.7088607594937,19.3333333333333,9,0,4,0,0,24
+"SM Boland","2023/24","Sheffield Shield","Victoria",8,16,90,17.7777777777778,2.66666666666667,2,0,2,0,0,6
+"SM Elliott","2022/23","Sheffield Shield","Victoria",4,140,309,45.3074433656958,46.6666666666667,15,0,1,0,1,80
+"SM Whiteman","2018/19","Sheffield Shield","Western Australia",6,272,638,42.6332288401254,45.3333333333333,33,0,0,0,2,93
+"SM Whiteman","2019/20","Marsh Sheffield Shield","Western Australia",8,258,654,39.4495412844037,32.25,42,2,0,1,2,110
+"SM Whiteman","2020/21","Sheffield Shield","Western Australia",9,406,740,54.8648648648649,45.1111111111111,55,0,0,2,1,118
+"SM Whiteman","2021/22","Sheffield Shield","Western Australia",9,446,1051,42.4357754519505,55.75,53,0,1,1,2,123
+"SM Whiteman","2022/23","Sheffield Shield","Western Australia",20,601,1380,43.5507246376812,31.6315789473684,77,0,1,1,2,193
+"SM Whiteman","2023/24","Sheffield Shield","Western Australia",19,770,1552,49.6134020618557,40.5263157894737,107,2,0,3,2,188
+"SNJ O'Keefe","2017/18","Sheffield Shield","New South Wales",1,0,5,0,0,0,0,0,0,0,0
+"SNJ O'Keefe","2018/19","Sheffield Shield","New South Wales",4,60,101,59.4059405940594,15,5,1,0,0,0,31
+"SNJ O'Keefe","2019/20","Marsh Sheffield Shield","New South Wales",3,18,73,24.6575342465753,6,2,0,0,0,0,15
+"SP Mackin","2017/18","Sheffield Shield","Western Australia",4,1,9,11.1111111111111,1,0,0,3,0,0,1
+"SP Mackin","2019/20","Marsh Sheffield Shield","Western Australia",2,16,76,21.0526315789474,16,3,0,1,0,0,15
+"SPD Smith","2017/18","Sheffield Shield","New South Wales",4,65,102,63.7254901960784,16.25,12,0,0,0,0,44
+"SPD Smith","2019/20","Marsh Sheffield Shield","New South Wales",4,129,298,43.2885906040268,32.25,14,0,0,1,0,106
+"SPD Smith","2020/21","Sheffield Shield","New South Wales",2,20,59,33.8983050847458,10,0,0,0,0,0,13
+"SW Willis","2018/19","Sheffield Shield","Tasmania",2,29,67,43.2835820895522,14.5,6,0,0,0,0,24
+"T Kelly","2021/22","Sheffield Shield","South Australia",2,42,53,79.2452830188679,21,5,2,0,0,0,29
+"T Kelly","2022/23","Sheffield Shield","South Australia",5,105,219,47.9452054794521,21,12,0,0,0,0,39
+"T Kelly","2023/24","Sheffield Shield","South Australia",6,173,337,51.3353115727003,28.8333333333333,24,0,0,0,2,69
+"T Murphy","2020/21","Sheffield Shield","Victoria",1,34,70,48.5714285714286,34,5,0,0,0,0,34
+"T Murphy","2021/22","Sheffield Shield","Victoria",1,24,53,45.2830188679245,Inf,3,0,1,0,0,24
+"T Murphy","2022/23","Sheffield Shield","Victoria",6,40,88,45.4545454545455,6.66666666666667,5,0,0,0,0,26
+"T Murphy","2023/24","Sheffield Shield","Victoria",13,133,250,53.2,14.7777777777778,14,1,4,0,0,40
+"T Sangha","2021/22","Sheffield Shield","New South Wales",7,8,74,10.8108108108108,1.6,0,0,2,0,0,2
+"T Sangha","2023/24","Sheffield Shield","New South Wales",1,0,4,0,NA,0,0,1,0,0,0
+"T Wyllie","2021/22","Sheffield Shield","Western Australia",3,69,187,36.8983957219251,23,11,0,0,0,0,42
+"T Wyllie","2022/23","Sheffield Shield","Western Australia",17,411,878,46.8109339407745,27.4,53,2,2,1,1,104
+"T Wyllie","2023/24","Sheffield Shield","Western Australia",10,178,426,41.7840375586854,17.8,26,2,0,0,1,94
+"TA Copeland","2017/18","Sheffield Shield","New South Wales",5,68,96,70.8333333333333,22.6666666666667,10,1,2,0,0,41
+"TA Copeland","2018/19","Sheffield Shield","New South Wales",6,171,198,86.3636363636364,57,24,1,3,0,1,55
+"TA Copeland","2019/20","Marsh Sheffield Shield","New South Wales",9,66,113,58.4070796460177,8.25,5,1,1,0,0,16
+"TA Copeland","2020/21","Sheffield Shield","New South Wales",10,126,187,67.379679144385,14,12,2,1,0,1,58
+"TA Copeland","2021/22","Sheffield Shield","New South Wales",11,68,201,33.8308457711443,7.55555555555556,7,0,2,0,0,17
+"TA Copeland","2022/23","Sheffield Shield","New South Wales",2,21,48,43.75,21,2,0,1,0,0,21
+"TD Andrews","2018/19","Sheffield Shield","South Australia",2,71,147,48.2993197278912,35.5,9,1,0,0,1,59
+"TD Andrews","2019/20","Marsh Sheffield Shield","South Australia",5,204,323,63.1578947368421,40.8,27,2,0,1,1,101
+"TD Andrews","2020/21","Sheffield Shield","Tasmania",2,43,96,44.7916666666667,21.5,9,0,0,0,0,26
+"TD Andrews","2021/22","Sheffield Shield","Tasmania",5,124,144,86.1111111111111,24.8,19,4,0,0,0,40
+"TD Andrews","2022/23","Sheffield Shield","Tasmania",1,11,47,23.4042553191489,11,1,0,0,0,0,11
+"TD Paine","2017/18","Sheffield Shield","Tasmania",2,71,159,44.6540880503145,71,7,0,1,0,1,71
+"TD Paine","2018/19","Sheffield Shield","Tasmania",8,139,284,48.943661971831,17.375,19,1,0,0,0,47
+"TD Paine","2019/20","Marsh Sheffield Shield","Tasmania",7,162,288,56.25,27,21,1,1,0,1,61
+"TD Paine","2020/21","Sheffield Shield","Tasmania",12,354,688,51.453488372093,39.3333333333333,41,2,3,1,1,111
+"TD Paine","2022/23","Sheffield Shield","Tasmania",11,156,292,53.4246575342466,17.3333333333333,18,0,2,0,0,42
+"TJ Dean","2016/17","Sheffield Shield","Victoria",2,132,273,48.3516483516484,66,15,0,0,0,1,94
+"TJ Dean","2017/18","Sheffield Shield","Victoria",2,15,34,44.1176470588235,7.5,2,0,0,0,0,12
+"TJ Dean","2018/19","Sheffield Shield","Victoria",10,130,301,43.1893687707641,13,20,0,0,0,1,61
+"TJ Dean","2019/20","Marsh Sheffield Shield","Victoria",6,313,677,46.2333825701625,52.1666666666667,38,0,0,0,3,96
+"TJ Dean","2020/21","Sheffield Shield","Victoria",1,0,2,0,0,0,0,0,0,0,0
+"TJ Dean","2021/22","Sheffield Shield","Victoria",10,423,864,48.9583333333333,47,56,0,1,2,0,146
+"TJ Dean","2022/23","Sheffield Shield","Victoria",16,236,703,33.5704125177809,16.8571428571429,26,0,2,0,1,70
+"TJ Dean","2023/24","Sheffield Shield","Victoria",10,238,689,34.5428156748911,23.8,29,0,0,0,2,87
+"TLW Cooper","2016/17","Sheffield Shield","South Australia",2,16,49,32.6530612244898,8,3,0,0,0,0,10
+"TLW Cooper","2017/18","Sheffield Shield","South Australia",6,38,116,32.7586206896552,6.33333333333333,4,0,0,0,0,17
+"TLW Cooper","2018/19","Sheffield Shield","South Australia",8,112,186,60.2150537634409,14,15,1,0,0,0,49
+"TLW Cooper","2019/20","Marsh Sheffield Shield","South Australia",11,664,1016,65.3543307086614,66.4,83,13,1,1,4,271
+"TLW Cooper","2020/21","Sheffield Shield","South Australia",2,11,37,29.7297297297297,5.5,2,0,0,0,0,6
+"TM Head","2016/17","Sheffield Shield","South Australia",2,137,183,74.8633879781421,137,14,0,1,1,0,137
+"TM Head","2017/18","Sheffield Shield","South Australia",8,373,490,76.1224489795918,46.625,53,2,0,1,2,132
+"TM Head","2018/19","Sheffield Shield","South Australia",8,398,689,57.7648766328012,49.75,51,0,0,0,5,87
+"TM Head","2019/20","Marsh Sheffield Shield","South Australia",11,450,893,50.3919372900336,40.9090909090909,54,4,0,1,3,109
+"TM Head","2020/21","Sheffield Shield","South Australia",12,655,1213,53.9983511953833,59.5454545454545,82,2,1,2,3,171
+"TM Head","2021/22","Sheffield Shield","South Australia",8,410,567,72.310405643739,51.25,43,7,0,2,1,163
+"TM Head","2022/23","Sheffield Shield","South Australia",6,107,206,51.9417475728155,21.4,14,1,1,0,1,76
+"TP Ward","2020/21","Sheffield Shield","Tasmania",2,39,95,41.0526315789474,19.5,5,1,0,0,0,24
+"TP Ward","2021/22","Sheffield Shield","Tasmania",10,359,832,43.1490384615385,35.9,41,2,0,1,1,144
+"TP Ward","2022/23","Sheffield Shield","Tasmania",19,517,1115,46.3677130044843,30.4117647058824,71,1,2,0,4,91
+"TP Ward","2023/24","Sheffield Shield","Tasmania",13,250,649,38.5208012326656,20.8333333333333,29,2,1,0,2,78
+"TS Rogers","2017/18","Sheffield Shield","Tasmania",3,86,128,67.1875,28.6666666666667,8,3,0,0,0,48
+"TS Rogers","2018/19","Sheffield Shield","Tasmania",4,38,73,52.0547945205479,9.5,5,0,0,0,0,18
+"TS Rogers","2021/22","Sheffield Shield","Tasmania",2,3,22,13.6363636363636,1.5,0,0,0,0,0,3
+"TW Gray","2022/23","Sheffield Shield","New South Wales",2,6,30,20,3,0,0,0,0,0,4
+"UT Khawaja","2017/18","Sheffield Shield","Queensland",2,129,279,46.2365591397849,129,17,1,1,0,2,78
+"UT Khawaja","2018/19","Sheffield Shield","Queensland",2,59,117,50.4273504273504,29.5,7,1,0,0,0,41
+"UT Khawaja","2019/20","Marsh Sheffield Shield","Queensland",8,126,372,33.8709677419355,15.75,12,0,0,0,1,56
+"UT Khawaja","2020/21","Sheffield Shield","Queensland",10,473,875,54.0571428571429,59.125,59,2,2,2,1,131
+"UT Khawaja","2021/22","Sheffield Shield","Queensland",9,410,777,52.7670527670528,51.25,49,1,1,1,3,174
+"UT Khawaja","2022/23","Sheffield Shield","Queensland",5,203,520,39.0384615384615,40.6,20,3,0,0,3,72
+"UT Khawaja","2023/24","Sheffield Shield","Queensland",8,331,761,43.4954007884363,47.2857142857143,35,2,1,2,0,114
+"W Parker","2019/20","Marsh Sheffield Shield","Victoria",1,4,11,36.3636363636364,4,1,0,0,0,0,4
+"W Parker","2021/22","Sheffield Shield","Victoria",1,0,10,0,0,0,0,0,0,0,0
+"W Sutherland","2019/20","Marsh Sheffield Shield","Victoria",7,97,234,41.4529914529915,13.8571428571429,10,0,0,0,0,31
+"W Sutherland","2020/21","Sheffield Shield","Victoria",5,55,136,40.4411764705882,18.3333333333333,4,1,2,0,0,34
+"W Sutherland","2021/22","Sheffield Shield","Victoria",10,85,176,48.2954545454545,12.1428571428571,7,3,3,0,0,23
+"W Sutherland","2022/23","Sheffield Shield","Victoria",16,467,724,64.5027624309392,29.1875,49,8,0,1,1,100
+"W Sutherland","2023/24","Sheffield Shield","Victoria",16,236,401,58.8528678304239,15.7333333333333,27,5,1,0,1,66
+"WA Agar","2019/20","Marsh Sheffield Shield","South Australia",10,63,123,51.219512195122,15.75,7,0,6,0,0,20
+"WA Agar","2020/21","Sheffield Shield","South Australia",7,61,112,54.4642857142857,10.1666666666667,7,2,1,0,0,41
+"WA Agar","2022/23","Sheffield Shield","South Australia",13,183,332,55.1204819277108,14.0769230769231,26,0,0,0,1,57
+"WA Agar","2023/24","Sheffield Shield","South Australia",14,165,209,78.9473684210526,12.6923076923077,21,2,1,0,0,46
+"WG Bosisto","2017/18","Sheffield Shield","Western Australia",6,48,100,48,8,7,0,0,0,0,22
+"WG Bosisto","2018/19","Sheffield Shield","Western Australia",2,87,264,32.9545454545455,43.5,6,1,0,0,1,58
+"WG Bosisto","2019/20","Marsh Sheffield Shield","South Australia",6,93,275,33.8181818181818,23.25,7,0,2,0,0,47
+"WG Bosisto","2020/21","Sheffield Shield","South Australia",2,49,217,22.5806451612903,24.5,5,0,0,0,0,38
+"WJ Pucovski","2018/19","Sheffield Shield","Victoria",6,246,420,58.5714285714286,49.2,31,0,1,1,1,131
+"WJ Pucovski","2019/20","Marsh Sheffield Shield","Victoria",3,189,410,46.0975609756098,63,15,0,0,1,1,123
+"WJ Pucovski","2020/21","Sheffield Shield","Victoria",1,255,386,66.0621761658031,Inf,27,1,1,1,0,255
+"WJ Pucovski","2021/22","Sheffield Shield","Victoria",4,146,322,45.3416149068323,36.5,15,0,0,0,2,59
+"WJ Pucovski","2022/23","Sheffield Shield","Victoria",3,46,172,26.7441860465116,15.3333333333333,4,1,0,0,0,37
+"WJ Pucovski","2023/24","Sheffield Shield","Victoria",12,342,845,40.4733727810651,28.5,29,0,0,1,1,131
+"XA Crone","2021/22","Sheffield Shield","Victoria",1,0,8,0,0,0,0,0,0,0,0
+"XA Crone","2023/24","Sheffield Shield","Victoria",2,11,40,27.5,5.5,1,0,0,0,0,6
+"XC Bartlett","2019/20","Marsh Sheffield Shield","Queensland",4,33,111,29.7297297297297,33,5,0,3,0,0,16
+"XC Bartlett","2020/21","Sheffield Shield","Queensland",8,53,140,37.8571428571429,8.83333333333333,5,1,2,0,0,25
+"XC Bartlett","2022/23","Sheffield Shield","Queensland",8,133,314,42.3566878980892,22.1666666666667,15,4,2,0,0,32
+"XC Bartlett","2023/24","Sheffield Shield","Queensland",5,164,244,67.2131147540984,32.8,14,9,0,0,2,70

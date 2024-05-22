@@ -1,0 +1,710 @@
+"striker","season","event","batting_team","innings","Runs","BallsFaced","StrikeRate","Average","Fours","Sixes","NotOuts","Hundreds","Fifties","HighScore"
+"A Ashok","2021/22","Super Smash","Auckland",6,18,22,81.8181818181818,9,1,0,4,0,0,6
+"A Ashok","2022/23","Super Smash","Auckland",6,16,17,94.1176470588235,5.33333333333333,2,0,3,0,0,9
+"A Verma","2017/18","Super Smash","Wellington",2,10,12,83.3333333333333,5,0,0,0,0,0,10
+"A Verma","2019/20","Super Smash","Northern Districts",5,27,21,128.571428571429,6.75,2,1,1,0,0,13
+"A Verma","2020/21","Super Smash","Northern Districts",2,1,1,100,Inf,0,0,2,0,0,1
+"A Verma","2021/22","Super Smash","Northern Districts",6,54,67,80.5970149253731,18,5,0,3,0,0,22
+"AF Milne","2018/19","Super Smash","Central Districts",2,17,18,94.4444444444444,17,2,0,1,0,0,14
+"AF Milne","2021/22","Super Smash","Central Districts",1,8,8,100,8,1,0,0,0,0,8
+"AF Milne","2022/23","Super Smash","Wellington",4,50,40,125,16.6666666666667,1,3,1,0,0,22
+"AF Milne","2023/24","Super Smash","Wellington",3,12,7,171.428571428571,12,3,0,2,0,0,12
+"AJ Hose","2018/19","Super Smash","Wellington",6,195,147,132.65306122449,48.75,16,4,2,0,2,54
+"AJ Redmond","2012/13","HRV Cup","Otago",1,6,5,120,6,0,1,0,0,0,6
+"AJ Redmond","2013/14","HRV Twenty20","Otago",2,44,39,112.820512820513,22,4,2,0,0,0,41
+"AK Kitchen","2013/14","HRV Twenty20","Auckland",1,15,10,150,15,3,0,0,0,0,15
+"AK Kitchen","2017/18","Super Smash","Otago",6,71,56,126.785714285714,11.8333333333333,3,6,0,0,0,34
+"AK Kitchen","2018/19","Super Smash","Otago",7,169,140,120.714285714286,24.1428571428571,15,3,0,0,1,52
+"AK Kitchen","2019/20","Super Smash","Otago",9,141,102,138.235294117647,20.1428571428571,11,4,2,0,0,42
+"AK Kitchen","2020/21","Super Smash","Otago",10,229,161,142.236024844721,25.4444444444444,15,14,1,0,1,57
+"AK Kitchen","2021/22","Super Smash","Otago",9,180,134,134.328358208955,22.5,14,8,1,0,1,54
+"AM Ellis","2013/14","HRV Twenty20","Canterbury",1,5,9,55.5555555555556,5,0,0,0,0,0,5
+"AM Ellis","2017/18","Super Smash","Canterbury",6,122,103,118.446601941748,30.5,7,5,2,0,0,40
+"AM Ellis","2018/19","Super Smash","Canterbury",6,70,69,101.449275362319,14,9,1,1,0,0,23
+"AM Ellis","2019/20","Super Smash","Canterbury",6,69,68,101.470588235294,13.8,4,1,1,0,0,35
+"AP Devcich","2013/14","HRV Twenty20","Northern Districts",2,22,20,110,11,4,0,0,0,0,12
+"AP Devcich","2017/18","Super Smash","Northern Districts",9,342,200,171,48.8571428571429,47,13,2,0,3,88
+"AP Devcich","2018/19","Super Smash","Northern Districts",4,44,40,110,11,7,1,0,0,0,23
+"AP Devcich","2019/20","Super Smash","Northern Districts",9,208,140,148.571428571429,23.1111111111111,28,5,0,0,2,57
+"AP Devcich","2020/21","Super Smash","Northern Districts",9,286,169,169.230769230769,40.8571428571429,20,20,2,1,1,102
+"AT Nidamanuru","2017/18","Super Smash","Auckland",1,6,4,150,Inf,1,0,1,0,0,6
+"ATE Hazeldine","2022/23","Super Smash","Otago",2,13,8,162.5,6.5,0,1,0,0,0,9
+"ATE Hazeldine","2023/24","Super Smash","Otago",4,12,14,85.7142857142857,3,2,0,0,0,0,6
+"AW McKenzie","2021/22","Super Smash","Otago",5,24,21,114.285714285714,8,2,1,2,0,0,11
+"AW McKenzie","2022/23","Super Smash","Canterbury",4,22,25,88,11,1,1,2,0,0,12
+"AW McKenzie","2023/24","Super Smash","Canterbury",3,6,7,85.7142857142857,6,0,0,2,0,0,4
+"AY Patel","2017/18","Super Smash","Central Districts",6,16,24,66.6666666666667,8,0,0,4,0,0,11
+"AY Patel","2018/19","Super Smash","Central Districts",2,21,14,150,21,1,1,1,0,0,12
+"AY Patel","2019/20","Super Smash","Central Districts",5,14,9,155.555555555556,7,0,2,3,0,0,8
+"AY Patel","2020/21","Super Smash","Central Districts",5,23,28,82.1428571428571,7.66666666666667,2,0,2,0,0,7
+"AY Patel","2021/22","Super Smash","Central Districts",3,19,14,135.714285714286,9.5,2,0,1,0,0,11
+"AY Patel","2022/23","Super Smash","Central Districts",2,16,20,80,8,0,0,0,0,0,13
+"AY Patel","2023/24","Super Smash","Central Districts",4,7,10,70,3.5,0,0,2,0,0,3
+"B Wheeler-Greenall","2021/22","Super Smash","Otago",2,12,16,75,Inf,1,0,2,0,0,7
+"BA Raine","2018/19","Super Smash","Otago",3,60,38,157.894736842105,30,4,3,1,0,0,33
+"BA Stokes","2017/18","Super Smash","Canterbury",3,133,76,175,44.3333333333333,10,8,0,0,1,93
+"BG Lister","2017/18","Super Smash","Auckland",3,8,7,114.285714285714,Inf,0,0,3,0,0,6
+"BG Lister","2018/19","Super Smash","Auckland",1,0,1,0,0,0,0,0,0,0,0
+"BG Lister","2019/20","Super Smash","Auckland",1,1,1,100,Inf,0,0,1,0,0,1
+"BG Lister","2020/21","Super Smash","Auckland",2,6,8,75,3,1,0,0,0,0,5
+"BG Lister","2021/22","Super Smash","Auckland",5,28,21,133.333333333333,28,2,2,4,0,0,17
+"BG Lister","2022/23","Super Smash","Auckland",1,8,8,100,Inf,1,0,1,0,0,8
+"BG Lister","2023/24","Super Smash","Auckland",1,16,10,160,Inf,1,0,1,0,0,16
+"BG Randell","2019/20","Super Smash","Northern Districts",1,0,1,0,0,0,0,0,0,0,0
+"BG Randell","2020/21","Super Smash","Northern Districts",1,1,1,100,Inf,0,0,1,0,0,1
+"BG Randell","2022/23","Super Smash","Central Districts",5,32,27,118.518518518519,16,3,0,3,0,0,10
+"BJ Arnel","2017/18","Super Smash","Northern Districts",2,0,0,NA,NA,0,0,2,0,0,0
+"BJ Diamanti","2013/14","HRV Twenty20","Canterbury",1,0,6,0,0,0,0,0,0,0,0
+"BJ Horne","2017/18","Super Smash","Auckland",6,86,74,116.216216216216,14.3333333333333,12,0,0,0,0,31
+"BJ Horne","2019/20","Super Smash","Auckland",4,18,9,200,6,2,1,1,0,0,10
+"BJ Horne","2020/21","Super Smash","Auckland",10,163,112,145.535714285714,23.2857142857143,8,9,3,0,1,63
+"BJ Horne","2021/22","Super Smash","Auckland",8,97,85,114.117647058824,12.125,5,6,0,0,0,27
+"BJ Horne","2022/23","Super Smash","Auckland",9,143,99,144.444444444444,20.4285714285714,12,8,2,0,1,54
+"BJ Jacobs","2023/24","Super Smash","Canterbury",6,134,71,188.732394366197,33.5,12,9,2,0,0,42
+"BJ Small","2017/18","Super Smash","Central Districts",7,66,57,115.789473684211,22,3,1,4,0,0,21
+"BJ Small","2018/19","Super Smash","Central Districts",1,16,11,145.454545454545,16,1,1,0,0,0,16
+"BJ Small","2022/23","Super Smash","Central Districts",3,11,14,78.5714285714286,11,0,0,2,0,0,5
+"BJ Small","2023/24","Super Smash","Central Districts",5,23,20,115,7.66666666666667,1,1,2,0,0,10
+"BJ Watling","2013/14","HRV Twenty20","Northern Districts",1,37,30,123.333333333333,37,2,2,0,0,0,37
+"BL Wiggins","2018/19","Super Smash","Central Districts",1,8,4,200,Inf,1,0,1,0,0,8
+"BL Wiggins","2020/21","Super Smash","Central Districts",4,34,30,113.333333333333,8.5,5,0,0,0,0,17
+"BL Wiggins","2021/22","Super Smash","Central Districts",7,132,95,138.947368421053,18.8571428571429,15,4,0,0,0,45
+"BL Wiggins","2022/23","Super Smash","Central Districts",4,48,32,150,12,5,2,0,0,0,41
+"BL Wiggins","2023/24","Super Smash","Central Districts",5,15,27,55.5555555555556,3,1,1,0,0,0,8
+"BM Johnson","2022/23","Super Smash","Central Districts",3,5,4,125,5,0,0,2,0,0,5
+"BM Tickner","2017/18","Super Smash","Central Districts",3,11,3,366.666666666667,Inf,1,1,3,0,0,10
+"BM Tickner","2018/19","Super Smash","Central Districts",2,2,4,50,Inf,0,0,2,0,0,2
+"BM Tickner","2019/20","Super Smash","Central Districts",3,4,5,80,4,0,0,2,0,0,3
+"BM Tickner","2020/21","Super Smash","Central Districts",1,0,1,0,0,0,0,0,0,0,0
+"BM Tickner","2021/22","Super Smash","Central Districts",1,1,5,20,1,0,0,0,0,0,1
+"BM Tickner","2023/24","Super Smash","Central Districts",2,23,15,153.333333333333,23,2,1,1,0,0,22
+"BM Wheeler","2017/18","Super Smash","Central Districts",9,153,104,147.115384615385,30.6,5,12,4,0,0,47
+"BM Wheeler","2018/19","Super Smash","Central Districts",6,34,32,106.25,6.8,4,0,1,0,0,11
+"BM Wheeler","2019/20","Super Smash","Central Districts",6,47,32,146.875,15.6666666666667,3,2,3,0,0,12
+"BM Wheeler","2021/22","Super Smash","Central Districts",2,2,8,25,2,0,0,1,0,0,2
+"BNJ Lockrose","2022/23","Super Smash","Otago",6,113,59,191.525423728814,56.5,11,6,4,0,1,58
+"BNJ Lockrose","2023/24","Super Smash","Otago",5,35,29,120.689655172414,7,3,2,0,0,0,22
+"BP Coburn","2019/20","Super Smash","Canterbury",2,14,19,73.6842105263158,7,0,0,0,0,0,9
+"BP Coburn","2021/22","Super Smash","Canterbury",2,18,20,90,18,2,0,1,0,0,11
+"BP Coburn","2022/23","Super Smash","Canterbury",1,12,13,92.3076923076923,Inf,1,0,1,0,0,12
+"BP Rodden","2020/21","Super Smash","Auckland",2,11,11,100,5.5,1,0,0,0,0,6
+"BR Hampton","2017/18","Super Smash","Northern Districts",8,117,65,180,16.7142857142857,7,10,1,0,0,44
+"BR Hampton","2018/19","Super Smash","Northern Districts",9,145,105,138.095238095238,18.125,11,9,1,0,1,64
+"BR Hampton","2019/20","Super Smash","Northern Districts",9,150,133,112.781954887218,16.6666666666667,9,7,0,0,1,52
+"BR Hampton","2020/21","Super Smash","Northern Districts",6,62,67,92.5373134328358,12.4,4,1,1,0,0,28
+"BR Hampton","2021/22","Super Smash","Northern Districts",2,22,26,84.6153846153846,11,2,0,0,0,0,11
+"BR Hampton","2022/23","Super Smash","Northern Districts",6,82,63,130.15873015873,13.6666666666667,7,4,0,0,0,44
+"BR Hampton","2023/24","Super Smash","Northern Districts",10,131,110,119.090909090909,16.375,9,7,2,0,0,28
+"BS Smith","2017/18","Super Smash","Central Districts",4,46,54,85.1851851851852,11.5,5,1,0,0,0,29
+"BS Smith","2020/21","Super Smash","Central Districts",1,22,22,100,Inf,2,0,1,0,0,22
+"BS Smith","2021/22","Super Smash","Central Districts",5,205,154,133.116883116883,51.25,22,5,1,0,2,80
+"BS Smith","2022/23","Super Smash","Central Districts",9,143,119,120.168067226891,17.875,15,6,1,0,0,34
+"BS Wilson","2013/14","HRV Twenty20","Northern Districts",2,26,19,136.842105263158,13,2,1,0,0,0,22
+"BS Wilson","2017/18","Super Smash","Otago",4,31,37,83.7837837837838,7.75,2,0,0,0,0,14
+"BS Wilson","2018/19","Super Smash","Otago",5,133,86,154.651162790698,66.5,13,5,3,0,0,32
+"BV Sears","2018/19","Super Smash","Wellington",2,14,10,140,14,0,0,1,0,0,12
+"BV Sears","2021/22","Super Smash","Wellington",5,13,11,118.181818181818,13,1,0,4,0,0,5
+"BV Sears","2023/24","Super Smash","Wellington",3,5,7,71.4285714285714,5,0,0,2,0,0,3
+"C Munro","2017/18","Super Smash","Auckland",2,78,37,210.810810810811,39,9,5,0,0,0,47
+"C Munro","2018/19","Super Smash","Auckland",5,138,90,153.333333333333,27.6,21,5,0,0,1,54
+"C Munro","2019/20","Super Smash","Auckland",10,220,165,133.333333333333,22,34,5,0,0,1,68
+"C Viljoen","2017/18","Super Smash","Otago",1,9,9,100,9,1,0,0,0,0,9
+"C Viljoen","2018/19","Super Smash","Otago",5,9,14,64.2857142857143,1.8,1,0,0,0,0,4
+"C de Grandhomme","2013/14","HRV Twenty20","Auckland",1,3,4,75,3,0,0,0,0,0,3
+"C de Grandhomme","2017/18","Super Smash","Auckland",2,7,6,116.666666666667,7,1,0,1,0,0,5
+"C de Grandhomme","2020/21","Super Smash","Northern Districts",4,51,32,159.375,17,2,5,1,0,0,19
+"C de Grandhomme","2021/22","Super Smash","Northern Districts",10,240,168,142.857142857143,30,13,15,2,0,2,86
+"CD Fletcher","2017/18","Super Smash","Canterbury",9,275,180,152.777777777778,68.75,12,17,5,0,1,74
+"CD Fletcher","2018/19","Super Smash","Canterbury",8,122,110,110.909090909091,30.5,10,1,4,0,0,43
+"CD Fletcher","2019/20","Super Smash","Canterbury",8,232,179,129.608938547486,58,16,6,4,0,2,65
+"CD Fletcher","2020/21","Super Smash","Canterbury",9,189,120,157.5,31.5,15,9,3,0,1,72
+"CD Fletcher","2021/22","Super Smash","Canterbury",11,305,190,160.526315789474,43.5714285714286,15,23,4,0,3,63
+"CD Fletcher","2022/23","Super Smash","Canterbury",8,149,130,114.615384615385,29.8,9,5,3,0,1,55
+"CD Fletcher","2023/24","Super Smash","Auckland",6,180,143,125.874125874126,45,14,6,2,0,1,74
+"CD Nash","2013/14","HRV Twenty20","Auckland",1,13,12,108.333333333333,13,2,0,0,0,0,13
+"CE McConchie","2017/18","Super Smash","Canterbury",9,147,131,112.213740458015,18.375,11,3,1,0,1,54
+"CE McConchie","2018/19","Super Smash","Canterbury",8,212,159,133.333333333333,30.2857142857143,26,3,1,0,1,83
+"CE McConchie","2019/20","Super Smash","Canterbury",9,131,106,123.584905660377,16.375,10,5,1,0,0,49
+"CE McConchie","2020/21","Super Smash","Canterbury",11,298,248,120.161290322581,37.25,23,5,3,0,2,56
+"CE McConchie","2021/22","Super Smash","Canterbury",11,193,153,126.143790849673,19.3,14,6,1,0,1,84
+"CE McConchie","2022/23","Super Smash","Canterbury",9,210,161,130.434782608696,26.25,13,10,1,0,1,54
+"CE McConchie","2023/24","Super Smash","Canterbury",10,237,168,141.071428571429,29.625,19,12,2,0,2,79
+"CG Heaphy","2023/24","Super Smash","Central Districts",3,64,60,106.666666666667,21.3333333333333,7,1,0,0,0,31
+"CJ Anderson","2018/19","Super Smash","Northern Districts",8,140,112,125,20,8,9,1,0,0,42
+"CJ Anderson","2019/20","Super Smash","Auckland",7,129,107,120.560747663551,21.5,4,9,1,0,0,29
+"CJ Borgas","2012/13","HRV Cup","Wellington",1,0,4,0,0,0,0,0,0,0,0
+"CJ Bowes","2017/18","Super Smash","Canterbury",9,235,163,144.171779141104,26.1111111111111,29,4,0,0,1,82
+"CJ Bowes","2018/19","Super Smash","Canterbury",8,167,120,139.166666666667,20.875,20,3,0,0,1,72
+"CJ Bowes","2019/20","Super Smash","Canterbury",10,358,211,169.668246445498,39.7777777777778,42,14,1,0,3,95
+"CJ Bowes","2020/21","Super Smash","Canterbury",12,271,178,152.247191011236,24.6363636363636,32,10,1,0,1,72
+"CJ Bowes","2021/22","Super Smash","Canterbury",12,333,234,142.307692307692,27.75,41,8,0,0,4,62
+"CJ Bowes","2022/23","Super Smash","Canterbury",11,359,228,157.456140350877,39.8888888888889,46,13,2,0,4,89
+"CJ Bowes","2023/24","Super Smash","Canterbury",11,220,157,140.127388535032,22,24,8,1,0,1,85
+"CJ Briggs","2021/22","Super Smash","Auckland",5,13,25,52,2.6,0,0,0,0,0,6
+"CJ Briggs","2022/23","Super Smash","Auckland",8,180,144,125,22.5,16,9,0,0,1,50
+"CJ Briggs","2023/24","Super Smash","Auckland",5,83,82,101.219512195122,20.75,6,1,1,0,0,37
+"CJ Jordan","2017/18","Super Smash","Northern Districts",3,59,27,218.518518518519,59,3,5,2,0,0,29
+"CJ Jordan","2018/19","Super Smash","Northern Districts",1,2,6,33.3333333333333,2,0,0,0,0,0,2
+"CK Leopard","2017/18","Super Smash","Central Districts",4,96,49,195.918367346939,32,11,4,1,0,1,52
+"CK Leopard","2019/20","Super Smash","Central Districts",10,130,111,117.117117117117,13,12,4,0,0,0,27
+"CK Leopard","2020/21","Super Smash","Central Districts",5,55,36,152.777777777778,27.5,4,4,3,0,0,23
+"CK Leopard","2021/22","Super Smash","Central Districts",5,58,63,92.0634920634921,14.5,4,1,1,0,0,25
+"CR McLachlan","2022/23","Super Smash","Wellington",4,37,53,69.811320754717,12.3333333333333,3,0,1,0,0,14
+"CR McLachlan","2023/24","Super Smash","Wellington",7,70,70,100,10,9,0,0,0,0,24
+"Craig Cachopa","2013/14","HRV Twenty20","Auckland",1,2,4,50,2,0,0,0,0,0,2
+"Craig Cachopa","2017/18","Super Smash","Auckland",8,134,115,116.521739130435,16.75,12,5,0,0,0,41
+"Craig Cachopa","2018/19","Super Smash","Auckland",8,223,149,149.664429530201,37.1666666666667,17,12,2,0,2,73
+"Craig Cachopa","2019/20","Super Smash","Auckland",9,223,162,137.654320987654,27.875,11,14,1,0,1,66
+"D Cleaver","2017/18","Super Smash","Central Districts",11,225,177,127.118644067797,25,24,4,2,0,1,54
+"D Cleaver","2018/19","Super Smash","Central Districts",8,96,70,137.142857142857,13.7142857142857,5,5,1,0,1,77
+"D Cleaver","2019/20","Super Smash","Central Districts",10,278,200,139,27.8,26,9,0,0,1,81
+"D Cleaver","2020/21","Super Smash","Central Districts",11,177,164,107.926829268293,16.0909090909091,21,3,0,0,0,33
+"D Cleaver","2021/22","Super Smash","Central Districts",9,369,222,166.216216216216,46.125,40,13,1,1,2,114
+"D Cleaver","2022/23","Super Smash","Central Districts",5,156,121,128.925619834711,39,19,5,1,0,0,44
+"D Cleaver","2023/24","Super Smash","Central Districts",9,281,213,131.924882629108,35.125,31,5,1,0,2,87
+"D Foxcroft","2018/19","Super Smash","Central Districts",9,270,218,123.853211009174,30,30,8,0,0,4,63
+"D Foxcroft","2019/20","Super Smash","Otago",9,269,198,135.858585858586,67.25,20,10,5,0,1,82
+"D Foxcroft","2022/23","Super Smash","Otago",10,424,323,131.269349845201,47.1111111111111,37,16,1,0,3,73
+"D Foxcroft","2023/24","Super Smash","Otago",8,231,196,117.857142857143,38.5,20,5,2,0,2,55
+"DAJ Bracewell","2017/18","Super Smash","Central Districts",1,32,21,152.380952380952,32,4,1,0,0,0,32
+"DAJ Bracewell","2018/19","Super Smash","Central Districts",5,61,61,100,15.25,4,2,1,0,0,21
+"DAJ Bracewell","2020/21","Super Smash","Central Districts",11,223,123,181.30081300813,44.6,17,13,6,0,2,55
+"DAJ Bracewell","2021/22","Super Smash","Central Districts",6,72,64,112.5,18,6,1,2,0,0,36
+"DAJ Bracewell","2022/23","Super Smash","Central Districts",5,93,55,169.090909090909,31,2,10,2,0,0,39
+"DAJ Bracewell","2023/24","Super Smash","Central Districts",8,200,99,202.020202020202,33.3333333333333,16,13,2,0,1,93
+"DC de Boorder","2012/13","HRV Cup","Otago",1,33,32,103.125,33,3,1,0,0,0,33
+"DC de Boorder","2013/14","HRV Twenty20","Otago",2,39,34,114.705882352941,39,2,1,1,0,0,29
+"DC de Boorder","2017/18","Super Smash","Otago",8,117,110,106.363636363636,16.7142857142857,7,4,1,0,1,50
+"DG Brownlie","2013/14","HRV Twenty20","Canterbury",1,16,14,114.285714285714,16,3,0,0,0,0,16
+"DG Brownlie","2017/18","Super Smash","Northern Districts",8,209,127,164.566929133858,29.8571428571429,21,9,1,0,1,86
+"DG Brownlie","2018/19","Super Smash","Northern Districts",9,264,179,147.486033519553,33,28,8,1,0,1,99
+"DG Brownlie","2019/20","Super Smash","Northern Districts",9,149,112,133.035714285714,16.5555555555556,19,3,0,0,1,55
+"DG Brownlie","2020/21","Super Smash","Northern Districts",4,17,25,68,4.25,2,0,0,0,0,8
+"DJ Bell-Drummond","2018/19","Super Smash","Auckland",5,223,160,139.375,74.3333333333333,20,9,2,0,3,74
+"DJ Grobbelaar","2013/14","HRV Twenty20","Auckland",1,23,18,127.777777777778,23,3,0,0,0,0,23
+"DJ Grobbelaar","2017/18","Super Smash","Auckland",3,26,21,123.809523809524,13,0,2,1,0,0,13
+"DJ Grobbelaar","2018/19","Super Smash","Auckland",3,14,16,87.5,14,1,0,2,0,0,8
+"DJ Mitchell","2013/14","HRV Twenty20","Northern Districts",2,54,47,114.893617021277,Inf,3,1,2,0,0,46
+"DJ Mitchell","2017/18","Super Smash","Northern Districts",7,204,135,151.111111111111,51,12,11,3,0,1,50
+"DJ Mitchell","2018/19","Super Smash","Northern Districts",9,314,223,140.807174887892,34.8888888888889,17,19,0,0,2,78
+"DJ Mitchell","2019/20","Super Smash","Northern Districts",8,219,149,146.979865771812,31.2857142857143,15,9,1,0,1,58
+"DJ Mitchell","2020/21","Super Smash","Canterbury",10,374,277,135.018050541516,37.4,26,10,0,0,3,88
+"DJ Mitchell","2021/22","Super Smash","Canterbury",5,148,106,139.622641509434,37,13,7,1,0,1,68
+"DJ Mitchell","2023/24","Super Smash","Canterbury",1,57,50,114,Inf,3,2,1,0,1,57
+"DK Ferns","2020/21","Super Smash","Auckland",3,15,13,115.384615384615,5,2,0,0,0,0,13
+"DK Ferns","2022/23","Super Smash","Auckland",5,49,30,163.333333333333,16.3333333333333,4,2,2,0,0,23
+"DK Ferns","2023/24","Super Smash","Auckland",3,46,26,176.923076923077,23,2,3,1,0,0,17
+"DN Phillips","2019/20","Super Smash","Otago",2,28,26,107.692307692308,28,2,1,1,0,0,25
+"DN Phillips","2020/21","Super Smash","Otago",5,60,46,130.434782608696,30,6,1,3,0,0,22
+"DN Phillips","2021/22","Super Smash","Otago",5,93,66,140.909090909091,23.25,6,5,1,0,1,65
+"DN Phillips","2022/23","Super Smash","Otago",7,66,85,77.6470588235294,9.42857142857143,6,0,0,0,0,28
+"DN Phillips","2023/24","Super Smash","Otago",6,59,56,105.357142857143,11.8,2,2,1,0,0,32
+"DP Conway","2017/18","Super Smash","Wellington",6,165,117,141.025641025641,41.25,17,6,2,0,1,53
+"DP Conway","2018/19","Super Smash","Wellington",9,363,252,144.047619047619,45.375,50,7,1,1,0,105
+"DP Conway","2019/20","Super Smash","Wellington",11,543,374,145.187165775401,67.875,63,12,3,1,5,101
+"DP Conway","2020/21","Super Smash","Wellington",10,455,335,135.820895522388,65,52,9,3,0,5,93
+"DP Conway","2021/22","Super Smash","Wellington",3,81,60,135,40.5,6,2,1,0,1,74
+"DP Conway","2023/24","Super Smash","Wellington",2,25,28,89.2857142857143,12.5,2,0,0,0,0,23
+"DR Flynn","2013/14","HRV Twenty20","Northern Districts",2,33,17,194.117647058824,16.5,1,4,0,0,0,26
+"DR Flynn","2017/18","Super Smash","Northern Districts",7,159,107,148.598130841122,31.8,16,7,2,0,1,58
+"DR Flynn","2018/19","Super Smash","Northern Districts",6,66,47,140.425531914894,11,4,4,0,0,0,27
+"DR Flynn","2019/20","Super Smash","Northern Districts",9,87,63,138.095238095238,14.5,6,3,3,0,0,29
+"EJ Nuttall","2017/18","Super Smash","Canterbury",3,1,2,50,Inf,0,0,3,0,0,1
+"EJ Nuttall","2018/19","Super Smash","Canterbury",1,6,5,120,Inf,0,1,1,0,0,6
+"EJ Nuttall","2019/20","Super Smash","Canterbury",2,1,2,50,Inf,0,0,2,0,0,1
+"EJ Nuttall","2020/21","Super Smash","Canterbury",1,5,9,55.5555555555556,5,0,0,0,0,0,5
+"EJ Nuttall","2021/22","Super Smash","Canterbury",4,13,13,100,6.5,1,1,2,0,0,11
+"EJ Nuttall","2022/23","Super Smash","Canterbury",1,5,5,100,Inf,1,0,1,0,0,5
+"F McGregor-Sumpter","2023/24","Super Smash","Northern Districts",3,21,35,60,10.5,0,1,1,0,0,10
+"FH Allen","2020/21","Super Smash","Wellington",11,512,264,193.939393939394,56.8888888888889,56,25,2,0,6,92
+"FH Allen","2021/22","Super Smash","Wellington",11,280,140,200,25.4545454545455,27,19,0,0,3,68
+"FH Allen","2022/23","Super Smash","Wellington",3,132,68,194.117647058824,44,11,9,0,0,1,78
+"FH Allen","2023/24","Super Smash","Auckland",3,154,87,177.011494252874,77,10,13,1,0,2,78
+"FJ Colson","2019/20","Super Smash","Wellington",5,91,69,131.884057971014,22.75,6,4,1,0,0,37
+"FJ Colson","2020/21","Super Smash","Wellington",2,29,21,138.095238095238,14.5,5,0,0,0,0,22
+"FJM Murray","2018/19","Super Smash","Central Districts",1,2,3,66.6666666666667,2,0,0,0,0,0,2
+"FL Walker","2020/21","Super Smash","Northern Districts",1,3,4,75,Inf,0,0,1,0,0,3
+"FL Walker","2021/22","Super Smash","Northern Districts",1,1,1,100,1,0,0,0,0,0,1
+"FL Walker","2022/23","Super Smash","Northern Districts",3,27,16,168.75,13.5,3,1,1,0,0,25
+"FL Walker","2023/24","Super Smash","Northern Districts",5,64,47,136.170212765957,16,6,3,1,0,0,27
+"FW Sheat","2022/23","Super Smash","Canterbury",1,0,1,0,0,0,0,0,0,0,0
+"FW Sheat","2023/24","Super Smash","Canterbury",1,0,2,0,0,0,0,0,0,0,0
+"GD Phillips","2017/18","Super Smash","Auckland",7,147,96,153.125,21,20,4,0,0,1,65
+"GD Phillips","2018/19","Super Smash","Auckland",10,197,157,125.477707006369,21.8888888888889,17,7,1,0,1,59
+"GD Phillips","2019/20","Super Smash","Auckland",9,206,145,142.068965517241,25.75,17,9,1,1,0,106
+"GD Phillips","2020/21","Super Smash","Auckland",9,156,96,162.5,17.3333333333333,11,13,0,0,1,68
+"GD Phillips","2021/22","Super Smash","Auckland",6,158,108,146.296296296296,31.6,13,10,1,0,2,53
+"GD Phillips","2023/24","Super Smash","Otago",2,91,60,151.666666666667,91,4,7,1,0,1,53
+"GH Worker","2013/14","HRV Twenty20","Canterbury",1,8,11,72.7272727272727,8,1,0,0,0,0,8
+"GH Worker","2017/18","Super Smash","Central Districts",6,210,139,151.079136690647,35,23,9,0,0,1,75
+"GH Worker","2018/19","Super Smash","Central Districts",11,202,159,127.044025157233,18.3636363636364,25,7,0,0,1,52
+"GH Worker","2019/20","Super Smash","Central Districts",10,258,192,134.375,25.8,27,13,0,0,1,62
+"GH Worker","2020/21","Super Smash","Central Districts",11,424,306,138.562091503268,38.5454545454545,40,16,0,1,2,106
+"GH Worker","2021/22","Super Smash","Auckland",10,172,159,108.176100628931,19.1111111111111,16,4,1,0,1,53
+"GH Worker","2022/23","Super Smash","Auckland",9,136,141,96.4539007092199,15.1111111111111,11,4,0,0,0,28
+"GH Worker","2023/24","Super Smash","Auckland",4,53,44,120.454545454545,13.25,9,1,0,0,0,33
+"GJ Hopkins","2013/14","HRV Twenty20","Auckland",1,24,14,171.428571428571,24,4,0,0,0,0,24
+"GK Beghin","2018/19","Super Smash","Auckland",1,1,1,100,1,0,0,0,0,0,1
+"GK Beghin","2020/21","Super Smash","Auckland",3,45,40,112.5,15,5,2,0,0,0,32
+"GK Beghin","2021/22","Super Smash","Auckland",2,23,24,95.8333333333333,11.5,1,0,0,0,0,23
+"GR Hay","2021/22","Super Smash","Central Districts",7,234,193,121.243523316062,33.4285714285714,25,3,0,0,3,76
+"GR Hay","2022/23","Super Smash","Central Districts",4,41,39,105.128205128205,10.25,3,2,0,0,0,21
+"GR Severin","2023/24","Super Smash","Wellington",2,46,43,106.976744186047,23,4,1,0,0,0,41
+"HB Shipley","2018/19","Super Smash","Canterbury",2,21,20,105,10.5,2,0,0,0,0,20
+"HB Shipley","2019/20","Super Smash","Canterbury",6,96,60,160,16,10,2,0,0,0,27
+"HB Shipley","2020/21","Super Smash","Canterbury",2,30,16,187.5,30,2,2,1,0,0,29
+"HB Shipley","2021/22","Super Smash","Canterbury",8,144,108,133.333333333333,24,9,9,2,0,0,39
+"HB Shipley","2022/23","Super Smash","Canterbury",3,42,35,120,21,4,1,1,0,0,35
+"HD Rutherford","2012/13","HRV Cup","Otago",1,0,1,0,0,0,0,0,0,0,0
+"HD Rutherford","2013/14","HRV Twenty20","Otago",2,16,17,94.1176470588235,8,1,1,0,0,0,16
+"HD Rutherford","2017/18","Super Smash","Otago",6,39,32,121.875,6.5,5,2,0,0,0,21
+"HD Rutherford","2018/19","Super Smash","Otago",7,173,142,121.830985915493,24.7142857142857,16,6,0,0,0,49
+"HD Rutherford","2019/20","Super Smash","Otago",11,293,169,173.372781065089,29.3,30,17,1,0,2,81
+"HD Rutherford","2020/21","Super Smash","Otago",10,166,113,146.902654867257,16.6,22,6,0,0,0,49
+"HD Rutherford","2021/22","Super Smash","Otago",9,229,174,131.609195402299,25.4444444444444,25,8,0,0,2,82
+"HD Rutherford","2022/23","Super Smash","Otago",9,126,94,134.042553191489,14,18,4,0,0,0,34
+"HD Rutherford","2023/24","Super Smash","Otago",8,155,124,125,19.375,18,4,0,0,1,52
+"HJH Marshall","2017/18","Super Smash","Wellington",7,121,76,159.210526315789,17.2857142857143,22,0,0,0,0,43
+"HK Bennett","2018/19","Super Smash","Wellington",3,2,5,40,2,0,0,2,0,0,1
+"HK Bennett","2019/20","Super Smash","Wellington",1,12,8,150,Inf,2,0,1,0,0,12
+"HK Bennett","2021/22","Super Smash","Wellington",2,5,4,125,Inf,0,0,2,0,0,4
+"HKP Boam","2012/13","HRV Cup","Wellington",1,35,41,85.3658536585366,35,1,1,0,0,0,35
+"HM Nicholls","2017/18","Super Smash","Canterbury",2,35,24,145.833333333333,17.5,4,1,0,0,0,25
+"HM Nicholls","2018/19","Super Smash","Canterbury",2,60,45,133.333333333333,30,4,3,0,0,0,40
+"HM Nicholls","2019/20","Super Smash","Canterbury",1,39,28,139.285714285714,39,4,1,0,0,0,39
+"HM Nicholls","2021/22","Super Smash","Canterbury",2,84,58,144.827586206897,84,7,3,1,0,0,49
+"HM Nicholls","2023/24","Super Smash","Canterbury",10,317,223,142.152466367713,39.625,39,5,2,0,3,76
+"HR Cooper","2020/21","Super Smash","Northern Districts",4,40,54,74.0740740740741,10,2,0,0,0,0,23
+"HR Cooper","2021/22","Super Smash","Northern Districts",10,136,116,117.241379310345,19.4285714285714,8,7,3,0,0,25
+"HR Cooper","2022/23","Super Smash","Northern Districts",5,78,79,98.7341772151899,19.5,7,3,1,0,1,52
+"HR Cooper","2023/24","Super Smash","Northern Districts",9,65,83,78.3132530120482,7.22222222222222,8,2,0,0,0,25
+"IG Butler","2012/13","HRV Cup","Otago",1,23,10,230,Inf,2,2,1,0,0,23
+"IG McPeake","2017/18","Super Smash","Wellington",1,0,3,0,0,0,0,0,0,0,0
+"IG McPeake","2023/24","Super Smash","Wellington",2,6,8,75,6,1,0,1,0,0,6
+"IS Sodhi","2017/18","Super Smash","Northern Districts",2,0,2,0,0,0,0,1,0,0,0
+"IS Sodhi","2018/19","Super Smash","Northern Districts",2,8,7,114.285714285714,8,1,0,1,0,0,7
+"IS Sodhi","2019/20","Super Smash","Northern Districts",4,17,14,121.428571428571,8.5,1,0,2,0,0,9
+"IS Sodhi","2021/22","Super Smash","Northern Districts",3,12,11,109.090909090909,12,1,0,2,0,0,8
+"J McKenzie","2023/24","Super Smash","Auckland",1,8,5,160,8,0,1,0,0,0,8
+"JA Clarkson","2017/18","Super Smash","Central Districts",11,157,124,126.612903225806,19.625,8,6,3,0,1,52
+"JA Clarkson","2018/19","Super Smash","Central Districts",8,136,93,146.236559139785,19.4285714285714,7,10,1,0,0,42
+"JA Clarkson","2019/20","Super Smash","Central Districts",10,212,161,131.67701863354,26.5,8,12,2,0,0,36
+"JA Clarkson","2020/21","Super Smash","Central Districts",11,280,176,159.090909090909,28,19,14,1,0,1,78
+"JA Clarkson","2021/22","Super Smash","Central Districts",9,201,107,187.85046728972,33.5,11,14,3,0,2,76
+"JA Clarkson","2022/23","Super Smash","Central Districts",8,258,157,164.331210191083,36.8571428571429,22,14,1,0,2,58
+"JA Clarkson","2023/24","Super Smash","Central Districts",5,79,71,111.267605633803,15.8,3,4,0,0,0,31
+"JA Duffy","2013/14","HRV Twenty20","Otago",1,1,2,50,Inf,0,0,1,0,0,1
+"JA Duffy","2017/18","Super Smash","Otago",5,8,12,66.6666666666667,2.66666666666667,0,0,2,0,0,2
+"JA Duffy","2018/19","Super Smash","Otago",2,10,6,166.666666666667,Inf,1,0,2,0,0,10
+"JA Duffy","2019/20","Super Smash","Otago",3,21,14,150,21,1,1,2,0,0,10
+"JA Duffy","2020/21","Super Smash","Otago",7,17,20,85,5.66666666666667,1,1,4,0,0,9
+"JA Duffy","2021/22","Super Smash","Otago",5,21,15,140,7,2,1,2,0,0,16
+"JA Duffy","2022/23","Super Smash","Otago",4,14,9,155.555555555556,4.66666666666667,1,0,1,0,0,7
+"JA Duffy","2023/24","Super Smash","Otago",2,0,1,0,0,0,0,0,0,0,0
+"JA Raval","2013/14","HRV Twenty20","Auckland",1,50,40,125,Inf,4,1,1,0,1,50
+"JA Raval","2017/18","Super Smash","Auckland",1,6,6,100,6,1,0,0,0,0,6
+"JA Raval","2020/21","Super Smash","Northern Districts",3,94,76,123.684210526316,31.3333333333333,9,3,0,0,1,70
+"JA Raval","2021/22","Super Smash","Northern Districts",11,184,164,112.19512195122,18.4,17,6,1,0,1,66
+"JA Raval","2022/23","Super Smash","Northern Districts",9,184,147,125.170068027211,20.4444444444444,20,5,0,0,1,60
+"JA Raval","2023/24","Super Smash","Northern Districts",10,194,163,119.018404907975,19.4,21,4,0,0,2,62
+"JCT Boyle","2019/20","Super Smash","Canterbury",10,231,204,113.235294117647,25.6666666666667,25,3,1,0,1,69
+"JCT Boyle","2020/21","Super Smash","Canterbury",9,155,157,98.7261146496815,17.2222222222222,10,0,0,0,0,44
+"JCT Boyle","2021/22","Super Smash","Canterbury",1,31,25,124,31,2,1,0,0,0,31
+"JCT Boyle","2023/24","Super Smash","Central Districts",4,67,63,106.349206349206,16.75,11,0,0,0,1,57
+"JD Gibson","2019/20","Super Smash","Wellington",6,86,59,145.762711864407,14.3333333333333,6,2,0,0,0,28
+"JD Gibson","2020/21","Super Smash","Wellington",7,82,60,136.666666666667,16.4,3,5,2,0,0,24
+"JD Gibson","2021/22","Super Smash","Wellington",6,60,64,93.75,15,2,2,2,0,0,22
+"JD Ryder","2012/13","HRV Cup","Wellington",1,30,15,200,30,1,4,0,0,0,30
+"JD Ryder","2017/18","Super Smash","Central Districts",10,255,171,149.122807017544,25.5,27,13,0,0,3,84
+"JD Sole","2013/14","HRV Twenty20","Auckland",1,24,18,133.333333333333,Inf,2,1,1,0,0,24
+"JDS Neesham","2017/18","Super Smash","Otago",3,18,14,128.571428571429,6,2,1,0,0,0,10
+"JDS Neesham","2018/19","Super Smash","Wellington",4,50,35,142.857142857143,12.5,4,3,0,0,0,22
+"JDS Neesham","2019/20","Super Smash","Wellington",8,229,170,134.705882352941,45.8,16,9,3,0,0,47
+"JDS Neesham","2020/21","Super Smash","Wellington",6,89,77,115.584415584416,17.8,5,3,1,0,0,49
+"JDS Neesham","2021/22","Super Smash","Wellington",5,47,50,94,11.75,3,0,1,0,0,20
+"JDS Neesham","2023/24","Super Smash","Auckland",1,10,7,142.857142857143,10,0,1,0,0,0,10
+"JF Carter","2018/19","Super Smash","Northern Districts",2,7,15,46.6666666666667,3.5,0,0,0,0,0,7
+"JF Carter","2019/20","Super Smash","Northern Districts",6,83,63,131.746031746032,20.75,5,4,2,0,1,55
+"JF Carter","2020/21","Super Smash","Northern Districts",4,32,34,94.1176470588235,8,3,0,0,0,0,14
+"JF Carter","2021/22","Super Smash","Northern Districts",7,174,163,106.748466257669,29,17,3,1,0,1,75
+"JF Carter","2022/23","Super Smash","Northern Districts",8,172,140,122.857142857143,43,13,6,4,0,1,76
+"JF Carter","2023/24","Super Smash","Northern Districts",6,108,101,106.930693069307,18,11,4,0,0,0,48
+"JFA Field","2020/21","Super Smash","Central Districts",6,18,13,138.461538461538,9,2,0,4,0,0,8
+"JFA Field","2021/22","Super Smash","Central Districts",1,9,11,81.8181818181818,9,1,0,0,0,0,9
+"JFA Field","2023/24","Super Smash","Central Districts",1,0,1,0,0,0,0,0,0,0,0
+"JG Walker","2017/18","Super Smash","Northern Districts",1,1,5,20,1,0,0,0,0,0,1
+"JG Walker","2020/21","Super Smash","Northern Districts",2,21,18,116.666666666667,10.5,1,1,0,0,0,16
+"JG Walker","2021/22","Super Smash","Northern Districts",2,0,1,0,0,0,0,1,0,0,0
+"JG Walker","2022/23","Super Smash","Northern Districts",2,5,10,50,5,0,0,1,0,0,4
+"JJ Tasman-Jones","2018/19","Super Smash","Otago",4,8,17,47.0588235294118,2,1,0,0,0,0,5
+"JJ Tasman-Jones","2021/22","Super Smash","Otago",4,96,78,123.076923076923,24,10,4,0,0,0,35
+"JJNP Bhula","2022/23","Super Smash","Wellington",3,44,49,89.7959183673469,22,3,1,1,0,0,35
+"JK Fuller","2012/13","HRV Cup","Otago",1,0,0,NA,NA,0,0,1,0,0,0
+"JL Finnie","2017/18","Super Smash","Otago",7,129,104,124.038461538462,18.4285714285714,11,5,0,0,0,46
+"JL Finnie","2018/19","Super Smash","Otago",6,36,34,105.882352941176,6,3,1,0,0,0,16
+"JL Finnie","2019/20","Super Smash","Otago",9,183,114,160.526315789474,26.1428571428571,20,7,2,0,1,71
+"JL Finnie","2020/21","Super Smash","Otago",4,45,33,136.363636363636,11.25,3,2,0,0,0,26
+"JL Finnie","2021/22","Super Smash","Otago",2,22,20,110,11,5,0,0,0,0,12
+"JL Finnie","2022/23","Super Smash","Otago",10,126,96,131.25,14,9,7,1,0,0,43
+"JM Gibson","2021/22","Super Smash","Otago",2,2,4,50,1,0,0,0,0,0,2
+"JM Gibson","2022/23","Super Smash","Otago",9,266,179,148.603351955307,33.25,20,10,1,0,2,96
+"JM Gibson","2023/24","Super Smash","Otago",8,90,67,134.328358208955,11.25,8,4,0,0,1,56
+"JM McMillan","2013/14","HRV Twenty20","Otago",1,1,2,50,1,0,0,0,0,0,1
+"JM Tashkoff","2023/24","Super Smash","Wellington",4,57,45,126.666666666667,14.25,6,1,0,0,0,22
+"JM Vince","2018/19","Super Smash","Auckland",2,19,21,90.4761904761905,9.5,3,0,0,0,0,18
+"JO Holder","2013/14","HRV Twenty20","Otago",1,5,5,100,5,1,0,0,0,0,5
+"JR Lennox","2021/22","Super Smash","Central Districts",2,23,22,104.545454545455,Inf,4,0,2,0,0,17
+"JR Lennox","2022/23","Super Smash","Central Districts",2,1,4,25,0.5,0,0,0,0,0,1
+"JR Lennox","2023/24","Super Smash","Central Districts",2,22,17,129.411764705882,Inf,0,2,2,0,0,20
+"JS Hunter","2017/18","Super Smash","Otago",1,7,3,233.333333333333,Inf,0,1,1,0,0,7
+"JS Patel","2017/18","Super Smash","Wellington",4,13,11,118.181818181818,3.25,2,0,0,0,0,6
+"JS Patel","2018/19","Super Smash","Wellington",5,24,21,114.285714285714,6,1,1,1,0,0,10
+"JS Patel","2019/20","Super Smash","Wellington",1,2,4,50,2,0,0,0,0,0,2
+"JT Todd","2023/24","Super Smash","Otago",1,2,2,100,Inf,0,0,1,0,0,2
+"JTA Benton","2018/19","Super Smash","Canterbury",1,9,9,100,9,1,0,0,0,0,9
+"K Noema-Barnett","2018/19","Super Smash","Central Districts",6,65,55,118.181818181818,16.25,4,3,2,0,0,20
+"K Noema-Barnett","2019/20","Super Smash","Central Districts",10,209,155,134.838709677419,20.9,12,14,0,0,2,58
+"K Noema-Barnett","2020/21","Super Smash","Central Districts",6,42,45,93.3333333333333,8.4,3,1,1,0,0,12
+"KA Jamieson","2017/18","Super Smash","Canterbury",1,11,7,157.142857142857,11,1,0,0,0,0,11
+"KA Jamieson","2018/19","Super Smash","Canterbury",4,64,53,120.754716981132,32,3,2,2,0,0,24
+"KA Jamieson","2019/20","Super Smash","Auckland",2,10,6,166.666666666667,Inf,1,0,2,0,0,10
+"KA Jamieson","2020/21","Super Smash","Auckland",4,56,38,147.368421052632,28,2,2,2,0,0,21
+"KA Jamieson","2022/23","Super Smash","Auckland",3,60,53,113.207547169811,60,7,1,2,0,0,45
+"KD Clarke","2020/21","Super Smash","Northern Districts",8,108,78,138.461538461538,13.5,16,2,0,0,0,26
+"KD Clarke","2021/22","Super Smash","Northern Districts",8,228,149,153.020134228188,32.5714285714286,23,12,1,0,1,71
+"KD Clarke","2022/23","Super Smash","Northern Districts",9,266,193,137.823834196891,29.5555555555556,32,9,0,0,1,73
+"KD Clarke","2023/24","Super Smash","Northern Districts",10,170,144,118.055555555556,17,17,5,0,0,0,32
+"KDC Clarke","2022/23","Super Smash","Northern Districts",1,8,3,266.666666666667,Inf,0,1,1,0,0,8
+"KDC Clarke","2023/24","Super Smash","Northern Districts",4,24,20,120,8,1,1,1,0,0,11
+"KJ Abbott","2018/19","Super Smash","Northern Districts",4,23,19,121.052631578947,11.5,2,1,2,0,0,14
+"KJ McClure","2020/21","Super Smash","Canterbury",12,187,133,140.601503759398,17,22,7,1,0,0,40
+"KJ McClure","2021/22","Super Smash","Canterbury",7,97,74,131.081081081081,13.8571428571429,12,4,0,0,0,34
+"KJ McClure","2022/23","Super Smash","Canterbury",7,173,121,142.97520661157,24.7142857142857,17,7,0,0,1,68
+"KJ McClure","2023/24","Super Smash","Canterbury",1,16,10,160,16,4,0,0,0,0,16
+"KLD Vishvaka","2022/23","Super Smash","Wellington",4,11,18,61.1111111111111,2.75,0,1,0,0,0,7
+"KS Williamson","2013/14","HRV Twenty20","Northern Districts",1,79,55,143.636363636364,Inf,7,1,1,0,1,79
+"KS Williamson","2020/21","Super Smash","Northern Districts",2,113,82,137.80487804878,Inf,10,3,2,0,1,79
+"L Delport","2020/21","Super Smash","Auckland",1,3,4,75,Inf,0,0,1,0,0,3
+"L Delport","2021/22","Super Smash","Auckland",3,9,12,75,3,0,1,0,0,0,6
+"L Delport","2022/23","Super Smash","Auckland",8,42,37,113.513513513514,6,4,1,1,0,0,11
+"L Delport","2023/24","Super Smash","Auckland",2,0,2,0,0,0,0,0,0,0,0
+"L Ronchi","2012/13","HRV Cup","Wellington",1,14,11,127.272727272727,14,2,0,0,0,0,14
+"L Ronchi","2017/18","Super Smash","Wellington",6,181,104,174.038461538462,30.1666666666667,13,12,0,1,0,102
+"LC Johnson","2017/18","Super Smash","Otago",3,18,25,72,6,3,0,0,0,0,7
+"LC Johnson","2020/21","Super Smash","Otago",6,118,90,131.111111111111,19.6666666666667,9,7,0,0,1,72
+"LC Johnson","2021/22","Super Smash","Otago",7,92,68,135.294117647059,13.1428571428571,7,3,0,0,0,38
+"LC Johnson","2022/23","Super Smash","Otago",10,156,123,126.829268292683,17.3333333333333,4,12,1,0,0,46
+"LC Johnson","2023/24","Super Smash","Otago",6,75,81,92.5925925925926,12.5,5,1,0,0,0,22
+"LH Ferguson","2021/22","Super Smash","Auckland",9,102,73,139.72602739726,14.5714285714286,6,7,2,0,0,30
+"LH Ferguson","2022/23","Super Smash","Auckland",2,10,13,76.9230769230769,10,1,0,1,0,0,6
+"LI Georgeson","2021/22","Super Smash","Wellington",3,31,26,119.230769230769,10.3333333333333,3,1,0,0,0,30
+"LI Georgeson","2023/24","Super Smash","Otago",1,22,23,95.6521739130435,22,1,2,0,0,0,22
+"LJ Carter","2017/18","Super Smash","Canterbury",5,54,54,100,10.8,4,1,0,0,0,35
+"LJ Carter","2018/19","Super Smash","Canterbury",4,67,63,106.349206349206,16.75,4,3,0,0,0,25
+"LJ Carter","2019/20","Super Smash","Canterbury",8,147,105,140,24.5,8,10,2,0,1,70
+"LJ Carter","2020/21","Super Smash","Canterbury",11,127,112,113.392857142857,18.1428571428571,6,3,4,0,0,42
+"LJ Carter","2021/22","Super Smash","Canterbury",10,192,133,144.360902255639,24,10,10,2,0,1,56
+"LJ Carter","2022/23","Super Smash","Canterbury",11,305,255,119.607843137255,50.8333333333333,31,6,5,0,2,88
+"LJ Carter","2023/24","Super Smash","Canterbury",2,31,22,140.909090909091,15.5,3,1,0,0,0,22
+"LJ Woodcock","2012/13","HRV Cup","Wellington",1,40,31,129.032258064516,Inf,4,0,1,0,0,40
+"LJ Woodcock","2017/18","Super Smash","Wellington",6,74,54,137.037037037037,24.6666666666667,4,3,3,0,0,39
+"LJ Woodcock","2018/19","Super Smash","Wellington",4,84,77,109.090909090909,21,4,2,0,0,1,63
+"LR Johns","2018/19","Super Smash","Wellington",1,19,19,100,19,1,0,0,0,0,19
+"LR Johns","2019/20","Super Smash","Wellington",1,0,1,0,0,0,0,0,0,0,0
+"LR Johns","2020/21","Super Smash","Wellington",1,11,7,157.142857142857,Inf,1,1,1,0,0,11
+"LRPL Taylor","2020/21","Super Smash","Central Districts",6,125,76,164.473684210526,25,5,11,1,0,1,65
+"LRPL Taylor","2022/23","Super Smash","Central Districts",6,130,115,113.04347826087,21.6666666666667,7,7,0,0,1,50
+"LV van Beek","2017/18","Super Smash","Wellington",3,10,14,71.4285714285714,5,0,0,1,0,0,5
+"LV van Beek","2018/19","Super Smash","Wellington",5,38,33,115.151515151515,12.6666666666667,3,1,2,0,0,18
+"LV van Beek","2019/20","Super Smash","Wellington",5,26,18,144.444444444444,13,2,1,3,0,0,15
+"LV van Beek","2020/21","Super Smash","Wellington",5,61,27,225.925925925926,61,8,2,4,0,0,29
+"LV van Beek","2021/22","Super Smash","Wellington",7,160,102,156.862745098039,26.6666666666667,13,8,1,0,1,61
+"LV van Beek","2022/23","Super Smash","Wellington",7,129,86,150,43,12,5,4,0,1,54
+"LV van Beek","2023/24","Super Smash","Wellington",7,83,71,116.901408450704,20.75,7,3,3,0,0,41
+"M Renwick","2018/19","Super Smash","Otago",1,6,10,60,6,0,0,0,0,0,6
+"M Renwick","2020/21","Super Smash","Otago",6,99,86,115.116279069767,16.5,3,3,0,0,0,42
+"MA Abbas","2023/24","Super Smash","Wellington",9,206,163,126.38036809816,22.8888888888889,13,11,0,0,1,72
+"MA Pollard","2012/13","HRV Cup","Wellington",1,0,1,0,0,0,0,0,0,0,0
+"MA Pollard","2017/18","Super Smash","Canterbury",9,161,131,122.900763358779,17.8888888888889,12,9,0,0,0,33
+"MA Pollard","2018/19","Super Smash","Wellington",4,41,39,105.128205128205,13.6666666666667,3,0,1,0,0,24
+"MA Pollard","2019/20","Super Smash","Wellington",11,291,223,130.493273542601,29.1,24,14,1,0,3,70
+"MB Bacon","2017/18","Super Smash","Otago",2,0,2,0,0,0,0,1,0,0,0
+"MB Bacon","2020/21","Super Smash","Otago",1,1,3,33.3333333333333,1,0,0,0,0,0,1
+"MB Bacon","2021/22","Super Smash","Otago",2,5,5,100,Inf,0,0,2,0,0,3
+"MB Bacon","2022/23","Super Smash","Otago",1,9,7,128.571428571429,9,0,1,0,0,0,9
+"MB Bacon","2023/24","Super Smash","Otago",2,24,21,114.285714285714,Inf,1,1,2,0,0,15
+"MB McEwan","2017/18","Super Smash","Auckland",1,1,4,25,1,0,0,0,0,0,1
+"MD Craig","2017/18","Super Smash","Otago",2,20,19,105.263157894737,10,0,1,0,0,0,19
+"MD Rae","2017/18","Super Smash","Otago",2,13,7,185.714285714286,13,3,0,1,0,0,9
+"MD Rae","2019/20","Super Smash","Otago",1,0,1,0,NA,0,0,1,0,0,0
+"MD Rae","2020/21","Super Smash","Otago",2,20,12,166.666666666667,10,4,0,0,0,0,16
+"MD Rae","2021/22","Super Smash","Otago",1,6,3,200,Inf,1,0,1,0,0,6
+"MD Rae","2022/23","Super Smash","Otago",6,15,14,107.142857142857,Inf,2,0,6,0,0,7
+"MD Rae","2023/24","Super Smash","Canterbury",1,0,1,0,0,0,0,0,0,0,0
+"MG Bracewell","2012/13","HRV Cup","Otago",1,0,0,NA,0,0,0,0,0,0,0
+"MG Bracewell","2013/14","HRV Twenty20","Otago",2,30,33,90.9090909090909,30,2,0,1,0,0,22
+"MG Bracewell","2017/18","Super Smash","Wellington",7,101,97,104.123711340206,20.2,6,4,2,0,0,41
+"MG Bracewell","2018/19","Super Smash","Wellington",9,266,149,178.523489932886,29.5555555555556,26,18,0,0,3,74
+"MG Bracewell","2019/20","Super Smash","Wellington",9,149,144,103.472222222222,21.2857142857143,8,2,2,0,0,34
+"MG Bracewell","2020/21","Super Smash","Wellington",8,155,133,116.541353383459,25.8333333333333,11,3,2,0,0,47
+"MG Bracewell","2021/22","Super Smash","Wellington",10,478,321,148.909657320872,79.6666666666667,40,21,4,1,4,141
+"MG Bracewell","2023/24","Super Smash","Wellington",6,151,90,167.777777777778,30.2,8,11,1,0,1,54
+"MG Hughes","2021/22","Super Smash","Central Districts",2,17,13,130.769230769231,8.5,2,1,0,0,0,12
+"MHW Papps","2012/13","HRV Cup","Wellington",1,0,4,0,0,0,0,0,0,0,0
+"MJ Fisher","2019/20","Super Smash","Northern Districts",2,1,3,33.3333333333333,Inf,0,0,2,0,0,1
+"MJ Fisher","2020/21","Super Smash","Northern Districts",2,1,1,100,Inf,0,0,2,0,0,1
+"MJ Fisher","2023/24","Super Smash","Northern Districts",3,9,17,52.9411764705882,Inf,1,0,3,0,0,4
+"MJ Gibson","2022/23","Super Smash","Auckland",2,10,11,90.9090909090909,10,2,0,1,0,0,8
+"MJ Guptill","2017/18","Super Smash","Auckland",1,29,22,131.818181818182,29,3,1,0,0,0,29
+"MJ Guptill","2018/19","Super Smash","Auckland",3,133,89,149.438202247191,133,17,5,2,0,2,71
+"MJ Guptill","2019/20","Super Smash","Auckland",10,403,283,142.402826855124,44.7777777777778,38,18,1,0,2,83
+"MJ Guptill","2020/21","Super Smash","Auckland",4,46,50,92,11.5,3,2,0,0,0,29
+"MJ Guptill","2021/22","Super Smash","Auckland",6,151,129,117.054263565891,30.2,13,6,1,0,1,79
+"MJ Guptill","2023/24","Super Smash","Auckland",3,139,89,156.179775280899,69.5,11,8,1,0,1,85
+"MJ Hay","2021/22","Super Smash","Canterbury",6,55,37,148.648648648649,11,3,4,1,0,0,29
+"MJ Hay","2022/23","Super Smash","Canterbury",6,83,67,123.880597014925,16.6,4,3,1,0,0,46
+"MJ Hay","2023/24","Super Smash","Canterbury",8,170,103,165.04854368932,28.3333333333333,11,10,2,0,1,73
+"MJ Henry","2013/14","HRV Twenty20","Canterbury",1,0,1,0,NA,0,0,1,0,0,0
+"MJ Henry","2017/18","Super Smash","Canterbury",1,11,6,183.333333333333,11,0,1,0,0,0,11
+"MJ Henry","2018/19","Super Smash","Canterbury",3,6,6,100,Inf,0,0,3,0,0,3
+"MJ Henry","2020/21","Super Smash","Canterbury",8,22,22,100,7.33333333333333,0,1,5,0,0,7
+"MJ Henry","2021/22","Super Smash","Canterbury",7,85,49,173.469387755102,17,5,6,2,0,0,44
+"MJ Henry","2023/24","Super Smash","Canterbury",1,16,6,266.666666666667,Inf,0,2,1,0,0,16
+"MJ McClenaghan","2018/19","Super Smash","Auckland",2,0,3,0,0,0,0,0,0,0,0
+"MJ McClenaghan","2019/20","Super Smash","Auckland",3,11,11,100,5.5,1,0,1,0,0,5
+"MJ McClenaghan","2020/21","Super Smash","Otago",7,42,35,120,8.4,1,3,2,0,0,14
+"MJ Nofal","2018/19","Super Smash","Wellington",4,51,57,89.4736842105263,17,4,0,1,0,0,28
+"MJ Nofal","2019/20","Super Smash","Wellington",4,34,37,91.8918918918919,11.3333333333333,2,0,1,0,0,16
+"MJ Santner","2018/19","Super Smash","Northern Districts",6,77,61,126.229508196721,25.6666666666667,7,3,3,0,0,26
+"MJ Santner","2020/21","Super Smash","Northern Districts",5,73,50,146,18.25,4,4,1,0,0,39
+"MJ Santner","2021/22","Super Smash","Northern Districts",4,158,84,188.095238095238,52.6666666666667,11,13,1,0,2,92
+"MJ Santner","2022/23","Super Smash","Northern Districts",5,88,56,157.142857142857,88,6,6,4,0,0,41
+"MJ Santner","2023/24","Super Smash","Northern Districts",2,58,45,128.888888888889,29,3,3,0,0,0,49
+"MJ Taylor","2017/18","Super Smash","Wellington",1,3,5,60,3,0,0,0,0,0,3
+"MJG Rippon","2017/18","Super Smash","Otago",4,51,38,134.210526315789,25.5,6,1,2,0,0,22
+"MJG Rippon","2018/19","Super Smash","Otago",4,76,46,165.217391304348,25.3333333333333,4,3,1,0,0,28
+"MJG Rippon","2019/20","Super Smash","Otago",7,48,39,123.076923076923,16,3,2,4,0,0,23
+"MJG Rippon","2020/21","Super Smash","Otago",10,99,89,111.23595505618,12.375,12,0,2,0,0,22
+"MJG Rippon","2021/22","Super Smash","Otago",6,99,88,112.5,24.75,7,2,2,0,0,38
+"MJG Rippon","2022/23","Super Smash","Otago",6,102,99,103.030303030303,17,5,2,0,0,0,40
+"MJG Rippon","2023/24","Super Smash","Canterbury",6,142,108,131.481481481481,47.3333333333333,9,4,3,0,1,58
+"MP O'Dowd","2022/23","Super Smash","Auckland",2,5,10,50,2.5,1,0,0,0,0,5
+"MR Quinn","2018/19","Super Smash","Auckland",2,4,6,66.6666666666667,Inf,0,0,2,0,0,2
+"MS Chapman","2017/18","Super Smash","Auckland",8,287,163,176.073619631902,35.875,25,14,0,1,2,101
+"MS Chapman","2018/19","Super Smash","Auckland",9,195,155,125.806451612903,32.5,22,6,3,0,1,75
+"MS Chapman","2019/20","Super Smash","Auckland",10,225,161,139.751552795031,28.125,16,8,2,0,2,63
+"MS Chapman","2020/21","Super Smash","Auckland",5,219,135,162.222222222222,43.8,22,10,0,0,2,73
+"MS Chapman","2021/22","Super Smash","Auckland",9,184,159,115.723270440252,20.4444444444444,14,3,0,0,2,55
+"MS Chapman","2022/23","Super Smash","Auckland",5,51,56,91.0714285714286,10.2,4,1,0,0,0,25
+"MS Chapman","2023/24","Super Smash","Auckland",2,47,42,111.904761904762,23.5,5,1,0,0,0,38
+"MTMMJ Ave","2021/22","Super Smash","Central Districts",2,18,21,85.7142857142857,9,2,0,0,0,0,12
+"MTMMJ Ave","2022/23","Super Smash","Central Districts",1,0,5,0,0,0,0,0,0,0,0
+"MV Houghton","2012/13","HRV Cup","Wellington",1,6,3,200,6,1,0,0,0,0,6
+"MW Chu","2019/20","Super Smash","Otago",1,1,2,50,Inf,0,0,1,0,0,1
+"MW Chu","2020/21","Super Smash","Otago",3,30,26,115.384615384615,30,4,0,2,0,0,21
+"MW Chu","2021/22","Super Smash","Otago",7,63,55,114.545454545455,10.5,6,1,1,0,0,12
+"MW Chu","2022/23","Super Smash","Otago",3,19,14,135.714285714286,6.33333333333333,2,0,0,0,0,16
+"MW Chu","2023/24","Super Smash","Otago",7,125,74,168.918918918919,20.8333333333333,13,5,1,0,0,34
+"MW Hay","2021/22","Super Smash","Canterbury",2,13,14,92.8571428571429,6.5,2,0,0,0,0,11
+"MW Snedden","2022/23","Super Smash","Wellington",1,0,1,0,0,0,0,0,0,0,0
+"MWT Boyle","2022/23","Super Smash","Canterbury",4,48,47,102.127659574468,12,4,1,0,0,0,30
+"MWT Boyle","2023/24","Super Smash","Canterbury",1,15,12,125,15,3,0,0,0,0,15
+"N Wagner","2013/14","HRV Twenty20","Otago",1,0,4,0,0,0,0,0,0,0,0
+"N Wagner","2017/18","Super Smash","Otago",5,27,21,128.571428571429,9,2,1,2,0,0,13
+"N Wagner","2018/19","Super Smash","Northern Districts",2,12,11,109.090909090909,Inf,1,0,2,0,0,9
+"N Wagner","2023/24","Super Smash","Northern Districts",5,44,35,125.714285714286,14.6666666666667,5,2,2,0,0,36
+"NA Greenwood","2021/22","Super Smash","Wellington",2,23,23,100,11.5,2,1,0,0,0,14
+"NA Greenwood","2023/24","Super Smash","Wellington",6,18,32,56.25,3,2,0,0,0,0,10
+"NB Beard","2013/14","HRV Twenty20","Otago",1,1,7,14.2857142857143,1,0,0,0,0,0,1
+"NF Kelly","2017/18","Super Smash","Northern Districts",6,41,35,117.142857142857,8.2,3,2,1,0,0,27
+"NF Kelly","2018/19","Super Smash","Northern Districts",6,155,103,150.485436893204,25.8333333333333,19,8,0,0,1,56
+"NF Kelly","2019/20","Super Smash","Otago",10,398,285,139.649122807018,44.2222222222222,38,16,1,0,4,85
+"NF Kelly","2020/21","Super Smash","Otago",9,195,168,116.071428571429,21.6666666666667,22,6,0,0,1,75
+"NF Kelly","2021/22","Super Smash","Otago",8,158,134,117.910447761194,22.5714285714286,14,7,1,0,1,58
+"NF Kelly","2022/23","Super Smash","Wellington",8,130,98,132.65306122449,16.25,13,7,0,0,1,58
+"NF Kelly","2023/24","Super Smash","Wellington",10,245,193,126.943005181347,30.625,23,8,2,0,1,72
+"NG Smith","2018/19","Super Smash","Otago",4,11,14,78.5714285714286,5.5,1,0,2,0,0,9
+"NG Smith","2019/20","Super Smash","Otago",2,28,21,133.333333333333,14,2,1,0,0,0,22
+"NG Smith","2020/21","Super Smash","Otago",4,30,28,107.142857142857,7.5,1,0,0,0,0,16
+"NG Smith","2021/22","Super Smash","Wellington",8,77,59,130.508474576271,11,4,5,1,0,0,38
+"NG Smith","2022/23","Super Smash","Wellington",7,104,89,116.85393258427,14.8571428571429,8,2,0,0,0,35
+"NG Smith","2023/24","Super Smash","Wellington",9,111,73,152.054794520548,18.5,9,6,3,0,0,26
+"NM Kwant","2017/18","Super Smash","Canterbury",7,89,78,114.102564102564,12.7142857142857,6,3,0,0,0,48
+"NM Kwant","2022/23","Super Smash","Otago",3,35,30,116.666666666667,17.5,3,1,1,0,0,22
+"NS Perera","2023/24","Super Smash","Auckland",1,1,1,100,Inf,0,0,1,0,0,1
+"NT Broom","2012/13","HRV Cup","Otago",1,60,52,115.384615384615,60,4,1,0,0,1,60
+"NT Broom","2013/14","HRV Twenty20","Otago",2,45,41,109.756097560976,22.5,2,1,0,0,0,44
+"NT Broom","2017/18","Super Smash","Otago",4,51,45,113.333333333333,12.75,5,2,0,0,0,22
+"NT Broom","2018/19","Super Smash","Otago",5,141,107,131.775700934579,28.2,13,6,0,0,1,65
+"NT Broom","2019/20","Super Smash","Otago",11,357,262,136.259541984733,32.4545454545455,32,18,0,0,3,93
+"NT Broom","2020/21","Super Smash","Otago",10,292,213,137.089201877934,29.2,30,8,0,0,1,57
+"NT Broom","2021/22","Super Smash","Otago",9,198,180,110,22,18,4,0,0,1,62
+"OB Cox","2018/19","Super Smash","Otago",7,151,128,117.96875,30.2,10,4,2,0,0,49
+"OJ White","2023/24","Super Smash","Otago",5,59,65,90.7692307692308,14.75,4,1,1,0,0,30
+"OMR Pringle","2020/21","Super Smash","Auckland",2,3,6,50,3,0,0,1,0,0,2
+"OR Newton","2017/18","Super Smash","Wellington",3,6,9,66.6666666666667,6,1,0,2,0,0,5
+"OR Newton","2018/19","Super Smash","Wellington",6,38,39,97.4358974358974,7.6,2,1,1,0,0,17
+"OR Newton","2019/20","Super Smash","Wellington",2,10,8,125,Inf,1,0,2,0,0,10
+"OR Newton","2021/22","Super Smash","Wellington",3,12,15,80,4,1,0,0,0,0,9
+"OR Newton","2022/23","Super Smash","Wellington",3,8,10,80,2.66666666666667,1,0,0,0,0,4
+"PD Bocock","2017/18","Super Smash","Northern Districts",3,33,30,110,33,3,0,2,0,0,29
+"PD Bocock","2018/19","Super Smash","Northern Districts",6,54,39,138.461538461538,13.5,5,1,2,0,0,27
+"PD Bocock","2019/20","Super Smash","Northern Districts",3,38,24,158.333333333333,19,4,1,1,0,0,18
+"PD Bocock","2020/21","Super Smash","Northern Districts",1,2,3,66.6666666666667,2,0,0,0,0,0,2
+"PD Bocock","2021/22","Super Smash","Northern Districts",2,18,18,100,18,0,1,1,0,0,13
+"PD Bocock","2022/23","Super Smash","Northern Districts",1,19,15,126.666666666667,Inf,3,0,1,0,0,19
+"PD Bocock","2023/24","Super Smash","Northern Districts",6,72,65,110.769230769231,14.4,4,2,1,0,0,19
+"PF Younghusband","2018/19","Super Smash","Wellington",1,0,0,NA,NA,0,0,1,0,0,0
+"PF Younghusband","2019/20","Super Smash","Wellington",3,11,11,100,5.5,1,0,1,0,0,6
+"PF Younghusband","2020/21","Super Smash","Wellington",1,2,2,100,Inf,0,0,1,0,0,2
+"PF Younghusband","2021/22","Super Smash","Wellington",6,37,38,97.3684210526316,9.25,4,0,2,0,0,21
+"PF Younghusband","2022/23","Super Smash","Wellington",4,29,19,152.631578947368,Inf,1,1,4,0,0,21
+"PF Younghusband","2023/24","Super Smash","Wellington",5,26,31,83.8709677419355,8.66666666666667,2,1,2,0,0,13
+"PG Fulton","2013/14","HRV Twenty20","Canterbury",1,88,49,179.591836734694,Inf,2,7,1,0,1,88
+"R Ravindra","2018/19","Super Smash","Wellington",2,6,10,60,3,0,0,0,0,0,6
+"R Ravindra","2019/20","Super Smash","Wellington",9,186,129,144.186046511628,20.6666666666667,19,6,0,0,0,39
+"R Ravindra","2020/21","Super Smash","Wellington",7,99,76,130.263157894737,16.5,8,5,1,0,0,40
+"R Ravindra","2021/22","Super Smash","Wellington",2,21,32,65.625,10.5,0,0,0,0,0,14
+"R Ravindra","2022/23","Super Smash","Wellington",8,142,117,121.367521367521,20.2857142857143,9,5,1,0,1,67
+"R Ravindra","2023/24","Super Smash","Wellington",2,5,9,55.5555555555556,2.5,0,0,0,0,0,3
+"RD Harrison","2023/24","Super Smash","Auckland",4,47,31,151.612903225806,23.5,2,2,2,0,0,19
+"RJ McCone","2017/18","Super Smash","Central Districts",2,12,12,100,12,1,0,1,0,0,7
+"RJ McCone","2018/19","Super Smash","Central Districts",1,1,3,33.3333333333333,1,0,0,0,0,0,1
+"RJ Nicol","2013/14","HRV Twenty20","Canterbury",1,4,6,66.6666666666667,4,0,0,0,0,0,4
+"RJ Nicol","2017/18","Super Smash","Otago",8,229,188,121.808510638298,32.7142857142857,25,7,1,0,1,65
+"RJ Watson","2019/20","Super Smash","Central Districts",3,6,12,50,3,0,0,1,0,0,5
+"RL Toole","2022/23","Super Smash","Central Districts",2,0,3,0,NA,0,0,2,0,0,0
+"RM Hira","2013/14","HRV Twenty20","Canterbury",1,43,21,204.761904761905,43,2,4,0,0,0,43
+"RM Hira","2017/18","Super Smash","Auckland",2,37,25,148,18.5,1,3,0,0,0,22
+"RM Hira","2018/19","Super Smash","Auckland",3,37,32,115.625,18.5,5,0,1,0,0,17
+"RM Hira","2019/20","Super Smash","Auckland",6,60,44,136.363636363636,15,5,3,2,0,0,33
+"RM ter Braak","2020/21","Super Smash","Auckland",2,0,1,0,0,0,0,1,0,0,0
+"RM ter Braak","2021/22","Super Smash","Auckland",1,2,1,200,Inf,0,0,1,0,0,2
+"RM ter Braak","2022/23","Super Smash","Auckland",1,7,2,350,Inf,0,1,1,0,0,7
+"RN ten Doeschate","2012/13","HRV Cup","Otago",1,21,11,190.909090909091,21,0,2,0,0,0,21
+"RN ten Doeschate","2013/14","HRV Twenty20","Otago",2,36,27,133.333333333333,18,2,2,0,0,0,36
+"RR O'Donnell","2017/18","Super Smash","Auckland",7,227,172,131.976744186047,75.6666666666667,19,8,4,0,2,55
+"RR O'Donnell","2018/19","Super Smash","Auckland",7,116,119,97.4789915966387,29,7,3,3,0,0,45
+"RR O'Donnell","2019/20","Super Smash","Auckland",4,37,23,160.869565217391,18.5,4,1,2,0,0,27
+"RR O'Donnell","2020/21","Super Smash","Auckland",10,254,162,156.79012345679,36.2857142857143,19,11,3,0,1,61
+"RR O'Donnell","2021/22","Super Smash","Auckland",9,227,168,135.119047619048,25.2222222222222,26,6,0,0,2,68
+"RR O'Donnell","2022/23","Super Smash","Auckland",8,210,168,125,26.25,22,6,0,0,2,59
+"RR O'Donnell","2023/24","Super Smash","Auckland",8,192,166,115.66265060241,38.4,17,7,3,0,1,54
+"S Hicks","2017/18","Super Smash","Otago",7,152,109,139.449541284404,21.7142857142857,14,5,0,0,2,52
+"S Hicks","2018/19","Super Smash","Otago",4,56,51,109.803921568627,14,4,2,0,0,0,22
+"SB Davey","2019/20","Super Smash","Canterbury",2,3,6,50,3,0,0,1,0,0,3
+"SB Styris","2013/14","HRV Twenty20","Northern Districts",2,40,39,102.564102564103,20,2,2,0,0,0,29
+"SC Kuggeleijn","2012/13","HRV Cup","Wellington",1,4,4,100,4,0,0,0,0,0,4
+"SC Kuggeleijn","2013/14","HRV Twenty20","Northern Districts",1,22,7,314.285714285714,Inf,1,2,1,0,0,22
+"SC Kuggeleijn","2018/19","Super Smash","Northern Districts",5,25,18,138.888888888889,12.5,3,0,3,0,0,8
+"SC Kuggeleijn","2019/20","Super Smash","Northern Districts",7,105,74,141.891891891892,21,8,4,2,0,0,35
+"SC Kuggeleijn","2020/21","Super Smash","Northern Districts",8,110,79,139.240506329114,22,5,6,3,0,0,41
+"SC Kuggeleijn","2021/22","Super Smash","Northern Districts",6,38,34,111.764705882353,9.5,1,1,2,0,0,14
+"SC Kuggeleijn","2022/23","Super Smash","Northern Districts",4,67,48,139.583333333333,33.5,2,6,2,0,0,27
+"SC Kuggeleijn","2023/24","Super Smash","Northern Districts",9,124,77,161.038961038961,13.7777777777778,8,11,0,0,0,36
+"SHA Rance","2017/18","Super Smash","Central Districts",3,46,26,176.923076923077,15.3333333333333,5,3,0,0,0,42
+"SHA Rance","2018/19","Super Smash","Central Districts",4,21,27,77.7777777777778,7,1,1,1,0,0,7
+"SHA Rance","2019/20","Super Smash","Central Districts",3,32,20,160,16,4,1,1,0,0,17
+"SHA Rance","2021/22","Super Smash","Central Districts",3,20,20,100,20,1,1,2,0,0,10
+"SJ Murdoch","2017/18","Super Smash","Wellington",1,4,7,57.1428571428571,4,1,0,0,0,0,4
+"SJ Murdoch","2018/19","Super Smash","Canterbury",6,94,75,125.333333333333,15.6666666666667,8,4,0,0,1,64
+"SJ Murdoch","2019/20","Super Smash","Canterbury",9,98,86,113.953488372093,12.25,6,6,1,0,0,32
+"SM Curran","2017/18","Super Smash","Auckland",8,157,97,161.855670103093,26.1666666666667,16,7,2,0,1,50
+"SM Solia","2017/18","Super Smash","Auckland",5,65,56,116.071428571429,13,7,1,0,0,0,31
+"SM Solia","2018/19","Super Smash","Auckland",2,21,40,52.5,10.5,0,0,0,0,0,20
+"SM Solia","2019/20","Super Smash","Auckland",3,50,38,131.578947368421,25,3,3,1,0,0,45
+"SM Solia","2020/21","Super Smash","Auckland",10,266,197,135.02538071066,26.6,29,5,0,0,2,75
+"SM Solia","2021/22","Super Smash","Auckland",9,105,118,88.9830508474576,15,6,3,2,0,1,67
+"SM Solia","2022/23","Super Smash","Auckland",9,168,142,118.30985915493,21,10,7,1,0,0,39
+"SM Solia","2023/24","Super Smash","Auckland",8,145,113,128.318584070796,20.7142857142857,12,8,1,0,1,67
+"SR Patel","2017/18","Super Smash","Wellington",7,154,123,125.20325203252,25.6666666666667,18,3,1,0,0,38
+"SR Wells","2013/14","HRV Twenty20","Otago",1,7,6,116.666666666667,7,1,0,0,0,0,7
+"T Muller","2019/20","Super Smash","Otago",1,3,4,75,3,0,0,0,0,0,3
+"T Muller","2023/24","Super Smash","Otago",5,31,25,124,10.3333333333333,5,0,2,0,0,17
+"TA Blundell","2017/18","Super Smash","Wellington",6,163,123,132.520325203252,27.1666666666667,17,3,0,0,2,53
+"TA Blundell","2018/19","Super Smash","Wellington",8,160,113,141.592920353982,20,10,8,0,0,1,79
+"TA Blundell","2019/20","Super Smash","Wellington",2,39,33,118.181818181818,19.5,2,1,0,0,0,25
+"TA Blundell","2020/21","Super Smash","Wellington",8,187,134,139.55223880597,26.7142857142857,20,5,1,0,1,62
+"TA Blundell","2021/22","Super Smash","Wellington",3,43,32,134.375,21.5,1,3,1,0,0,41
+"TA Blundell","2022/23","Super Smash","Wellington",2,70,53,132.075471698113,35,7,1,0,0,1,70
+"TA Blundell","2023/24","Super Smash","Wellington",1,71,39,182.051282051282,71,7,4,0,0,1,71
+"TA Boult","2021/22","Super Smash","Northern Districts",1,7,2,350,Inf,0,1,1,0,0,7
+"TB Robinson","2021/22","Super Smash","Wellington",8,143,122,117.213114754098,17.875,16,1,0,0,1,65
+"TB Robinson","2022/23","Super Smash","Wellington",5,38,47,80.8510638297872,7.6,2,0,0,0,0,19
+"TB Robinson","2023/24","Super Smash","Wellington",6,298,159,187.421383647799,59.6,30,15,1,1,1,139
+"TC Bruce","2017/18","Super Smash","Central Districts",9,226,137,164.963503649635,25.1111111111111,14,16,0,0,1,59
+"TC Bruce","2018/19","Super Smash","Central Districts",11,353,224,157.589285714286,39.2222222222222,39,13,2,0,2,88
+"TC Bruce","2019/20","Super Smash","Central Districts",10,273,201,135.820895522388,27.3,20,11,0,0,2,67
+"TC Bruce","2020/21","Super Smash","Central Districts",8,143,113,126.548672566372,17.875,13,3,0,0,1,52
+"TC Bruce","2021/22","Super Smash","Central Districts",10,267,163,163.803680981595,38.1428571428571,22,16,3,0,2,93
+"TC Bruce","2022/23","Super Smash","Central Districts",8,222,148,150,31.7142857142857,19,8,1,0,2,79
+"TC Bruce","2023/24","Super Smash","Central Districts",8,168,127,132.283464566929,28,15,6,2,0,1,63
+"TD Astle","2017/18","Super Smash","Canterbury",3,20,21,95.2380952380952,10,0,0,1,0,0,16
+"TD Astle","2018/19","Super Smash","Canterbury",2,30,29,103.448275862069,30,2,0,1,0,0,25
+"TD Astle","2019/20","Super Smash","Canterbury",1,35,15,233.333333333333,Inf,6,0,1,0,0,35
+"TD Astle","2020/21","Super Smash","Canterbury",4,59,45,131.111111111111,59,6,1,3,0,0,36
+"TD Astle","2021/22","Super Smash","Canterbury",4,19,21,90.4761904761905,9.5,1,0,2,0,0,13
+"TD Astle","2022/23","Super Smash","Canterbury",4,29,30,96.6666666666667,9.66666666666667,2,0,1,0,0,18
+"TG Johnston","2017/18","Super Smash","Canterbury",7,74,57,129.824561403509,12.3333333333333,6,2,1,0,0,21
+"TG Southee","2017/18","Super Smash","Northern Districts",1,13,9,144.444444444444,13,1,0,0,0,0,13
+"TG Southee","2018/19","Super Smash","Northern Districts",1,0,6,0,0,0,0,0,0,0,0
+"TG Southee","2020/21","Super Smash","Northern Districts",2,24,15,160,24,1,2,1,0,0,24
+"TG Southee","2021/22","Super Smash","Northern Districts",1,10,14,71.4285714285714,10,1,0,0,0,0,10
+"TG Southee","2023/24","Super Smash","Northern Districts",2,1,4,25,0.5,0,0,0,0,0,1
+"TJ MacRury","2018/19","Super Smash","Canterbury",2,16,21,76.1904761904762,8,2,0,0,0,0,16
+"TJG Pringle","2022/23","Super Smash","Northern Districts",2,14,12,116.666666666667,7,0,1,0,0,0,14
+"TJG Pringle","2023/24","Super Smash","Northern Districts",8,93,76,122.368421052632,23.25,5,5,4,0,0,38
+"TK Parkes","2022/23","Super Smash","Otago",3,17,27,62.962962962963,5.66666666666667,2,0,0,0,0,15
+"TK Parkes","2023/24","Super Smash","Otago",1,25,27,92.5925925925926,Inf,1,1,1,0,0,25
+"TL Seifert","2017/18","Super Smash","Northern Districts",9,320,211,151.658767772512,35.5555555555556,30,16,0,1,1,107
+"TL Seifert","2018/19","Super Smash","Northern Districts",7,169,131,129.007633587786,24.1428571428571,16,7,0,0,1,55
+"TL Seifert","2019/20","Super Smash","Northern Districts",8,323,225,143.555555555556,40.375,33,14,0,0,3,75
+"TL Seifert","2020/21","Super Smash","Northern Districts",10,281,243,115.637860082305,28.1,26,10,0,0,2,74
+"TL Seifert","2021/22","Super Smash","Northern Districts",10,239,194,123.19587628866,29.875,22,8,2,0,1,88
+"TL Seifert","2022/23","Super Smash","Northern Districts",9,245,164,149.390243902439,27.2222222222222,28,8,0,0,2,59
+"TL Seifert","2023/24","Super Smash","Northern Districts",4,90,60,150,22.5,7,6,0,0,0,43
+"TM Johnson","2018/19","Super Smash","Wellington",3,21,31,67.741935483871,7,1,0,0,0,0,12
+"TM Johnson","2020/21","Super Smash","Wellington",8,120,101,118.811881188119,30,8,4,4,0,1,50
+"TM Johnson","2021/22","Super Smash","Wellington",7,140,133,105.263157894737,23.3333333333333,18,2,1,0,1,54
+"TM Johnson","2022/23","Super Smash","Wellington",8,163,150,108.666666666667,27.1666666666667,16,2,2,0,1,57
+"TM Johnson","2023/24","Super Smash","Wellington",2,17,18,94.4444444444444,8.5,0,1,0,0,0,17
+"TM Lortan","2018/19","Super Smash","Canterbury",2,23,33,69.6969696969697,23,3,0,1,0,0,13
+"TP Doropoulos","2012/13","HRV Cup","Wellington",1,5,6,83.3333333333333,5,1,0,0,0,0,5
+"TS Nethula","2017/18","Super Smash","Auckland",4,32,21,152.380952380952,32,3,1,3,0,0,23
+"TS Nethula","2018/19","Super Smash","Northern Districts",2,3,4,75,3,0,0,1,0,0,2
+"TWM Latham","2013/14","HRV Twenty20","Canterbury",1,5,3,166.666666666667,5,1,0,0,0,0,5
+"TWM Latham","2017/18","Super Smash","Canterbury",1,46,31,148.387096774194,46,3,2,0,0,0,46
+"TWM Latham","2018/19","Super Smash","Canterbury",3,128,78,164.102564102564,42.6666666666667,12,6,0,1,0,110
+"TWM Latham","2021/22","Super Smash","Canterbury",5,161,90,178.888888888889,32.2,13,11,0,0,1,66
+"TWM Latham","2023/24","Super Smash","Canterbury",7,243,180,135,40.5,22,12,1,0,3,62
+"W Clark","2022/23","Super Smash","Central Districts",3,71,57,124.561403508772,71,7,1,2,0,0,44
+"W Clark","2023/24","Super Smash","Central Districts",7,122,117,104.273504273504,17.4285714285714,10,2,0,0,0,39
+"W O'Rourke","2021/22","Super Smash","Canterbury",1,10,8,125,10,1,0,0,0,0,10
+"W O'Rourke","2022/23","Super Smash","Canterbury",3,12,11,109.090909090909,Inf,0,0,3,0,0,6
+"WA Young","2017/18","Super Smash","Central Districts",11,331,227,145.814977973568,30.0909090909091,24,15,0,0,3,79
+"WA Young","2018/19","Super Smash","Central Districts",11,320,237,135.021097046414,32,24,10,1,0,2,89
+"WA Young","2020/21","Super Smash","Central Districts",7,297,170,174.705882352941,42.4285714285714,14,21,0,1,2,101
+"WA Young","2021/22","Super Smash","Central Districts",1,23,15,153.333333333333,23,3,1,0,0,0,23
+"WA Young","2022/23","Super Smash","Central Districts",5,145,88,164.772727272727,29,13,8,0,0,2,67
+"WA Young","2023/24","Super Smash","Central Districts",6,166,126,131.746031746032,33.2,15,5,1,1,1,101
+"WC Ludick","2018/19","Super Smash","Central Districts",3,20,20,100,10,2,0,1,0,0,13
+"WC Ludick","2019/20","Super Smash","Central Districts",10,128,89,143.820224719101,25.6,6,6,5,0,0,27
+"WD Barnes","2017/18","Super Smash","Otago",2,1,5,20,0.5,0,0,0,0,0,1
+"WER Somerville","2018/19","Super Smash","Auckland",2,64,34,188.235294117647,64,4,6,1,0,0,37
+"WER Somerville","2019/20","Super Smash","Auckland",3,30,28,107.142857142857,Inf,1,1,3,0,0,21
+"WER Somerville","2020/21","Super Smash","Auckland",6,46,22,209.090909090909,15.3333333333333,2,4,3,0,0,26
+"WER Somerville","2021/22","Super Smash","Auckland",5,50,50,100,16.6666666666667,2,1,2,0,0,25
+"WSA Williams","2017/18","Super Smash","Canterbury",4,16,12,133.333333333333,Inf,0,1,4,0,0,9
+"WSA Williams","2018/19","Super Smash","Canterbury",1,1,1,100,Inf,0,0,1,0,0,1
+"WSA Williams","2019/20","Super Smash","Canterbury",5,25,20,125,8.33333333333333,3,0,2,0,0,12
+"WSA Williams","2020/21","Super Smash","Canterbury",2,8,12,66.6666666666667,Inf,0,0,2,0,0,8
+"WSA Williams","2021/22","Super Smash","Canterbury",2,30,18,166.666666666667,Inf,3,1,2,0,0,29
+"WT O'Donnell","2020/21","Super Smash","Auckland",7,212,170,124.705882352941,35.3333333333333,15,8,1,0,1,50
+"WT O'Donnell","2021/22","Super Smash","Auckland",2,8,11,72.7272727272727,4,0,0,0,0,0,6
+"WT O'Donnell","2022/23","Super Smash","Auckland",9,176,133,132.330827067669,19.5555555555556,6,14,0,0,0,44
+"WT O'Donnell","2023/24","Super Smash","Auckland",3,83,53,156.603773584906,41.5,4,6,1,0,0,45
+"ZGF Foulkes","2022/23","Super Smash","Canterbury",3,51,46,110.869565217391,17,4,1,0,0,0,32
+"ZGF Foulkes","2023/24","Super Smash","Canterbury",5,54,36,150,54,4,3,4,0,0,14
+"ZN Gibson","2018/19","Super Smash","Northern Districts",1,8,9,88.8888888888889,Inf,0,0,1,0,0,8
+"ZN Gibson","2020/21","Super Smash","Northern Districts",4,17,16,106.25,8.5,2,0,2,0,0,9
+"ZN Gibson","2022/23","Super Smash","Northern Districts",1,13,11,118.181818181818,Inf,1,1,1,0,0,13
