@@ -8,7 +8,7 @@ CricketStatsHub is a repository containing summarised batting and bowling cricke
 
 CricketStatsHub repository contains data from various cricket competitions, providing a comprehensive dataset for analysis and research purposes. Here's a list of competitions for which data is available:
 
-*** note that there may be some missing matches in the dataset ***
+***note that there may be some missing matches in the dataset***
 
 - Afghanistan Premier League (2018-10-05 - )
 - Bangladesh Premier League (2012-02-11 - )
