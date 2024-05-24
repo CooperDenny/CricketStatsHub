@@ -6,7 +6,7 @@ CricketStatsHub is a repository containing summarised batting and bowling cricke
 
 ## Competitions with Available Data
 
-The CricketStatsHub repository contains data from various cricket competitions, providing a comprehensive dataset for analysis and research purposes. ***note that there may be some missing matches in the datasets***
+The CricketStatsHub repository contains datasets from various cricket competitions, providing comprehensive batting and bowling statistics for analysis and research purposes. ***Note that there may be some missing matches in the datasets.***
 
 Here's a list of competitions for which data is available:
 
