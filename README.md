@@ -50,12 +50,12 @@ By providing access to data from a wide range of competitions, CricketStatsHub f
 
 ## Repository Navigation
 
-- Data Download Scripts: Contains scripts for downloading and updating cricket data.
-- Database: Stores the cricket data in a structured format.
-- .gitignore: Specifies intentionally untracked files to ignore.
-- CricketStatsHub.Rproj: R project file for the CricketStatsHub project.
-- update_cricket_data.R: Script for updating cricket data.
-- README.md: This file, providing an overview of the repository.
+- `Data Download Scripts`: Contains scripts for downloading and updating cricket data.
+- `Database`: Stores the cricket data in a structured format.
+- `.gitignore`: Specifies intentionally untracked files to ignore.
+- `CricketStatsHub.Rproj`: R project file for the CricketStatsHub project.
+- `update_cricket_data.R`: Script for updating cricket data.
+- `README.md`: This file, providing an overview of the repository.
 
 ## Updating Data
 
