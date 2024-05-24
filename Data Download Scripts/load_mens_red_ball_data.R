@@ -14,16 +14,12 @@ tournaments <- cricsheet_codes %>%
   filter(code %in% c("tests", "mdms", "cch", "ssh"))
 
 for(i in 1:nrow(tournaments)){
-  ####################################################################################
-  ####################################################################################
-  ###################################### BATTING #####################################
-  ####################################################################################
-  ####################################################################################
   
   cricsheet <- fetch_cricsheet(type = "bbb", gender = "male", competition = tournaments$code[i]) %>% arrange(match_id)
-  match_summary <- fetch_cricsheet(type = "match", gender = "male", competition = tournaments$code[i]) %>% arrange(match_id) %>% select(-season, -date, -venue)
+  match_summary <- fetch_cricsheet(type = "match", gender = "male", competition = tournaments$code[i])
+  match_summary_reduced <- match_summary %>% select(-season, -date, -venue)
   
-  cricsheet <- merge(cricsheet, match_summary, by = "match_id")
+  cricsheet <- merge(cricsheet, match_summary_reduced, by = "match_id")
   
   
   cricsheet$start_date = ymd(cricsheet$start_date)
@@ -33,6 +29,19 @@ for(i in 1:nrow(tournaments)){
   cricsheet$legbyes <- cricsheet$legbyes  %>% replace(is.na(.), 0)
   cricsheet$penalty <- cricsheet$penalty  %>% replace(is.na(.), 0)
   
+  cricsheet <- cricsheet %>%
+    mutate(
+      DotBallBowler = runs_off_bat + wides + noballs)
+  
+  cricsheet$DotBallBowler<-replace(cricsheet$DotBallBowler, cricsheet$DotBallBowler==0, -1)
+  cricsheet$DotBallBowler<-replace(cricsheet$DotBallBowler, cricsheet$DotBallBowler>0, 0)
+  cricsheet$DotBallBowler<-replace(cricsheet$DotBallBowler, cricsheet$DotBallBowler==-1, 1)
+  
+  ####################################################################################
+  ####################################################################################
+  ###################################### BATTING #####################################
+  ####################################################################################
+  ####################################################################################
   
   innings_batting <- cricsheet %>% group_by(striker, match_id, start_date, season, event, venue, city, 
                                             team1, team2, innings, batting_team, bowling_team, toss_winner, 
@@ -92,48 +101,28 @@ for(i in 1:nrow(tournaments)){
     HighScore = max(RunsScored)
   )
   
+  innings_batting <- innings_batting %>% select(striker, start_date, batting_team, bowling_team, 
+                                                innings, RunsScored, BallsFaced, Fours, 
+                                                Sixes, StrikeRate, NotOut, event, 
+                                                season, match_id, venue, city,
+                                                team1, team2, toss_winner, toss_decision,
+                                                player_of_match, winner, winner_wickets, winner_runs
+  ) %>% arrange(desc(RunsScored), desc(BallsFaced))
   
-  season_batting <- innings_batting %>% group_by(striker, season, event, batting_team) %>% summarise(
-    innings = n(),
-    Runs = sum(RunsScored),
-    BallsFaced = sum(BallsFaced),
-    StrikeRate = 100*sum(RunsScored)/sum(BallsFaced),
-    Average = Runs/(innings - sum(NotOut == "TRUE")),
-    Fours = sum(Fours),
-    Sixes = sum(Sixes),
-    NotOuts = sum(NotOut == "TRUE"),
-    Hundreds = sum(RunsScored >= 100),
-    Fifties = sum(RunsScored >= 50) - sum(RunsScored >= 100),
-    HighScore = max(RunsScored)
-  )
-  
-  career_batting <- innings_batting %>% group_by(striker) %>% summarise(
-    innings = n(),
-    Runs = sum(RunsScored),
-    BallsFaced = sum(BallsFaced),
-    StrikeRate = 100*sum(RunsScored)/sum(BallsFaced),
-    Average = Runs/(innings - sum(NotOut == "TRUE")),
-    Fours = sum(Fours),
-    Sixes = sum(Sixes),
-    NotOuts = sum(NotOut == "TRUE"),
-    Hundreds = sum(RunsScored >= 100),
-    Fifties = sum(RunsScored >= 50) - sum(RunsScored >= 100),
-    HighScore = max(RunsScored)
-  )
+  match_batting <- match_batting %>% select(striker, start_date, batting_team, bowling_team, 
+                                            innings, Runs, BallsFaced, Fours, 
+                                            Sixes, StrikeRate, NotOuts, Average,
+                                            Hundreds, Fifties, HighScore, event, 
+                                            season, match_id, venue, city,
+                                            team1, team2, toss_winner, toss_decision,
+                                            player_of_match, winner, winner_wickets, winner_runs
+  ) %>% arrange(desc(Runs), desc(BallsFaced))
   
   ####################################################################################
   ####################################################################################
   ###################################### BOWLNG ######################################
   ####################################################################################
   ####################################################################################
-  
-  cricsheet <- cricsheet %>%
-    mutate(
-      DotBallBowler = runs_off_bat + wides + noballs)
-  
-  cricsheet$DotBallBowler<-replace(cricsheet$DotBallBowler, cricsheet$DotBallBowler==0, -1)
-  cricsheet$DotBallBowler<-replace(cricsheet$DotBallBowler, cricsheet$DotBallBowler>0, 0)
-  cricsheet$DotBallBowler<-replace(cricsheet$DotBallBowler, cricsheet$DotBallBowler==-1, 1)
   
   if("over" %in% colnames(cricsheet)) {
     cricsheet$over <- cricsheet$over
@@ -222,128 +211,10 @@ for(i in 1:nrow(tournaments)){
   match_bowling$Maidens <- match_bowling$Maidens %>% replace(is.na(.), 0)
   
   
-  season_bowling <- innings_bowling %>% group_by(bowler, season, event, bowling_team) %>% summarise(
-    innings = n(),
-    FourWickets = sum(Wickets == 4),
-    FiveWickets = sum(Wickets >= 5),
-    Overs = paste(toString(sum(Balls)%/%6), toString(sum(Balls)%%6), sep= "."),
-    Maidens = sum(Maidens),
-    Runs = sum(Runs),
-    Wickets = sum(Wickets),
-    Average = Runs/Wickets,
-    Economy = Runs/(sum(Balls)/6),
-    DotBalls = sum(DotBalls),
-    StrikeRate = sum(Balls)/Wickets
-  )
   
-  career_bowling <- innings_bowling %>% group_by(bowler) %>% summarise(
-    innings = n(),
-    FourWickets = sum(Wickets == 4),
-    FiveWickets = sum(Wickets >= 5),
-    Overs = paste(toString(sum(Balls)%/%6), toString(sum(Balls)%%6), sep= "."),
-    Maidens = sum(Maidens),
-    Runs = sum(Runs),
-    Wickets = sum(Wickets),
-    Average = Runs/Wickets,
-    Economy = Runs/(sum(Balls)/6),
-    DotBalls = sum(DotBalls),
-    StrikeRate = sum(Balls)/Wickets
-  )
-  
-  
-  bbi_season <- innings_bowling %>% group_by(bowler, season, event) %>% summarise(
-    Wickets = max(Wickets)
-  )
-  bbi_season <- merge(x=bbi_season,y=innings_bowling,by=c("bowler", "season", "event", "Wickets"),all.x=FALSE, all.y=FALSE)
-  bbi_season <- bbi_season  %>% group_by(bowler, season, event) %>% summarise(
-    Wickets = max(Wickets),
-    Runs = min(Runs),
-    BestBowlinginnings = paste(toString(Wickets), toString(Runs), sep= "/")
-  ) %>% select(-Wickets, -Runs)
-  season_bowling <- merge(season_bowling, bbi_season, by=c("bowler", "season", "event"),all.x=FALSE, all.y=FALSE)
-  
-  bbi_career <- innings_bowling %>% group_by(bowler) %>% summarise(
-    Wickets = max(Wickets)
-  )
-  bbi_career<- merge(x=bbi_career,y=innings_bowling,by=c("bowler", "Wickets"),all.x=FALSE, all.y=FALSE)
-  bbi_career <- bbi_career  %>% group_by(bowler) %>% summarise(
-    Wickets = max(Wickets),
-    Runs = min(Runs),
-    BestBowlinginnings = paste(toString(Wickets), toString(Runs), sep= "/")
-  ) %>% select(-Wickets, -Runs)
-  career_bowling <- merge(career_bowling, bbi_career, by=c("bowler"),all.x=FALSE, all.y=FALSE)
-  
-  tenwicketmatch_season <- match_bowling %>% group_by(bowler, season, event) %>% summarise(
-    TenWicketMatch = sum(Wickets >= 10),
-  )
-  season_bowling <- merge(season_bowling, tenwicketmatch_season, by=c("bowler", "season", "event"),all.x=FALSE, all.y=FALSE)
-  
-  bbm_season <- match_bowling %>% group_by(bowler, season, event) %>% summarise(
-    Wickets = max(Wickets)
-  ) 
-  bbm_season <- merge(x=bbm_season,y=match_bowling,by=c("bowler", "season", "event", "Wickets"),all.x=FALSE, all.y=FALSE)
-  bbm_season <- bbm_season  %>% group_by(bowler, season, event) %>% summarise(
-    Wickets = max(Wickets),
-    Runs = min(Runs),
-    BestBowlingMatch = paste(toString(Wickets), toString(Runs), sep= "/")
-  ) %>% select(-Wickets, -Runs)
-  season_bowling <- merge(season_bowling, bbm_season, by=c("bowler", "season", "event"),all.x=FALSE, all.y=FALSE)
-  
-  tenwicketmatch_career <- match_bowling %>% group_by(bowler) %>% summarise(
-    TenWicketMatch = sum(Wickets >= 10),
-  )
-  career_bowling <- merge(career_bowling, tenwicketmatch_career, by=c("bowler"),all.x=FALSE, all.y=FALSE)
-  
-  bbm_career <- match_bowling %>% group_by(bowler) %>% summarise(
-    Wickets = max(Wickets)
-  )
-  bbm_career <- merge(x=bbm_career,y=match_bowling,by=c("bowler", "Wickets"),all.x=FALSE, all.y=FALSE)
-  bbm_career <- bbm_career  %>% group_by(bowler) %>% summarise(
-    Wickets = max(Wickets),
-    Runs = min(Runs),
-    BestBowlingMatch = paste(toString(Wickets), toString(Runs), sep= "/")
-  ) %>% select(-Wickets, -Runs)
-  career_bowling <- merge(career_bowling, bbm_career, by=c("bowler"),all.x=FALSE, all.y=FALSE)
   
   innings_bowling$Overs <- as.numeric(as.character(innings_bowling$Overs))
   match_bowling$Overs <- as.numeric(as.character(match_bowling$Overs))
-  season_bowling$Overs <- as.numeric(as.character(season_bowling$Overs))
-  career_bowling$Overs <- as.numeric(as.character(career_bowling$Overs))
-
-
-  ####################################################################################
-  ####################################################################################
-  
-  career_matchups <- cricsheet %>% group_by(striker, bowler) %>% summarise(
-    RunsScored = sum(runs_off_bat),
-    BallsFaced = n() - sum(wides > 0, na.rm = TRUE),
-    Outs = sum(player_dismissed == striker, na.rm = TRUE),
-    Dots = sum(DotBallBowler == 1, na.rm = TRUE),
-    Fours = sum(runs_off_bat == 4, na.rm = TRUE),
-    Sixes = sum(runs_off_bat == 6, na.rm = TRUE),
-    Economy = 6*RunsScored/BallsFaced,
-    StrikeRate = 100*RunsScored/BallsFaced,
-    Average = RunsScored/Outs)
-  
-  ####################################################################################
-  ####################################################################################
-  
-  innings_batting <- innings_batting %>% select(striker, start_date, batting_team, bowling_team, 
-                                                innings, RunsScored, BallsFaced, Fours, 
-                                                Sixes, StrikeRate, NotOut, event, 
-                                                season, match_id, venue, city,
-                                                team1, team2, toss_winner, toss_decision,
-                                                player_of_match, winner, winner_wickets, winner_runs
-                                                ) %>% arrange(desc(RunsScored), desc(BallsFaced))
-  
-  match_batting <- match_batting %>% select(striker, start_date, batting_team, bowling_team, 
-                                            innings, Runs, BallsFaced, Fours, 
-                                            Sixes, StrikeRate, NotOuts, Average,
-                                            Hundreds, Fifties, HighScore, event, 
-                                            season, match_id, venue, city,
-                                            team1, team2, toss_winner, toss_decision,
-                                            player_of_match, winner, winner_wickets, winner_runs
-                                            ) %>% arrange(desc(Runs), desc(BallsFaced))
   
   innings_bowling <- innings_bowling %>% select(bowler, start_date, batting_team, bowling_team, 
                                                 innings, Overs, Maidens, Runs,
@@ -351,7 +222,7 @@ for(i in 1:nrow(tournaments)){
                                                 season, match_id, venue, city,
                                                 team1, team2, toss_winner, toss_decision,
                                                 player_of_match, winner, winner_wickets, winner_runs
-                                                ) %>% arrange(desc(Wickets), Runs)
+  ) %>% arrange(desc(Wickets), Runs)
   
   match_bowling <- match_bowling %>% select(bowler, start_date, batting_team, bowling_team, 
                                             Overs, Maidens, Runs,
@@ -359,21 +230,19 @@ for(i in 1:nrow(tournaments)){
                                             season, match_id, venue, city,
                                             team1, team2, toss_winner, toss_decision,
                                             player_of_match, winner, winner_wickets, winner_runs
-                                            ) %>% arrange(desc(Wickets), Runs)
+  ) %>% arrange(desc(Wickets), Runs)
+
+
+  ####################################################################################
+  ####################################################################################
   
-  season_bowling <- season_bowling %>% select(bowler, bowling_team, season, event, innings, 
-                                              Overs,  Maidens, Runs, Wickets,
-                                              Average, Economy, StrikeRate, DotBalls,
-                                              FourWickets, FiveWickets, BestBowlinginnings
-                                              ) %>% arrange(desc(Wickets), Runs)
+  match_summary$date <- as.Date(match_summary$date)
+  match_summary$match_id <- as.numeric(match_summary$match_id)
+  match_summary$winner_wickets <- as.numeric(match_summary$winner_wickets)
+  match_summary$winner_runs <- as.numeric(match_summary$winner_runs)
+  match_summary$balls_per_over <- as.numeric(match_summary$balls_per_over)
   
-  career_bowling <- career_bowling %>% select(bowler, innings, Overs,  Maidens, 
-                                              Runs, Wickets, Average, Economy, 
-                                              StrikeRate, DotBalls, FourWickets, FiveWickets, 
-                                              BestBowlinginnings
-                                              ) %>% arrange(desc(Wickets), Runs)
-  
-  
+  match_summary <- match_summary %>% arrange(date, match_id)
   
   ####################################################################################
   ####################################################################################
@@ -385,15 +254,11 @@ for(i in 1:nrow(tournaments)){
   
   write.csv(innings_batting, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_innings_batting.csv"), row.names=FALSE)
   write.csv(match_batting, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_match_batting.csv"), row.names=FALSE)
-  write.csv(season_batting, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_season_batting.csv"), row.names=FALSE)
-  write.csv(career_batting, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_career_batting.csv"), row.names=FALSE)
   
   write.csv(innings_bowling, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_innings_bowling.csv"), row.names=FALSE)
   write.csv(match_bowling, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_match_bowling.csv"), row.names=FALSE)
-  write.csv(season_bowling, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_season_bowling.csv"), row.names=FALSE)
-  write.csv(career_bowling, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_career_bowling.csv"), row.names=FALSE)
   
-  write.csv(career_matchups, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_career_matchups.csv"), row.names=FALSE)
+  write.csv(match_summary, paste0("Database/",tournaments$competition[i],"\\",tournaments$code[i],"_matches_in_dataset.csv"), row.names=FALSE)
   
   ####################################################################################
   

@@ -1,0 +1,688 @@
+"match_id","balls_per_over","team1","team2","gender","season","date","event","venue","city","toss_winner","toss_decision","winner","winner_runs","winner_wickets","outcome","eliminator","player_of_match","umpire1","umpire2","method","match_referee","tv_umpire"
+902087,6,"Gujarat","Himachal","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Himachal","field","Himachal",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902089,6,"Bengal","Hyderabad (India)","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Bengal","bat","Bengal",61,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902091,6,"Haryana","Tamil Nadu","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Haryana","bat","Tamil Nadu",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+902093,6,"Punjab","Rajasthan","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Rajasthan","field","Rajasthan",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902095,6,"Jammu & Kashmir","Kerala","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Kerala","field","Kerala",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902097,6,"Saurashtra","Tripura","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Saurashtra","bat","Saurashtra",66,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902099,6,"Andhra","Madhya Pradesh","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902101,6,"Railways","Delhi","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Alembic 1 Cricket Ground",NA,"Delhi","field","Delhi",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902105,6,"Odisha","Mumbai","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Mumbai","field","Mumbai",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+902107,6,"Karnataka","Services","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Services","field","Services",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+902109,6,"Maharashtra","Uttar Pradesh","male","2015/16",2016-01-02,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+902111,6,"Gujarat","Vidarbha","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Vidarbha","field","Gujarat",60,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902113,6,"Hyderabad (India)","Himachal","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Himachal","field","Hyderabad (India)",14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902115,6,"Tamil Nadu","Bengal","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Bengal","field","Tamil Nadu",69,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902117,6,"Jammu & Kashmir","Punjab","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Punjab","field","Punjab",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902119,6,"Kerala","Rajasthan","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Rajasthan","field","Kerala",18,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902121,6,"Tripura","Jharkhand","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Jharkhand","field","Jharkhand",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+902123,6,"Goa","Madhya Pradesh","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+902125,6,"Delhi","Andhra","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Alembic 1 Cricket Ground",NA,"Andhra","field","Delhi",111,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902127,6,"Baroda","Railways","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Baroda","bat","Baroda",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902129,6,"Uttar Pradesh","Odisha","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Odisha","field","Uttar Pradesh",32,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902131,6,"Karnataka","Mumbai","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Mumbai","field","Karnataka",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902133,6,"Maharashtra","Services","male","2015/16",2016-01-03,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Services","field","Maharashtra",31,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902135,6,"Haryana","Vidarbha","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Haryana","bat","Vidarbha",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902137,6,"Hyderabad (India)","Gujarat","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Hyderabad (India)","bat","Gujarat",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+902139,6,"Bengal","Himachal","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Bengal","bat","Bengal",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902141,6,"Saurashtra","Jammu & Kashmir","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Jammu & Kashmir","field","Saurashtra",73,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902143,6,"Tripura","Kerala","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Kerala","field","Kerala",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902147,6,"Goa","Assam","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Assam","field","Assam",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902149,6,"Madhya Pradesh","Delhi","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Delhi","field","Delhi",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902151,6,"Railways","Andhra","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Andhra","field","Railways",7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902153,6,"Karnataka","Uttar Pradesh","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Karnataka","bat","Uttar Pradesh",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902155,6,"Services","Mumbai","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Mumbai","field","Mumbai",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902157,6,"Odisha","Maharashtra","male","2015/16",2016-01-04,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Odisha","bat","Maharashtra",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902161,6,"Bengal","Gujarat","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Bengal","bat","Gujarat",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902165,6,"Kerala","Saurashtra","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Saurashtra","field","Kerala",50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902167,6,"Jharkhand","Punjab","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Punjab","field","Punjab",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+902169,6,"Jammu & Kashmir","Tripura","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Jammu & Kashmir","bat","Tripura",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902171,6,"Assam","Delhi","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Delhi","field","Delhi",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902173,6,"Railways","Madhya Pradesh","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+902175,6,"Baroda","Goa","male","2015/16",2016-01-06,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Goa","field","Baroda",72,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902183,6,"Bengal","Vidarbha","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Bengal","bat","Vidarbha",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902185,6,"Gujarat","Tamil Nadu","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Gujarat","bat","Tamil Nadu",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+902189,6,"Jharkhand","Jammu & Kashmir","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Jammu & Kashmir","field","Jharkhand",76,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902191,6,"Tripura","Punjab","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Tripura","bat","Punjab",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902193,6,"Saurashtra","Rajasthan","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Saurashtra","bat","Saurashtra",25,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902195,6,"Railways","Goa","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Goa","field","Railways",49,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902197,6,"Baroda","Madhya Pradesh","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Madhya Pradesh","field","Baroda",53,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902199,6,"Andhra","Assam","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Assam","field","Andhra",12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902201,6,"Odisha","Services","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Services","field","Services",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902203,6,"Mumbai","Uttar Pradesh","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902205,6,"Maharashtra","Karnataka","male","2015/16",2016-01-07,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Karnataka","field","Maharashtra",26,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902177,6,"Odisha","Karnataka","male","2015/16",2016-01-08,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Karnataka","field","Karnataka",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+902179,6,"Uttar Pradesh","Services","male","2015/16",2016-01-08,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Services","field","Uttar Pradesh",57,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902181,6,"Maharashtra","Mumbai","male","2015/16",2016-01-08,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Mumbai","field","Mumbai",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+902207,6,"Hyderabad (India)","Vidarbha","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Vidarbha","field","Vidarbha",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902209,6,"Haryana","Bengal","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Haryana","bat","Haryana",17,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902213,6,"Punjab","Kerala","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Kerala","field","Kerala",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902215,6,"Saurashtra","Jharkhand","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Jharkhand","field","Jharkhand",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+902217,6,"Rajasthan","Tripura","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Tripura","field","Tripura",NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+902219,6,"Delhi","Goa","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Goa","field","Delhi",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902221,6,"Railways","Assam","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Assam","field","Assam",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902223,6,"Andhra","Baroda","male","2015/16",2016-01-09,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Andhra","bat","Baroda",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+902225,6,"Haryana","Gujarat","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","VCA Ground",NA,"Gujarat","field","Gujarat",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+902229,6,"Hyderabad (India)","Tamil Nadu","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","Vidarbha Cricket Association Stadium, Jamtha",NA,"Tamil Nadu","field","Tamil Nadu",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+902231,6,"Saurashtra","Punjab","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Saurashtra","bat","Saurashtra",19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902233,6,"Rajasthan","Jammu & Kashmir","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","Jawaharlal Nehru Stadium",NA,"Jammu & Kashmir","field","Rajasthan",45,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902235,6,"Kerala","Jharkhand","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","St  Pauls college ground  Kalamassery",NA,"Jharkhand","field","Jharkhand",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+902237,6,"Assam","Madhya Pradesh","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+902239,6,"Andhra","Goa","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","Alembic 1 Cricket Ground",NA,"Goa","field","Goa",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+902241,6,"Baroda","Delhi","male","2015/16",2016-01-10,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Delhi","field","Delhi",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+955045,6,"Vidarbha","Baroda","male","2015/16",2016-01-15,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Baroda","field","Baroda",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+955047,6,"Delhi","Gujarat","male","2015/16",2016-01-15,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Gujarat","field","Gujarat",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+955049,6,"Kerala","Mumbai","male","2015/16",2016-01-15,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","field","Mumbai",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+955053,6,"Baroda","Kerala","male","2015/16",2016-01-16,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Kerala","field","Kerala",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+955055,6,"Jharkhand","Delhi","male","2015/16",2016-01-16,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Delhi","field","Delhi",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+955057,6,"Vidarbha","Mumbai","male","2015/16",2016-01-16,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","field","Mumbai",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+955059,6,"Gujarat","Uttar Pradesh","male","2015/16",2016-01-16,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+955061,6,"Vidarbha","Kerala","male","2015/16",2016-01-18,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Kerala","field","Kerala",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+955063,6,"Jharkhand","Gujarat","male","2015/16",2016-01-18,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Gujarat","field","Gujarat",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+955065,6,"Mumbai","Baroda","male","2015/16",2016-01-18,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Baroda","field","Baroda",NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+955067,6,"Delhi","Uttar Pradesh","male","2015/16",2016-01-18,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+955069,6,"Uttar Pradesh","Baroda","male","2015/16",2016-01-20,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Baroda","field","Uttar Pradesh",38,NA,NA,NA,"SK Raina",NA,NA,NA,NA,NA
+1130661,6,"Baroda","Mumbai","male","2017/18",2018-01-07,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Baroda","bat","Baroda",13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130662,6,"Gujarat","Maharashtra","male","2017/18",2018-01-07,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Maharashtra","field","Maharashtra",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1130663,6,"Rajasthan","Madhya Pradesh","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Madhya Pradesh","field","Rajasthan",36,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130664,6,"Himachal","Haryana","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Haryana","field",NA,NA,NA,"tie","Himachal",NA,NA,NA,NA,NA,NA
+1130665,6,"Karnataka","Goa","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Goa","field","Karnataka",49,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130666,6,"Tripura","Assam","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Assam","field","Tripura",8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130667,6,"Saurashtra","Maharashtra","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Saurashtra","bat","Saurashtra",4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130668,6,"Vidarbha","Chhattisgarh","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Vidarbha","bat","Vidarbha",48,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130669,6,"Jammu & Kashmir","Services","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Jammu & Kashmir","bat","Services",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1130670,6,"Hyderabad (India)","Kerala","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Kerala","field","Hyderabad (India)",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130671,6,"Andhra","Tamil Nadu","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Andhra","bat","Tamil Nadu",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130672,6,"Odisha","Bengal","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Odisha","bat","Bengal",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130673,6,"Gujarat","Mumbai","male","2017/18",2018-01-08,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Mumbai","field","Mumbai",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1130674,6,"Uttar Pradesh","Rajasthan","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Rajasthan","field","Rajasthan",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1130675,6,"Punjab","Delhi","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Delhi","field","Punjab",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130676,6,"Tamil Nadu","Kerala","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Kerala","field","Tamil Nadu",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130677,6,"Vidarbha","Railways","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Vidarbha","bat","Vidarbha",17,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130678,6,"Himachal","Jammu & Kashmir","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Himachal","bat","Himachal",33,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130679,6,"Hyderabad (India)","Goa","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Hyderabad (India)","bat","Hyderabad (India)",19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130680,6,"Karnataka","Andhra","male","2017/18",2018-01-09,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Andhra","field","Andhra",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130681,6,"Uttar Pradesh","Madhya Pradesh","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130683,6,"Baroda","Gujarat","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Baroda","bat","Baroda",36,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130685,6,"Chhattisgarh","Railways","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Chhattisgarh","bat","Chhattisgarh",25,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130686,6,"Services","Punjab","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Services","bat","Punjab",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130687,6,"Mumbai","Saurashtra","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Mumbai","bat","Saurashtra",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130700,6,"Jharkhand","Tripura","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Tripura","field","Jharkhand",24,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130714,6,"Odisha","Assam","male","2017/18",2018-01-10,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Assam","field","Odisha",51,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130689,6,"Karnataka","Hyderabad (India)","male","2017/18",2018-01-11,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Hyderabad (India)","field","Karnataka",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130690,6,"Maharashtra","Mumbai","male","2017/18",2018-01-11,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Mumbai","field","Mumbai",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130691,6,"Kerala","Andhra","male","2017/18",2018-01-11,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Andhra","field","Andhra",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1130692,6,"Tamil Nadu","Goa","male","2017/18",2018-01-11,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Tamil Nadu","bat","Tamil Nadu",25,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130693,6,"Saurashtra","Baroda","male","2017/18",2018-01-11,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Saurashtra","bat","Baroda",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130694,6,"Vidarbha","Madhya Pradesh","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Madhya Pradesh","field","Vidarbha",7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130695,6,"Jammu & Kashmir","Delhi","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Delhi","field","Delhi",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130696,6,"Goa","Kerala","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Kerala","field","Kerala",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1130698,6,"Chhattisgarh","Rajasthan","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Chhattisgarh","bat","Rajasthan",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130699,6,"Punjab","Haryana","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Punjab","bat","Haryana",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1130701,6,"Hyderabad (India)","Andhra","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Hyderabad (India)","bat","Andhra",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1130702,6,"Karnataka","Tamil Nadu","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Tamil Nadu","field","Karnataka",78,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130711,6,"Jharkhand","Bengal","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Jharkhand","bat","Bengal",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1130723,6,"Odisha","Tripura","male","2017/18",2018-01-12,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Odisha","bat","Odisha",72,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130703,6,"Railways","Uttar Pradesh","male","2017/18",2018-01-13,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1130704,6,"Himachal","Services","male","2017/18",2018-01-13,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Services","field","Services",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1130705,6,"Saurashtra","Gujarat","male","2017/18",2018-01-13,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Gujarat","field","Gujarat",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130706,6,"Vidarbha","Rajasthan","male","2017/18",2018-01-13,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Vidarbha","bat","Rajasthan",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1130708,6,"Maharashtra","Baroda","male","2017/18",2018-01-13,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium",NA,"Maharashtra","bat","Baroda",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1130688,6,"Tripura","Bengal","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Tripura","bat","Bengal",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1130709,6,"Chhattisgarh","Madhya Pradesh","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1130710,6,"Himachal","Delhi","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Delhi","field","Delhi",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1130712,6,"Tamil Nadu","Hyderabad (India)","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Hyderabad (India)","field","Tamil Nadu",16,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130713,6,"Jammu & Kashmir","Punjab","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Punjab","field","Jammu & Kashmir",23,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130715,6,"Andhra","Goa","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Goa","field","Andhra",18,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130716,6,"Karnataka","Kerala","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Karnataka","bat","Karnataka",20,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130725,6,"Assam","Jharkhand","male","2017/18",2018-01-14,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Assam","bat","Jharkhand",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130717,6,"Madhya Pradesh","Railways","male","2017/18",2018-01-15,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Railways","field","Madhya Pradesh",24,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130718,6,"Services","Haryana","male","2017/18",2018-01-15,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Haryana","field","Haryana",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1130719,6,"Uttar Pradesh","Vidarbha","male","2017/18",2018-01-15,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Uttar Pradesh","bat","Uttar Pradesh",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130720,6,"Punjab","Himachal","male","2017/18",2018-01-15,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Punjab","bat","Punjab",19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130684,6,"Odisha","Jharkhand","male","2017/18",2018-01-16,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Odisha","bat","Jharkhand",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1130697,6,"Assam","Bengal","male","2017/18",2018-01-16,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex",NA,"Bengal","field","Bengal",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1130722,6,"Delhi","Services","male","2017/18",2018-01-16,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Services","field","Delhi",22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130724,6,"Chhattisgarh","Uttar Pradesh","male","2017/18",2018-01-16,"Syed Mushtaq Ali Trophy","Shaheed Veer Narayan Singh International Stadium",NA,"Chhattisgarh","bat","Uttar Pradesh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1133401,6,"Karnataka","Punjab","male","2017/18",2018-01-21,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Punjab","field",NA,NA,NA,"tie","Punjab",NA,NA,NA,NA,NA,NA
+1133402,6,"Mumbai","Jharkhand","male","2017/18",2018-01-21,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Jharkhand","field","Mumbai",13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133403,6,"Tamil Nadu","Delhi","male","2017/18",2018-01-21,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Delhi","field","Delhi",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1133404,6,"Baroda","Bengal","male","2017/18",2018-01-21,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Baroda","bat","Baroda",17,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133405,6,"Jharkhand","Rajasthan","male","2017/18",2018-01-22,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Rajasthan","field","Rajasthan",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1133406,6,"Mumbai","Punjab","male","2017/18",2018-01-22,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Punjab","field","Punjab",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1133407,6,"Uttar Pradesh","Bengal","male","2017/18",2018-01-22,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Uttar Pradesh","bat","Uttar Pradesh",75,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133409,6,"Rajasthan","Karnataka","male","2017/18",2018-01-23,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Karnataka","field","Rajasthan",22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133411,6,"Uttar Pradesh","Tamil Nadu","male","2017/18",2018-01-23,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Uttar Pradesh","bat","Tamil Nadu",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1133413,6,"Rajasthan","Mumbai","male","2017/18",2018-01-24,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Rajasthan","bat","Rajasthan",17,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133414,6,"Karnataka","Jharkhand","male","2017/18",2018-01-24,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Jharkhand","field","Karnataka",123,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133415,6,"Baroda","Uttar Pradesh","male","2017/18",2018-01-24,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1133416,6,"Tamil Nadu","Bengal","male","2017/18",2018-01-24,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Tamil Nadu","bat","Bengal",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1133417,6,"Punjab","Rajasthan","male","2017/18",2018-01-25,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Rajasthan","field","Punjab",5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133418,6,"Mumbai","Karnataka","male","2017/18",2018-01-25,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Mumbai","bat","Karnataka",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1133419,6,"Delhi","Uttar Pradesh","male","2017/18",2018-01-25,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Uttar Pradesh","field","Delhi",3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133420,6,"Tamil Nadu","Baroda","male","2017/18",2018-01-25,"Syed Mushtaq Ali Trophy","JU Second Campus, Salt Lake",NA,"Tamil Nadu","bat","Baroda",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157091,6,"Jharkhand","Delhi","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Delhi","field","Jharkhand",3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157092,6,"Kerala","Manipur","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Kerala","bat","Kerala",83,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157093,6,"Nagaland","Jammu & Kashmir","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Jammu & Kashmir","field","Jammu & Kashmir",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157094,6,"Gujarat","Meghalaya","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Meghalaya","field","Gujarat",13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157095,6,"Rajasthan","Tamil Nadu","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Tamil Nadu","field","Rajasthan",53,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157098,6,"Saurashtra","Railways","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Railways","field","Railways",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157099,6,"Mumbai","Sikkim","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Mumbai","bat","Mumbai",154,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157101,6,"Odisha","Chhattisgarh","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Chhattisgarh","field","Chhattisgarh",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1157102,6,"Arunachal Pradesh","Haryana","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Haryana","field","Haryana",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157103,6,"Bengal","Mizoram","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Mizoram","field","Bengal",159,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157104,6,"Tripura","Baroda","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Tripura","bat","Baroda",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157105,6,"Puducherry","Hyderabad (India)","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Hyderabad (India)","field","Puducherry",3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157106,6,"Maharashtra","Uttar Pradesh","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Uttar Pradesh","field","Maharashtra",12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157107,6,"Services","Uttarakhand","male","2018/19",2019-02-21,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Services","bat","Uttarakhand",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1157108,6,"Manipur","Delhi","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Delhi","field","Delhi",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1157109,6,"Jammu & Kashmir","Jharkhand","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Jharkhand","field","Jharkhand",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157110,6,"Andhra","Nagaland","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Andhra","bat","Andhra",179,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157112,6,"Himachal","Meghalaya","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Meghalaya","field","Himachal",65,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157113,6,"Bihar","Vidarbha","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Vidarbha","field","Vidarbha",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157114,6,"Madhya Pradesh","Saurashtra","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Saurashtra","field","Saurashtra",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1157115,6,"Mumbai","Punjab","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Punjab","field","Mumbai",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157116,6,"Sikkim","Goa","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Sikkim","bat","Goa",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157117,6,"Assam","Mizoram","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Mizoram","field","Assam",131,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157119,6,"Haryana","Odisha","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Odisha","field","Haryana",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157120,6,"Bengal","Karnataka","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Bengal","bat","Karnataka",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157121,6,"Baroda","Uttarakhand","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Baroda","bat","Uttarakhand",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157122,6,"Hyderabad (India)","Uttar Pradesh","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Hyderabad (India)","bat","Uttar Pradesh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1157123,6,"Puducherry","Maharashtra","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Puducherry","bat","Maharashtra",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157124,6,"Tripura","Services","male","2018/19",2019-02-22,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Services","field","Services",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157125,6,"Jammu & Kashmir","Delhi","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Delhi","field","Delhi",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1157126,6,"Jharkhand","Manipur","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Manipur","field","Jharkhand",121,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157127,6,"Kerala","Andhra","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Kerala","bat","Kerala",8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157128,6,"Gujarat","Himachal","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Himachal","field","Gujarat",70,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157129,6,"Rajasthan","Meghalaya","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Rajasthan","bat","Rajasthan",72,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157130,6,"Bihar","Tamil Nadu","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Bihar","bat","Tamil Nadu",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1157131,6,"Madhya Pradesh","Mumbai","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Madhya Pradesh","bat","Mumbai",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157132,6,"Punjab","Saurashtra","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Saurashtra","field","Saurashtra",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157133,6,"Goa","Railways","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Railways","field","Railways",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157134,6,"Chhattisgarh","Assam","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Assam","field","Assam",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157135,6,"Haryana","Bengal","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Bengal","field","Bengal",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1157136,6,"Mizoram","Odisha","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Mizoram","bat","Odisha",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157137,6,"Karnataka","Arunachal Pradesh","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Karnataka","bat","Karnataka",146,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157138,6,"Hyderabad (India)","Baroda","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Baroda","field","Baroda",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1157139,6,"Maharashtra","Services","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Services","field","Services",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1157140,6,"Uttarakhand","Puducherry","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Uttarakhand","bat","Uttarakhand",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157141,6,"Uttar Pradesh","Tripura","male","2018/19",2019-02-24,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Uttar Pradesh","bat","Uttar Pradesh",58,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157142,6,"Kerala","Delhi","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Kerala","bat","Delhi",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157143,6,"Andhra","Jammu & Kashmir","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Jammu & Kashmir","field","Jammu & Kashmir",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157144,6,"Nagaland","Manipur","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Nagaland","bat","Manipur",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1157145,6,"Tamil Nadu","Gujarat","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Gujarat","field","Tamil Nadu",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157146,6,"Bihar","Himachal","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Bihar","bat","Himachal",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157147,6,"Vidarbha","Rajasthan","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Vidarbha","bat","Vidarbha",44,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157148,6,"Madhya Pradesh","Railways","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Railways","field","Railways",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157149,6,"Goa","Mumbai","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Goa","bat","Mumbai",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1157150,6,"Sikkim","Saurashtra","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Sikkim","bat","Saurashtra",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157151,6,"Assam","Bengal","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Bengal","field","Assam",26,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157152,6,"Haryana","Chhattisgarh","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Haryana","bat","Chhattisgarh",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157153,6,"Arunachal Pradesh","Odisha","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Arunachal Pradesh","bat","Odisha",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157154,6,"Karnataka","Mizoram","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Karnataka","bat","Karnataka",137,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157155,6,"Baroda","Services","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Services","field","Services",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157156,6,"Hyderabad (India)","Maharashtra","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Hyderabad (India)","bat","Maharashtra",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157157,6,"Uttar Pradesh","Puducherry","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Uttar Pradesh","bat","Uttar Pradesh",77,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157158,6,"Uttarakhand","Tripura","male","2018/19",2019-02-25,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Tripura","field","Uttarakhand",37,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157159,6,"Delhi","Andhra","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Delhi","bat","Delhi",32,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157160,6,"Jharkhand","Nagaland","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Jharkhand","bat","Jharkhand",54,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157161,6,"Kerala","Jammu & Kashmir","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Jammu & Kashmir","field","Kerala",94,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157162,6,"Gujarat","Bihar","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Gujarat","bat","Gujarat",83,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157163,6,"Vidarbha","Meghalaya","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Meghalaya","field","Vidarbha",32,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157164,6,"Tamil Nadu","Himachal","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Tamil Nadu","bat","Himachal",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157165,6,"Goa","Madhya Pradesh","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Goa","bat","Madhya Pradesh",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1157166,6,"Sikkim","Punjab","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Sikkim","bat","Punjab",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157167,6,"Railways","Mumbai","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Mumbai","field","Railways",57,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157168,6,"Assam","Odisha","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Odisha","field","Odisha",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157169,6,"Chhattisgarh","Karnataka","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Chhattisgarh","bat","Karnataka",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1157170,6,"Haryana","Mizoram","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Haryana","bat","Haryana",39,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157171,6,"Bengal","Arunachal Pradesh","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Bengal","bat","Bengal",107,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157172,6,"Puducherry","Baroda","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Puducherry","bat","Baroda",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1157174,6,"Uttarakhand","Maharashtra","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Maharashtra","field","Maharashtra",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1157175,6,"Uttar Pradesh","Services","male","2018/19",2019-02-27,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Uttar Pradesh","bat","Uttar Pradesh",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157176,6,"Andhra","Jharkhand","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Andhra","bat","Andhra",3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157177,6,"Nagaland","Kerala","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Kerala","field","Kerala",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1157178,6,"Manipur","Jammu & Kashmir","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Jammu & Kashmir","field","Jammu & Kashmir",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157179,6,"Meghalaya","Bihar","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Meghalaya","bat","Bihar",NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+1157180,6,"Vidarbha","Tamil Nadu","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1157181,6,"Himachal","Rajasthan","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Himachal","bat","Himachal",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157182,6,"Punjab","Goa","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Punjab","bat","Punjab",79,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157183,6,"Sikkim","Railways","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Railways","field","Railways",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157185,6,"Assam","Haryana","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Haryana","field","Haryana",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157186,6,"Bengal","Chhattisgarh","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Chhattisgarh","field","Bengal",26,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157187,6,"Karnataka","Odisha","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Odisha","field","Karnataka",51,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157188,6,"Mizoram","Arunachal Pradesh","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Mizoram","bat","Arunachal Pradesh",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157189,6,"Baroda","Maharashtra","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Baroda","bat","Maharashtra",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157190,6,"Hyderabad (India)","Services","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Services","field","Services",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1157191,6,"Puducherry","Tripura","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Tripura","field","Tripura",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157192,6,"Uttar Pradesh","Uttarakhand","male","2018/19",2019-02-28,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Uttarakhand","field","Uttar Pradesh",118,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157193,6,"Nagaland","Delhi","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",NA,"Nagaland","bat","Delhi",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1157194,6,"Kerala","Jharkhand","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Kerala","bat","Jharkhand",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157195,6,"Andhra","Manipur","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",NA,"Andhra","bat","Andhra",91,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157196,6,"Gujarat","Vidarbha","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Gujarat","bat","Vidarbha",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157197,6,"Tamil Nadu","Meghalaya","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Tamil Nadu","bat","Tamil Nadu",92,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157199,6,"Madhya Pradesh","Sikkim","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Madhya Pradesh","bat","Madhya Pradesh",50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157200,6,"Railways","Punjab","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Railways","bat","Punjab",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1157201,6,"Goa","Saurashtra","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Goa","bat","Saurashtra",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1157202,6,"Arunachal Pradesh","Assam","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Arunachal Pradesh","bat","Assam",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1157203,6,"Chhattisgarh","Mizoram","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Mizoram","field","Chhattisgarh",116,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157204,6,"Karnataka","Haryana","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","DRIEMS Ground",NA,"Haryana","field","Karnataka",14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1157205,6,"Odisha","Bengal","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Barabati Stadium",NA,"Odisha","bat","Bengal",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1157206,6,"Baroda","Uttar Pradesh","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Baroda","bat",NA,NA,NA,"no result",NA,NA,NA,NA,NA,NA,NA
+1157207,6,"Hyderabad (India)","Uttarakhand","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Uttarakhand","field",NA,NA,NA,"no result",NA,NA,NA,NA,NA,NA,NA
+1157208,6,"Maharashtra","Tripura","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Tripura","field",NA,NA,NA,"no result",NA,NA,NA,NA,NA,NA,NA
+1157209,6,"Services","Puducherry","male","2018/19",2019-03-02,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam II",NA,"Puducherry","field",NA,NA,NA,"no result",NA,NA,NA,NA,NA,NA,NA
+1175025,6,"Jharkhand","Gujarat","male","2018/19",2019-03-08,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Gujarat","field","Jharkhand",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1175026,6,"Delhi","Vidarbha","male","2018/19",2019-03-08,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Vidarbha","field","Vidarbha",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1175027,6,"Railways","Bengal","male","2018/19",2019-03-08,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Railways","bat","Bengal",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1175028,6,"Mumbai","Karnataka","male","2018/19",2019-03-08,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Mumbai","bat","Karnataka",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1175029,6,"Bengal","Maharashtra","male","2018/19",2019-03-09,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Maharashtra","field","Maharashtra",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1175030,6,"Delhi","Mumbai","male","2018/19",2019-03-09,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Mumbai","field","Mumbai",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1175031,6,"Railways","Jharkhand","male","2018/19",2019-03-09,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Jharkhand","field","Jharkhand",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1175032,6,"Karnataka","Uttar Pradesh","male","2018/19",2019-03-09,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Uttar Pradesh","field","Karnataka",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1175033,6,"Delhi","Karnataka","male","2018/19",2019-03-10,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Karnataka","field","Karnataka",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1175034,6,"Vidarbha","Uttar Pradesh","male","2018/19",2019-03-10,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Uttar Pradesh","field","Vidarbha",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1175035,6,"Jharkhand","Bengal","male","2018/19",2019-03-10,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Bengal","field","Bengal",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1175036,6,"Gujarat","Maharashtra","male","2018/19",2019-03-10,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Gujarat","bat","Maharashtra",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1175037,6,"Railways","Gujarat","male","2018/19",2019-03-11,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Railways","bat","Gujarat",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1175038,6,"Vidarbha","Mumbai","male","2018/19",2019-03-11,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Mumbai","field","Mumbai",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1175040,6,"Uttar Pradesh","Delhi","male","2018/19",2019-03-11,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Uttar Pradesh","bat","Delhi",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1175042,6,"Mumbai","Uttar Pradesh","male","2018/19",2019-03-12,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Uttar Pradesh","field","Mumbai",46,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1175043,6,"Gujarat","Bengal","male","2018/19",2019-03-12,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Gujarat","bat","Bengal",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1175044,6,"Vidarbha","Karnataka","male","2018/19",2019-03-12,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Karnataka","field","Karnataka",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1175045,6,"Maharashtra","Karnataka","male","2018/19",2019-03-14,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Karnataka","field","Karnataka",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205714,6,"Uttarakhand","Karnataka","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Uttarakhand","bat","Karnataka",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205715,6,"Bihar","Andhra","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Andhra","field","Andhra",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1205716,6,"Tamil Nadu","Kerala","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Kerala","field","Tamil Nadu",37,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205717,6,"Tripura","Vidarbha","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Vidarbha","field","Vidarbha",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205718,6,"Arunachal Pradesh","Chhattisgarh","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Chhattisgarh","field","Chhattisgarh",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205719,6,"Hyderabad (India)","Punjab","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Punjab","field","Hyderabad (India)",2,NA,NA,NA,NA,NA,NA,"VJD",NA,NA
+1205721,6,"Mizoram","Mumbai","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","field","Mumbai",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1205724,6,"Baroda","Goa","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Baroda","bat","Goa",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205725,6,"Rajasthan","Manipur","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Rajasthan","bat","Rajasthan",97,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205727,6,"Maharashtra","Railways","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Railways","field","Maharashtra",8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205731,6,"Nagaland","Saurashtra","male","2019/20",2019-11-08,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Saurashtra","field","Saurashtra",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205732,6,"Baroda","Karnataka","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Karnataka","field","Baroda",14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205733,6,"Goa","Bihar","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Bihar","field","Goa",29,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205734,6,"Manipur","Tripura","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Manipur","bat","Tripura",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1205735,6,"Tamil Nadu","Rajasthan","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Rajasthan","field","Tamil Nadu",39,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205736,6,"Arunachal Pradesh","Punjab","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Punjab","field","Punjab",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1205737,6,"Himachal","Chhattisgarh","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Chhattisgarh","field","Chhattisgarh",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205739,6,"Puducherry","Meghalaya","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Meghalaya","field","Puducherry",19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205742,6,"Uttarakhand","Services","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Services","field","Services",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205743,6,"Uttar Pradesh","Vidarbha","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Uttar Pradesh","bat","Vidarbha",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205745,6,"Hyderabad (India)","Railways","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Railways","field","Railways",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205746,6,"Mizoram","Bengal","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Bengal","field","Bengal",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205747,6,"Haryana","Mumbai","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","field","Mumbai",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205748,6,"Saurashtra","Jharkhand","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Jharkhand","field","Jharkhand",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205749,6,"Sikkim","Nagaland","male","2019/20",2019-11-09,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Sikkim","bat","Nagaland",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205750,6,"Baroda","Uttarakhand","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Uttarakhand","field","Baroda",33,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205751,6,"Services","Bihar","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Bihar","field","Services",94,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205752,6,"Vidarbha","Manipur","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Vidarbha","bat","Vidarbha",70,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205753,6,"Tamil Nadu","Uttar Pradesh","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1205754,6,"Chhattisgarh","Railways","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Railways","field","Chhattisgarh",72,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205755,6,"Himachal","Hyderabad (India)","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Hyderabad (India)","field","Himachal",84,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205756,6,"Bengal","Meghalaya","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Meghalaya","field","Bengal",54,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205757,6,"Puducherry","Mizoram","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Mizoram","field","Puducherry",31,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205758,6,"Nagaland","Delhi","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Delhi","field","Delhi",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205759,6,"Saurashtra","Gujarat","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Gujarat","field","Saurashtra",57,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205761,6,"Kerala","Tripura","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Tripura","field","Kerala",14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205762,6,"Arunachal Pradesh","Maharashtra","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Maharashtra","field","Maharashtra",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205763,6,"Chandigarh","Punjab","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Chandigarh","bat","Punjab",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205764,6,"Madhya Pradesh","Mumbai","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Madhya Pradesh","bat","Mumbai",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205765,6,"Assam","Haryana","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Haryana","field","Haryana",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1205767,6,"Sikkim","Odisha","male","2019/20",2019-11-11,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Sikkim","bat","Odisha",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205768,6,"Andhra","Baroda","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Baroda","field","Baroda",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205769,6,"Karnataka","Services","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Services","field","Karnataka",80,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205770,6,"Kerala","Manipur","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Manipur","field","Kerala",75,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205771,6,"Tripura","Uttar Pradesh","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205772,6,"Arunachal Pradesh","Railways","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Arunachal Pradesh","bat","Railways",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205773,6,"Chhattisgarh","Maharashtra","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Maharashtra","field","Chhattisgarh",34,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205774,6,"Assam","Meghalaya","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Meghalaya","field","Meghalaya",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205775,6,"Madhya Pradesh","Mizoram","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Mizoram","field","Madhya Pradesh",86,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205776,6,"Saurashtra","Delhi","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Delhi","field","Delhi",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205778,6,"Goa","Uttarakhand","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Uttarakhand","field","Uttarakhand",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205779,6,"Vidarbha","Rajasthan","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Vidarbha","bat","Vidarbha",1,NA,NA,NA,NA,NA,NA,"VJD",NA,NA
+1205780,6,"Himachal","Punjab","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Himachal","bat","Punjab",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205781,6,"Chandigarh","Hyderabad (India)","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Chandigarh","bat","Hyderabad (India)",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1205782,6,"Bengal","Haryana","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Bengal","bat","Haryana",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1205783,6,"Mumbai","Puducherry","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Puducherry","field","Mumbai",27,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205784,6,"Jammu & Kashmir","Odisha","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Jammu & Kashmir","bat","Jammu & Kashmir",3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205785,6,"Sikkim","Jharkhand","male","2019/20",2019-11-12,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Sikkim","bat","Jharkhand",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205786,6,"Services","Goa","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Goa","field","Services",21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205787,6,"Uttarakhand","Andhra","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Andhra","field","Andhra",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205788,6,"Kerala","Vidarbha","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Vidarbha","field","Kerala",26,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205790,6,"Chhattisgarh","Chandigarh","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Chandigarh","field","Chandigarh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205791,6,"Railways","Punjab","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Punjab","field","Railways",5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205792,6,"Bengal","Mumbai","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","field","Mumbai",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1205793,6,"Puducherry","Haryana","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Haryana","field","Haryana",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205795,6,"Sikkim","Gujarat","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Sikkim","bat","Gujarat",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205796,6,"Bihar","Baroda","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Bihar","bat","Baroda",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1205797,6,"Manipur","Tamil Nadu","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205798,6,"Arunachal Pradesh","Himachal","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Arunachal Pradesh","bat","Himachal",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205799,6,"Hyderabad (India)","Maharashtra","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Maharashtra","field","Maharashtra",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205800,6,"Mizoram","Assam","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Assam","field","Assam",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205801,6,"Madhya Pradesh","Meghalaya","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Madhya Pradesh","bat","Madhya Pradesh",85,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205802,6,"Nagaland","Jharkhand","male","2019/20",2019-11-14,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Nagaland","bat","Jharkhand",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205804,6,"Goa","Andhra","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Andhra","field","Andhra",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205805,6,"Baroda","Services","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Services","field","Baroda",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205806,6,"Kerala","Rajasthan","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Rajasthan","field","Rajasthan",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205807,6,"Manipur","Uttar Pradesh","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Manipur","bat","Uttar Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205808,6,"Arunachal Pradesh","Hyderabad (India)","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Hyderabad (India)","field","Hyderabad (India)",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205809,6,"Punjab","Chhattisgarh","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Chhattisgarh","field","Punjab",19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205810,6,"Mizoram","Haryana","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Haryana","field","Haryana",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205811,6,"Madhya Pradesh","Bengal","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Bengal","field","Bengal",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205812,6,"Delhi","Jharkhand","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Jharkhand","field","Delhi",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205813,6,"Odisha","Gujarat","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Odisha","bat","Gujarat",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205814,6,"Bihar","Karnataka","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Bihar","bat","Karnataka",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205815,6,"Tripura","Tamil Nadu","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Tripura","bat","Tamil Nadu",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205816,6,"Himachal","Maharashtra","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Himachal","bat","Maharashtra",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205817,6,"Railways","Chandigarh","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","GSSS, Sector 26",NA,"Chandigarh","field","Railways",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205818,6,"Mumbai","Meghalaya","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","bat","Meghalaya",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205819,6,"Assam","Puducherry","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Puducherry","field","Puducherry",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205820,6,"Nagaland","Jammu & Kashmir","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Nagaland","bat","Jammu & Kashmir",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205821,6,"Sikkim","Saurashtra","male","2019/20",2019-11-15,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Sikkim","bat","Saurashtra",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205822,6,"Bihar","Uttarakhand","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Uttarakhand","field","Uttarakhand",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205823,6,"Karnataka","Goa","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Dr P.V.G. Raju ACA Sports Complex",NA,"Goa","field","Karnataka",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205824,6,"Kerala","Uttar Pradesh","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Kerala","bat","Kerala",1,NA,NA,NA,NA,NA,NA,"VJD",NA,NA
+1205825,6,"Tripura","Rajasthan","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","St'Xavier's KCA Cricket Ground",NA,"Rajasthan","field","Rajasthan",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205826,6,"Arunachal Pradesh","Chandigarh","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Arunachal Pradesh","bat","Chandigarh",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1205828,6,"Mumbai","Assam","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Assam","field","Mumbai",83,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205829,6,"Bengal","Puducherry","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Puducherry","field","Puducherry",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205830,6,"Sikkim","Delhi","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Sikkim","bat","Delhi",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205831,6,"Saurashtra","Jammu & Kashmir","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Saurashtra","bat","Jammu & Kashmir",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205832,6,"Andhra","Services","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium",NA,"Andhra","bat","Services",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1205833,6,"Tamil Nadu","Vidarbha","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Greenfield Stadium",NA,"Vidarbha","field","Tamil Nadu",113,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205836,6,"Meghalaya","Mizoram","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mizoram","field","Meghalaya",25,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205837,6,"Madhya Pradesh","Haryana","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Madhya Pradesh","bat","Haryana",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205839,6,"Odisha","Nagaland","male","2019/20",2019-11-17,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Nagaland","field","Odisha",45,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205720,6,"Haryana","Meghalaya","male","2019/20",2019-11-18,"Syed Mushtaq Ali Trophy","BKC Ground",NA,"Meghalaya","field","Haryana",99,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205728,6,"Madhya Pradesh","Puducherry","male","2019/20",2019-11-18,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Puducherry","field","Madhya Pradesh",5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205729,6,"Assam","Bengal","male","2019/20",2019-11-18,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Assam","bat","Bengal",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205741,6,"Jammu & Kashmir","Gujarat","male","2019/20",2019-11-18,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Gujarat","field","Gujarat",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205827,6,"Maharashtra","Punjab","male","2019/20",2019-11-18,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Punjab","field","Maharashtra",45,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205835,6,"Himachal","Railways","male","2019/20",2019-11-18,"Syed Mushtaq Ali Trophy","Cricket Stadium, Sector-16",NA,"Himachal","bat","Himachal",54,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205841,6,"Delhi","Maharashtra","male","2019/20",2019-11-21,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Maharashtra","field","Delhi",77,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205842,6,"Tamil Nadu","Karnataka","male","2019/20",2019-11-21,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Karnataka","field","Karnataka",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1205844,6,"Baroda","Delhi","male","2019/20",2019-11-22,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Delhi","field","Baroda",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205845,6,"Rajasthan","Haryana","male","2019/20",2019-11-22,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Rajasthan","bat","Haryana",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205846,6,"Karnataka","Jharkhand","male","2019/20",2019-11-22,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Jharkhand","field","Karnataka",13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205847,6,"Mumbai","Tamil Nadu","male","2019/20",2019-11-22,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Tamil Nadu","field","Tamil Nadu",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205848,6,"Maharashtra","Baroda","male","2019/20",2019-11-24,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Maharashtra","bat","Maharashtra",67,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205849,6,"Haryana","Delhi","male","2019/20",2019-11-24,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Delhi","field","Haryana",30,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205850,6,"Punjab","Karnataka","male","2019/20",2019-11-24,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Karnataka","field","Karnataka",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205851,6,"Jharkhand","Mumbai","male","2019/20",2019-11-24,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Mumbai","field","Mumbai",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1205852,6,"Baroda","Haryana","male","2019/20",2019-11-25,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Haryana","field","Haryana",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205853,6,"Maharashtra","Rajasthan","male","2019/20",2019-11-25,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Rajasthan","field","Rajasthan",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1205854,6,"Karnataka","Mumbai","male","2019/20",2019-11-25,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Mumbai","field","Mumbai",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1205855,6,"Punjab","Tamil Nadu","male","2019/20",2019-11-25,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1205856,6,"Rajasthan","Delhi","male","2019/20",2019-11-27,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Rajasthan","bat","Rajasthan",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205857,6,"Maharashtra","Haryana","male","2019/20",2019-11-27,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Maharashtra","bat","Maharashtra",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205858,6,"Jharkhand","Tamil Nadu","male","2019/20",2019-11-27,"Syed Mushtaq Ali Trophy","C B Patel Ground",NA,"Jharkhand","bat","Tamil Nadu",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205859,6,"Mumbai","Punjab","male","2019/20",2019-11-27,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Punjab","field","Mumbai",22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205861,6,"Haryana","Karnataka","male","2019/20",2019-11-29,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Karnataka","field","Karnataka",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1205862,6,"Karnataka","Tamil Nadu","male","2019/20",2019-12-01,"Syed Mushtaq Ali Trophy","Lalbhai Contractor Stadium",NA,"Tamil Nadu","field","Karnataka",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244306,6,"Karnataka","Jammu & Kashmir","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium",NA,"Jammu & Kashmir","field","Karnataka",43,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244307,6,"Punjab","Uttar Pradesh","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium II",NA,"Punjab","bat","Punjab",11,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244308,6,"Tripura","Railways","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium III",NA,"Railways","field","Railways",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244309,6,"Odisha","Bengal","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Jadavpur University Campus",NA,"Bengal","field","Bengal",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244310,6,"Tamil Nadu","Jharkhand","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Jharkhand","field","Tamil Nadu",66,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244311,6,"Assam","Hyderabad (India)","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Hyderabad (India)","field","Assam",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244312,6,"Gujarat","Maharashtra","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Maharashtra","field","Gujarat",29,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244313,6,"Himachal","Chhattisgarh","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","F B Colony Ground",NA,"Chhattisgarh","field","Himachal",32,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244314,6,"Baroda","Uttarakhand","male","2020/21",2021-01-10,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Uttarakhand","field","Baroda",5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244315,6,"Services","Saurashtra","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Saurashtra","field","Saurashtra",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1244316,6,"Vidarbha","Rajasthan","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Rajasthan","field","Rajasthan",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1244317,6,"Madhya Pradesh","Goa","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Goa","field","Madhya Pradesh",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244318,6,"Andhra","Haryana","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Haryana","field","Haryana",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244319,6,"Delhi","Mumbai","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Mumbai","field","Delhi",76,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244320,6,"Puducherry","Kerala","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Puducherry","bat","Kerala",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244322,6,"Meghalaya","Manipur","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","SSN College Ground",NA,"Manipur","field","Manipur",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244323,6,"Bihar","Arunachal Pradesh","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","T I Murugappa Ground",NA,"Bihar","bat","Bihar",18,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244324,6,"Mizoram","Sikkim","male","2020/21",2021-01-11,"Syed Mushtaq Ali Trophy","Sri Ramachandra Medical College",NA,"Sikkim","field","Sikkim",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1244325,6,"Karnataka","Punjab","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium",NA,"Punjab","field","Punjab",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244326,6,"Tripura","Jammu & Kashmir","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium II",NA,"Jammu & Kashmir","field","Jammu & Kashmir",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1244327,6,"Uttar Pradesh","Railways","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium III",NA,"Railways","field","Railways",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244330,6,"Assam","Tamil Nadu","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Tamil Nadu","field","Tamil Nadu",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1244331,6,"Chhattisgarh","Maharashtra","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","F B Colony Ground",NA,"Chhattisgarh","bat","Maharashtra",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244332,6,"Gujarat","Uttarakhand","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Uttarakhand","field","Gujarat",73,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244333,6,"Himachal","Baroda","male","2020/21",2021-01-12,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Baroda","field","Baroda",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1244334,6,"Saurashtra","Vidarbha","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Vidarbha","field","Saurashtra",79,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244335,6,"Services","Goa","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Goa","field","Goa",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1244336,6,"Rajasthan","Madhya Pradesh","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Madhya Pradesh","field","Rajasthan",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244337,6,"Andhra","Delhi","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Delhi","field","Delhi",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244338,6,"Puducherry","Haryana","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Haryana","field","Haryana",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244340,6,"Meghalaya","Mizoram","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","IC-Gurunanak College Ground",NA,"Mizoram","field","Meghalaya",130,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244341,6,"Chandigarh","Manipur","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","T I Murugappa Ground",NA,"Chandigarh","bat","Chandigarh",112,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244342,6,"Sikkim","Bihar","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","SSN College Ground",NA,"Sikkim","bat","Bihar",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244343,6,"Arunachal Pradesh","Nagaland","male","2020/21",2021-01-13,"Syed Mushtaq Ali Trophy","Sri Ramachandra Medical College",NA,"Arunachal Pradesh","bat","Nagaland",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244344,6,"Punjab","Railways","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium II",NA,"Railways","field","Punjab",117,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244346,6,"Karnataka","Tripura","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium III",NA,"Tripura","field","Karnataka",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244347,6,"Jharkhand","Assam","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Jadavpur University Campus",NA,"Jharkhand","bat","Jharkhand",51,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244348,6,"Odisha","Tamil Nadu","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Odisha","bat","Tamil Nadu",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244349,6,"Hyderabad (India)","Bengal","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Bengal","field","Bengal",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244350,6,"Chhattisgarh","Baroda","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","F B Colony Ground",NA,"Baroda","field","Baroda",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244351,6,"Himachal","Gujarat","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Gujarat","field","Himachal",26,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244352,6,"Maharashtra","Uttarakhand","male","2020/21",2021-01-14,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Maharashtra","bat","Uttarakhand",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244353,6,"Madhya Pradesh","Vidarbha","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Vidarbha","field","Madhya Pradesh",21,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244355,6,"Saurashtra","Goa","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Goa","field","Saurashtra",90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244356,6,"Delhi","Kerala","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Kerala","field","Kerala",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244357,6,"Mumbai","Haryana","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Mumbai","bat","Haryana",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244358,6,"Andhra","Puducherry","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Puducherry","field","Puducherry",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1244359,6,"Meghalaya","Bihar","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","SSN College Ground",NA,"Bihar","field","Bihar",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244360,6,"Chandigarh","Mizoram","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","Sri Ramachandra Medical College",NA,"Chandigarh","bat","Chandigarh",89,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244361,6,"Nagaland","Sikkim","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","IC-Gurunanak College Ground",NA,"Sikkim","field","Nagaland",100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244362,6,"Manipur","Arunachal Pradesh","male","2020/21",2021-01-15,"Syed Mushtaq Ali Trophy","T I Murugappa Ground",NA,"Manipur","bat","Manipur",45,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244363,6,"Tripura","Uttar Pradesh","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium",NA,"Uttar Pradesh","field","Uttar Pradesh",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244364,6,"Railways","Karnataka","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium II",NA,"Railways","bat","Karnataka",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+1244365,6,"Jammu & Kashmir","Punjab","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium III",NA,"Punjab","field","Punjab",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1244366,6,"Hyderabad (India)","Tamil Nadu","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Jadavpur University Campus",NA,"Hyderabad (India)","bat","Tamil Nadu",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1244367,6,"Assam","Bengal","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Bengal","field","Assam",13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244368,6,"Jharkhand","Odisha","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Jharkhand","bat","Jharkhand",54,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244369,6,"Uttarakhand","Himachal","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Himachal","field","Himachal",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1244370,6,"Baroda","Maharashtra","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Maharashtra","field","Baroda",60,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244371,6,"Chhattisgarh","Gujarat","male","2020/21",2021-01-16,"Syed Mushtaq Ali Trophy","F B Colony Ground",NA,"Gujarat","field","Gujarat",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244372,6,"Goa","Rajasthan","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Goa","bat","Goa",37,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244373,6,"Saurashtra","Madhya Pradesh","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Emerald Heights International School Ground",NA,"Saurashtra","bat","Madhya Pradesh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244374,6,"Vidarbha","Services","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Vidarbha","bat","Services",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244375,6,"Mumbai","Puducherry","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Puducherry","field","Puducherry",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244376,6,"Kerala","Andhra","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Andhra","field","Andhra",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244377,6,"Delhi","Haryana","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Haryana","field","Haryana",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1244378,6,"Manipur","Bihar","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","Sri Ramachandra Medical College",NA,"Bihar","field","Bihar",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244379,6,"Arunachal Pradesh","Meghalaya","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","T I Murugappa Ground",NA,"Arunachal Pradesh","bat","Meghalaya",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244380,6,"Chandigarh","Sikkim","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","IC-Gurunanak College Ground",NA,"Chandigarh","bat","Chandigarh",131,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244381,6,"Nagaland","Mizoram","male","2020/21",2021-01-17,"Syed Mushtaq Ali Trophy","SSN College Ground",NA,"Nagaland","bat","Nagaland",77,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244382,6,"Railways","Jammu & Kashmir","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium",NA,"Jammu & Kashmir","field","Jammu & Kashmir",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1244383,6,"Punjab","Tripura","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Alur Cricket Stadium III",NA,"Tripura","field","Punjab",22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244385,6,"Assam","Odisha","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Jadavpur University Campus",NA,"Assam","bat","Odisha",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1244386,6,"Hyderabad (India)","Jharkhand","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Jharkhand","field",NA,NA,NA,"tie","Jharkhand",NA,NA,NA,NA,NA,NA
+1244387,6,"Bengal","Tamil Nadu","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Eden Gardens",NA,"Tamil Nadu","field","Tamil Nadu",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244388,6,"Baroda","Gujarat","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","F B Colony Ground",NA,"Gujarat","field","Baroda",12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244389,6,"Uttarakhand","Chhattisgarh","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Chhattisgarh","field",NA,NA,NA,"tie","Chhattisgarh",NA,NA,NA,NA,NA,NA
+1244390,6,"Maharashtra","Himachal","male","2020/21",2021-01-18,"Syed Mushtaq Ali Trophy","Motibaug Cricket Ground",NA,"Maharashtra","bat","Himachal",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1244391,6,"Madhya Pradesh","Services","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Madhya Pradesh","bat","Madhya Pradesh",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244393,6,"Rajasthan","Saurashtra","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","Holkar Stadium",NA,"Rajasthan","bat","Rajasthan",15,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244394,6,"Haryana","Kerala","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Kerala","field","Haryana",4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244395,6,"Delhi","Puducherry","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","Sharad Pawar Cricket Academy BKC",NA,"Puducherry","field","Delhi",110,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244396,6,"Andhra","Mumbai","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","Wankhede Stadium",NA,"Andhra","bat","Mumbai",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1244398,6,"Sikkim","Meghalaya","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","Sri Ramachandra Medical College",NA,"Meghalaya","field","Meghalaya",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244399,6,"Mizoram","Bihar","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","SSN College Ground",NA,"Bihar","field","Bihar",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1244400,6,"Manipur","Nagaland","male","2020/21",2021-01-19,"Syed Mushtaq Ali Trophy","T I Murugappa Ground",NA,"Manipur","bat","Nagaland",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244401,6,"Karnataka","Punjab","male","2020/21",2021-01-26,"Syed Mushtaq Ali Trophy","Narendra Modi Stadium Ground 'A', Motera",NA,"Punjab","field","Punjab",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1244402,6,"Himachal","Tamil Nadu","male","2020/21",2021-01-26,"Syed Mushtaq Ali Trophy","Narendra Modi Stadium Ground 'A', Motera",NA,"Tamil Nadu","field","Tamil Nadu",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1244403,6,"Haryana","Baroda","male","2020/21",2021-01-27,"Syed Mushtaq Ali Trophy","Narendra Modi Stadium Ground 'A', Motera",NA,"Baroda","field","Baroda",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1244405,6,"Rajasthan","Tamil Nadu","male","2020/21",2021-01-29,"Syed Mushtaq Ali Trophy","Narendra Modi Stadium Ground 'A', Motera",NA,"Rajasthan","bat","Tamil Nadu",NA,7,NA,NA,"KB Arun Karthik",NA,NA,NA,NA,NA
+1244406,6,"Baroda","Punjab","male","2020/21",2021-01-29,"Syed Mushtaq Ali Trophy","Narendra Modi Stadium Ground 'A', Motera",NA,"Punjab","field","Baroda",25,NA,NA,NA,"KH Devdhar",NA,NA,NA,NA,NA
+1244407,6,"Baroda","Tamil Nadu","male","2020/21",2021-01-31,"Syed Mushtaq Ali Trophy","Narendra Modi Stadium Ground 'A', Motera",NA,"Tamil Nadu","field","Tamil Nadu",NA,7,NA,NA,"M Siddharth",NA,NA,NA,NA,NA
+1280198,6,"Tamil Nadu","Maharashtra","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Maharashtra","field","Tamil Nadu",12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280200,6,"Goa","Odisha","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B",NA,"Odisha","field","Odisha",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1280201,6,"Chhattisgarh","Bengal","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Bengal","field","Bengal",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280202,6,"Karnataka","Mumbai","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Mumbai","field","Karnataka",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280203,6,"Baroda","Services","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Nehru Stadium",NA,"Services","field","Services",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+1280204,6,"Himachal","Haryana","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Haryana","field","Haryana",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280207,6,"Assam","Madhya Pradesh","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280208,6,"Bihar","Railways","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Railways","field","Bihar",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280209,6,"Kerala","Gujarat","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Gujarat","field","Gujarat",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1280210,6,"Saurashtra","Hyderabad (India)","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Hyderabad (India)","field","Hyderabad (India)",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+1280211,6,"Uttar Pradesh","Chandigarh","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Uttar Pradesh","bat","Uttar Pradesh",22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280212,6,"Delhi","Uttarakhand","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Chaudhry Bansi Lal Cricket Stadium",NA,"Uttarakhand","field","Delhi",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280213,6,"Vidarbha","Arunachal Pradesh","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Arunachal Pradesh","field","Vidarbha",94,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280214,6,"Tripura","Sikkim","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Sikkim","field","Tripura",44,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280216,6,"Mizoram","Meghalaya","male","2021/22",2021-11-04,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Mizoram","bat","Meghalaya",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1280217,6,"Punjab","Maharashtra","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Maharashtra","field","Maharashtra",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280219,6,"Goa","Puducherry","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B",NA,"Goa","bat","Goa",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280220,6,"Chhattisgarh","Karnataka","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Karnataka","field","Karnataka",NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+1280221,6,"Bengal","Baroda","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Bengal","bat","Bengal",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280223,6,"Jammu & Kashmir","Rajasthan","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Rajasthan","field","Rajasthan",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1280224,6,"Himachal","Jharkhand","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Himachal","bat","Himachal",7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280225,6,"Andhra","Haryana","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Alembic 2  Cricket Ground",NA,"Haryana","field","Haryana",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280226,6,"Railways","Madhya Pradesh","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Madhya Pradesh","field","Madhya Pradesh",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280227,6,"Gujarat","Assam","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Gujarat","bat","Assam",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280228,6,"Bihar","Kerala","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Bihar","bat","Kerala",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280229,6,"Saurashtra","Uttar Pradesh","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Uttar Pradesh","field","Saurashtra",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280230,6,"Hyderabad (India)","Uttarakhand","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Hyderabad (India)","bat","Hyderabad (India)",61,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280231,6,"Chandigarh","Delhi","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Chaudhry Bansi Lal Cricket Stadium",NA,"Delhi","field","Delhi",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280232,6,"Sikkim","Meghalaya","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Meghalaya","field","Meghalaya",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280233,6,"Nagaland","Vidarbha","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Nagaland","bat","Vidarbha",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1280234,6,"Arunachal Pradesh","Manipur","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Arunachal Pradesh","bat","Manipur",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280235,6,"Tripura","Mizoram","male","2021/22",2021-11-05,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Tripura","bat","Tripura",29,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280236,6,"Punjab","Goa","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Goa","field","Punjab",81,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280237,6,"Puducherry","Tamil Nadu","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280238,6,"Maharashtra","Odisha","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B",NA,"Maharashtra","bat","Maharashtra",27,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280239,6,"Karnataka","Services","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Services","field","Karnataka",33,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280240,6,"Mumbai","Bengal","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Mumbai","bat","Mumbai",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280241,6,"Chhattisgarh","Baroda","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Nehru Stadium",NA,"Chhattisgarh","bat","Baroda",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280242,6,"Haryana","Jammu & Kashmir","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Alembic 2  Cricket Ground",NA,"Jammu & Kashmir","field","Jammu & Kashmir",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280243,6,"Andhra","Jharkhand","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Alembic 2  Cricket Ground",NA,"Jharkhand","field","Andhra",8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280245,6,"Railways","Kerala","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Kerala","field","Railways",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280246,6,"Bihar","Assam","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Bihar","bat","Assam",NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+1280247,6,"Gujarat","Madhya Pradesh","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Madhya Pradesh","field","Gujarat",50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280249,6,"Chandigarh","Hyderabad (India)","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Hyderabad (India)","field","Hyderabad (India)",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280250,6,"Saurashtra","Uttarakhand","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Saurashtra","bat","Saurashtra",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280251,6,"Tripura","Manipur","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Tripura","bat","Tripura",55,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280252,6,"Meghalaya","Vidarbha","male","2021/22",2021-11-06,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Meghalaya","bat","Vidarbha",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280255,6,"Tamil Nadu","Goa","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Goa","field","Goa",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280257,6,"Maharashtra","Puducherry","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B",NA,"Maharashtra","bat","Maharashtra",117,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280258,6,"Services","Bengal","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Bengal","field","Bengal",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1280259,6,"Baroda","Karnataka","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Baroda","bat","Karnataka",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280260,6,"Chhattisgarh","Mumbai","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Nehru Stadium",NA,"Chhattisgarh","bat","Chhattisgarh",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280263,6,"Rajasthan","Andhra","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Alembic 2  Cricket Ground",NA,"Rajasthan","bat","Rajasthan",11,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280264,6,"Assam","Kerala","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Kerala","field","Kerala",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280266,6,"Bihar","Madhya Pradesh","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Bihar","bat","Madhya Pradesh",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1280269,6,"Saurashtra","Chandigarh","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Chaudhry Bansi Lal Cricket Stadium",NA,"Saurashtra","bat","Saurashtra",42,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280270,6,"Mizoram","Sikkim","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Mizoram","bat","Sikkim",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1280271,6,"Nagaland","Arunachal Pradesh","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Nagaland","bat","Nagaland",79,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280272,6,"Tripura","Meghalaya","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Tripura","bat","Meghalaya",NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+1280273,6,"Vidarbha","Manipur","male","2021/22",2021-11-08,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Vidarbha","bat","Vidarbha",167,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280274,6,"Odisha","Puducherry","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Puducherry","field","Puducherry",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280275,6,"Maharashtra","Goa","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",NA,"Maharashtra","bat","Maharashtra",73,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280276,6,"Punjab","Tamil Nadu","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B",NA,"Punjab","bat","Tamil Nadu",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280277,6,"Mumbai","Baroda","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Baroda","field","Mumbai",82,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280278,6,"Chhattisgarh","Services","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","ACA Stadium, Barsapara",NA,"Chhattisgarh","bat","Chhattisgarh",35,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280279,6,"Karnataka","Bengal","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Nehru Stadium",NA,"Karnataka","bat","Bengal",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280280,6,"Himachal","Andhra","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Alembic 2  Cricket Ground",NA,"Andhra","field","Himachal",30,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280281,6,"Rajasthan","Haryana","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Alembic 2  Cricket Ground",NA,"Haryana","field","Rajasthan",30,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280282,6,"Jammu & Kashmir","Jharkhand","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Reliance Cricket Stadium",NA,"Jammu & Kashmir","bat","Jharkhand",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1280283,6,"Bihar","Gujarat","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Gujarat","field","Gujarat",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1280284,6,"Madhya Pradesh","Kerala","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Kerala","field","Kerala",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280285,6,"Railways","Assam","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Railways","bat","Railways",48,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280286,6,"Uttarakhand","Chandigarh","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Chandigarh","field","Chandigarh",NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+1280287,6,"Saurashtra","Delhi","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Chaudhry Bansi Lal Cricket Stadium",NA,"Saurashtra","bat","Saurashtra",13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280288,6,"Hyderabad (India)","Uttar Pradesh","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Gurugram Cricket Ground (SRNCC)",NA,"Hyderabad (India)","bat","Hyderabad (India)",29,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280289,6,"Nagaland","Tripura","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Tripura","field","Tripura",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1280290,6,"Manipur","Mizoram","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","Gokaraju Liala Gangaaraju ACA Cricket Ground",NA,"Manipur","bat","Mizoram",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280291,6,"Vidarbha","Sikkim","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Vidarbha","bat","Vidarbha",130,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280292,6,"Meghalaya","Arunachal Pradesh","male","2021/22",2021-11-09,"Syed Mushtaq Ali Trophy","ACA Stadium,Mangalagiri",NA,"Arunachal Pradesh","field","Meghalaya",92,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280293,6,"Maharashtra","Vidarbha","male","2021/22",2021-11-16,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Vidarbha","field","Vidarbha",NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+1280294,6,"Saurashtra","Karnataka","male","2021/22",2021-11-16,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Saurashtra","bat","Karnataka",NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+1280295,6,"Himachal","Kerala","male","2021/22",2021-11-16,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Kerala","field","Kerala",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280296,6,"Kerala","Tamil Nadu","male","2021/22",2021-11-18,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+1280297,6,"Karnataka","Bengal","male","2021/22",2021-11-18,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Bengal","field",NA,NA,NA,"tie","Karnataka",NA,NA,NA,NA,NA,NA
+1280298,6,"Rajasthan","Vidarbha","male","2021/22",2021-11-18,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Vidarbha","field","Vidarbha",NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+1280299,6,"Hyderabad (India)","Gujarat","male","2021/22",2021-11-18,"Syed Mushtaq Ali Trophy","Airforce Complex ground, Palam",NA,"Gujarat","field","Hyderabad (India)",30,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280300,6,"Hyderabad (India)","Tamil Nadu","male","2021/22",2021-11-20,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+1280301,6,"Karnataka","Vidarbha","male","2021/22",2021-11-20,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Vidarbha","field","Karnataka",4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1280302,6,"Karnataka","Tamil Nadu","male","2021/22",2021-11-22,"Syed Mushtaq Ali Trophy","Arun Jaitley Stadium",NA,"Tamil Nadu","field","Tamil Nadu",NA,4,NA,NA,"M Shahrukh Khan","Anish Sahasrabudhe","Nikhil Menon",NA,NA,NA
+1332920,6,"Punjab","Hyderabad (India)","male","2022/23",2022-10-11,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Hyderabad (India)","field","Punjab",59,NA,NA,NA,NA,"Mohamad Rafi","VR Lund",NA,"P Ranganathan",NA
+1332927,6,"Railways","Uttarakhand","male","2022/23",2022-10-11,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Uttarakhand","field","Uttarakhand",NA,7,NA,NA,NA,"CK Nandan","Premdip Chatterjee",NA,"F Ghayas",NA
+1332934,6,"Nagaland","Baroda","male","2022/23",2022-10-11,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Nagaland","bat","Baroda",NA,7,NA,NA,NA,"A Bengeri","A Totre",NA,"Ajay Verma","MV Saidharshan Kumar"
+1332938,6,"Hyderabad (India)","Puducherry","male","2022/23",2022-10-12,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Puducherry","field","Hyderabad (India)",4,NA,NA,NA,NA,"P Joshi","VR Lund",NA,"Chinmay Sharma",NA
+1332939,6,"Delhi","Punjab","male","2022/23",2022-10-12,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Delhi","bat","Delhi",12,NA,NA,NA,NA,"P Joshi","VR Lund",NA,"Chinmay Sharma",NA
+1332943,6,"Madhya Pradesh","Mumbai","male","2022/23",2022-10-12,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Madhya Pradesh","bat","Mumbai",NA,8,NA,NA,NA,"M Krishnadas","CK Nandan",NA,"F Ghayas",NA
+1332950,6,"Baroda","Saurashtra","male","2022/23",2022-10-12,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Saurashtra","field","Saurashtra",NA,4,NA,NA,NA,"A Bengeri","P Jayapal",NA,"A Kripal Singh","A Totre"
+1332952,6,"Nagaland","Bihar","male","2022/23",2022-10-12,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Nagaland","bat","Bihar",NA,6,NA,NA,NA,"A Bengeri","P Jayapal",NA,"A Kripal Singh","A Totre"
+1332956,6,"Hyderabad (India)","Goa","male","2022/23",2022-10-14,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Goa","field","Hyderabad (India)",37,NA,NA,NA,NA,"BK Ravi","P Joshi",NA,"P Ranganathan",NA
+1332958,6,"Delhi","Uttar Pradesh","male","2022/23",2022-10-14,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Delhi","bat","Uttar Pradesh",NA,8,NA,NA,NA,"BK Ravi","P Joshi",NA,"P Ranganathan",NA
+1332960,6,"Rajasthan","Railways","male","2022/23",2022-10-14,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Rajasthan","bat","Rajasthan",8,NA,NA,NA,NA,"M Krishnadas","S Ravi",NA,"Prakash Bhatt",NA
+1332962,6,"Mumbai","Assam","male","2022/23",2022-10-14,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Assam","field","Mumbai",61,NA,NA,NA,NA,"M Krishnadas","S Ravi",NA,"Prakash Bhatt",NA
+1332968,6,"Baroda","Gujarat","male","2022/23",2022-10-14,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Baroda","bat","Gujarat",NA,2,NA,NA,NA,"A Totre","Saurabh Dhote",NA,"A Kripal Singh",NA
+1332978,6,"Rajasthan","Uttarakhand","male","2022/23",2022-10-16,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Uttarakhand","field","Uttarakhand",NA,4,NA,NA,NA,"M Krishnadas","S Ravi",NA,"F Ghayas",NA
+1332981,6,"Mizoram","Assam","male","2022/23",2022-10-16,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Assam","field","Assam",NA,7,NA,NA,NA,"M Krishnadas","S Ravi",NA,"F Ghayas",NA
+1332986,6,"Gujarat","Saurashtra","male","2022/23",2022-10-16,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Saurashtra","field","Saurashtra",NA,3,NA,NA,NA,"P Jayapal","Saurabh Dhote",NA,"Ajay Verma","MV Saidharshan Kumar"
+1332987,6,"Nagaland","Andhra","male","2022/23",2022-10-16,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Nagaland","bat","Andhra",NA,5,NA,NA,NA,"P Jayapal","Saurabh Dhote",NA,"Ajay Verma","MV Saidharshan Kumar"
+1332993,6,"Manipur","Punjab","male","2022/23",2022-10-18,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Manipur","bat","Punjab",NA,9,NA,NA,NA,"Mohamad Rafi","VR Lund",NA,"P Ranganathan",NA
+1332995,6,"Tripura","Puducherry","male","2022/23",2022-10-18,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Puducherry","field","Tripura",23,NA,NA,NA,NA,"Mohamad Rafi","VR Lund",NA,"P Ranganathan",NA
+1332997,6,"Mizoram","Madhya Pradesh","male","2022/23",2022-10-18,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Mizoram","bat","Madhya Pradesh",NA,6,NA,NA,NA,"M Krishnadas","CK Nandan",NA,"Prakash Bhatt",NA
+1332999,6,"Vidarbha","Uttarakhand","male","2022/23",2022-10-18,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Uttarakhand","field","Vidarbha",2,NA,NA,NA,NA,"M Krishnadas","CK Nandan",NA,"Prakash Bhatt",NA
+1333005,6,"Himachal Pradesh","Saurashtra","male","2022/23",2022-10-18,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Saurashtra","field","Himachal Pradesh",13,NA,NA,NA,NA,"P Jayapal","MV Saidharshan Kumar",NA,"Ajay Verma","A Bengeri"
+1333006,6,"Bihar","Andhra","male","2022/23",2022-10-18,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Bihar","bat","Andhra",NA,2,NA,NA,NA,"P Jayapal","MV Saidharshan Kumar",NA,"Ajay Verma","A Bengeri"
+1333012,6,"Goa","Delhi","male","2022/23",2022-10-20,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Delhi","field","Delhi",NA,6,NA,NA,NA,"BK Ravi","Mohamad Rafi",NA,"P Ranganathan",NA
+1333013,6,"Manipur","Tripura","male","2022/23",2022-10-20,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Manipur","bat","Tripura",NA,8,NA,NA,NA,"BK Ravi","Mohamad Rafi",NA,"P Ranganathan",NA
+1333016,6,"Mumbai","Railways","male","2022/23",2022-10-20,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Railways","field","Railways",NA,4,NA,NA,NA,"M Krishnadas","S Ravi",NA,"F Ghayas",NA
+1333017,6,"Uttarakhand","Mizoram","male","2022/23",2022-10-20,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Mizoram","field","Uttarakhand",129,NA,NA,NA,NA,"M Krishnadas","S Ravi",NA,"F Ghayas",NA
+1333022,6,"Andhra","Gujarat","male","2022/23",2022-10-20,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Gujarat","field","Gujarat",NA,5,NA,NA,NA,"A Bengeri","Saurabh Dhote",NA,"A Kripal Singh","A Totre"
+1333024,6,"Baroda","Himachal Pradesh","male","2022/23",2022-10-20,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Himachal Pradesh","field","Himachal Pradesh",NA,8,NA,NA,NA,"A Bengeri","Saurabh Dhote",NA,"A Kripal Singh","A Totre"
+1333029,6,"Uttar Pradesh","Punjab","male","2022/23",2022-10-22,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Uttar Pradesh","bat","Punjab",NA,9,NA,NA,NA,"Mohamad Rafi","VR Lund",NA,"Chinmay Sharma",NA
+1333031,6,"Puducherry","Goa","male","2022/23",2022-10-22,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Goa","field","Goa",NA,6,NA,NA,NA,"Mohamad Rafi","VR Lund",NA,"Chinmay Sharma",NA
+1333033,6,"Madhya Pradesh","Assam","male","2022/23",2022-10-22,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Madhya Pradesh","bat","Assam",NA,5,NA,NA,NA,"M Krishnadas","CK Nandan",NA,"Prakash Bhatt",NA
+1333035,6,"Railways","Vidarbha","male","2022/23",2022-10-22,"Syed Mushtaq Ali Trophy","Saurashtra Cricket Association Stadium, Rajkot","Rajkot","Vidarbha","field","Vidarbha",NA,6,NA,NA,NA,"M Krishnadas","CK Nandan",NA,"Prakash Bhatt",NA
+1333040,6,"Bihar","Gujarat","male","2022/23",2022-10-22,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Gujarat","field","Gujarat",NA,4,NA,NA,NA,"A Bengeri","P Jayapal",NA,"A Kripal Singh","Saurabh Dhote"
+1333041,6,"Nagaland","Himachal Pradesh","male","2022/23",2022-10-22,"Syed Mushtaq Ali Trophy","Holkar Cricket Stadium, Indore","Indore","Nagaland","bat","Himachal Pradesh",NA,9,NA,NA,NA,"A Bengeri","P Jayapal",NA,"A Kripal Singh","Saurabh Dhote"
+1333046,6,"Punjab","Haryana","male","2022/23",2022-10-30,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Haryana","field","Punjab",49,NA,NA,NA,NA,"NA Patwardhan","VA Kulkarni",NA,"SS Raul","A Nand Kishore"
+1333047,6,"Chhattisgarh","Vidarbha","male","2022/23",2022-10-30,"Syed Mushtaq Ali Trophy","Jadavpur University Campus 2nd Ground, Kolkata","Kolkata","Vidarbha","field","Vidarbha",NA,5,NA,NA,NA,"Chirra Ravikanthreddy","GR Sadashiv Iyer",NA,"Sanjay Verma",NA
+1333048,6,"Saurashtra","Kerala","male","2022/23",2022-10-30,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Saurashtra","bat","Saurashtra",9,NA,NA,NA,NA,"HAS Khalid","VA Kulkarni",NA,"DS Manohar","J Madanagopal"
+1333049,6,"Punjab","Karnataka","male","2022/23",2022-11-01,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Karnataka","field","Punjab",9,NA,NA,NA,NA,"A Nand Kishore","GR Sadashiv Iyer",NA,"Sanjay Verma","NA Patwardhan"
+1333050,6,"Vidarbha","Delhi","male","2022/23",2022-11-01,"Syed Mushtaq Ali Trophy","Jadavpur University Campus 2nd Ground, Kolkata","Kolkata","Delhi","field","Vidarbha",1,NA,NA,NA,NA,"Chirra Ravikanthreddy","J Madanagopal",NA,"DS Manohar",NA
+1333052,6,"Saurashtra","Mumbai","male","2022/23",2022-11-01,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Saurashtra","bat","Mumbai",NA,2,NA,NA,NA,"A Nand Kishore","NA Patwardhan",NA,"Sanjay Verma","GR Sadashiv Iyer"
+1333053,6,"Himachal Pradesh","Punjab","male","2022/23",2022-11-03,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Punjab","field","Himachal Pradesh",13,NA,NA,NA,NA,"J Madanagopal","A Nand Kishore",NA,"SS Raul","Chirra Ravikanthreddy"
+1333054,6,"Vidarbha","Mumbai","male","2022/23",2022-11-03,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Vidarbha","bat","Mumbai",NA,5,NA,NA,NA,"GR Sadashiv Iyer","HAS Khalid",NA,"DS Manohar","VA Kulkarni"
+1333055,6,"Himachal Pradesh","Mumbai","male","2022/23",2022-11-05,"Syed Mushtaq Ali Trophy","Eden Gardens, Kolkata","Kolkata","Mumbai","field","Mumbai",NA,3,NA,NA,"Tanush Kotian","J Madanagopal","NA Patwardhan",NA,"DS Manohar","HAS Khalid"
+1383434,6,"Haryana","Mumbai","male","2023/24",2023-10-16,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Haryana","bat","Mumbai",NA,8,NA,NA,NA,"M Krishnadas","GR Sadashiv Iyer","VJD","P Dharmani",NA
+1383437,6,"Baroda","Jammu & Kashmir","male","2023/24",2023-10-16,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Jammu & Kashmir","field","Baroda",19,NA,NA,NA,NA,"M Krishnadas","GR Sadashiv Iyer",NA,"P Dharmani",NA
+1383442,6,"Saurashtra","Punjab","male","2023/24",2023-10-16,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Punjab","field","Saurashtra",37,NA,NA,NA,NA,"PM Joshi","UV Gandhe",NA,"R Seth",NA
+1383445,6,"Manipur","Railways","male","2023/24",2023-10-16,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Railways","field","Railways",NA,9,NA,NA,NA,"PM Joshi","UV Gandhe",NA,"R Seth",NA
+1383452,6,"Meghalaya","Mumbai","male","2023/24",2023-10-17,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Mumbai","field","Mumbai",NA,9,NA,NA,NA,"A Totre","M Krishnadas",NA,"P Dharmani",NA
+1383453,6,"Haryana","Chhattisgarh","male","2023/24",2023-10-17,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Chhattisgarh","field","Chhattisgarh",NA,4,NA,NA,NA,"A Totre","M Krishnadas",NA,"P Dharmani",NA
+1383460,6,"Punjab","Andhra","male","2023/24",2023-10-17,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Punjab","bat","Punjab",105,NA,NA,NA,NA,"P Jayapal","UV Gandhe",NA,"DS Manohar",NA
+1383461,6,"Saurashtra","Gujarat","male","2023/24",2023-10-17,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Saurashtra","bat","Gujarat",NA,6,NA,NA,NA,"P Jayapal","UV Gandhe","VJD","DS Manohar",NA
+1383467,6,"Madhya Pradesh","Delhi","male","2023/24",2023-10-17,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Madhya Pradesh","bat","Delhi",NA,7,NA,NA,NA,"A Nand Kishore","Tapan Sharma",NA,"Prakash Bhatt","HAS Khalid"
+1383469,6,"Nagaland","Tripura","male","2023/24",2023-10-17,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Nagaland","bat","Tripura",NA,3,NA,NA,NA,"A Nand Kishore","Tapan Sharma",NA,"Prakash Bhatt","HAS Khalid"
+1383472,6,"Chhattisgarh","Hyderabad (India)","male","2023/24",2023-10-19,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Hyderabad (India)","field","Hyderabad (India)",NA,6,NA,NA,NA,"M Kuppuraj","M Krishnadas",NA,"SS Raul",NA
+1383478,6,"Punjab","Railways","male","2023/24",2023-10-19,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Punjab","bat","Punjab",120,NA,NA,NA,NA,"UV Gandhe","Vinod Seshan",NA,"R Seth",NA
+1383480,6,"Gujarat","Goa","male","2023/24",2023-10-19,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Gujarat","bat","Gujarat",15,NA,NA,NA,NA,"UV Gandhe","Vinod Seshan",NA,"R Seth",NA
+1383485,6,"Madhya Pradesh","Karnataka","male","2023/24",2023-10-19,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Karnataka","field","Karnataka",NA,7,NA,NA,NA,"A Nand Kishore","VM Dhokre",NA,"Sanjay Verma","HAS Khalid"
+1383487,6,"Tripura","Tamil Nadu","male","2023/24",2023-10-19,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Tripura","bat","Tamil Nadu",NA,8,NA,NA,NA,"A Nand Kishore","VM Dhokre",NA,"Sanjay Verma","HAS Khalid"
+1383488,6,"Mumbai","Jammu & Kashmir","male","2023/24",2023-10-21,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Jammu & Kashmir","field","Mumbai",37,NA,NA,NA,NA,"A Totre","GR Sadashiv Iyer",NA,"SS Raul",NA
+1383491,6,"Mizoram","Hyderabad (India)","male","2023/24",2023-10-21,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Hyderabad (India)","field","Hyderabad (India)",NA,6,NA,NA,NA,"A Totre","GR Sadashiv Iyer",NA,"SS Raul",NA
+1383496,6,"Manipur","Punjab","male","2023/24",2023-10-21,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Manipur","bat","Punjab",NA,8,NA,NA,NA,"P Jayapal","PM Joshi",NA,"DS Manohar",NA
+1383499,6,"Arunachal Pradesh","Goa","male","2023/24",2023-10-21,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Arunachal Pradesh","bat","Goa",NA,9,NA,NA,NA,"P Jayapal","PM Joshi",NA,"DS Manohar",NA
+1383503,6,"Karnataka","Delhi","male","2023/24",2023-10-21,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Delhi","field","Delhi",NA,8,NA,NA,NA,"A Nand Kishore","HAS Khalid",NA,"Prakash Bhatt","Abhijit Bhattacharya"
+1383504,6,"Uttar Pradesh","Nagaland","male","2023/24",2023-10-21,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Nagaland","field","Uttar Pradesh",87,NA,NA,NA,NA,"A Nand Kishore","HAS Khalid",NA,"Prakash Bhatt","Abhijit Bhattacharya"
+1383507,6,"Haryana","Mizoram","male","2023/24",2023-10-23,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Mizoram","field","Haryana",95,NA,NA,NA,NA,"A Totre","M Kuppuraj",NA,"P Dharmani",NA
+1383509,6,"Meghalaya","Jammu & Kashmir","male","2023/24",2023-10-23,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Meghalaya","bat","Jammu & Kashmir",NA,8,NA,NA,NA,"A Totre","M Kuppuraj",NA,"P Dharmani",NA
+1383515,6,"Arunachal Pradesh","Saurashtra","male","2023/24",2023-10-23,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Saurashtra","field","Saurashtra",NA,10,NA,NA,NA,"P Jayapal","Vinod Seshan",NA,"R Seth",NA
+1383517,6,"Andhra","Manipur","male","2023/24",2023-10-23,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Andhra","bat","Andhra",70,NA,NA,NA,NA,"P Jayapal","Vinod Seshan",NA,"R Seth",NA
+1383522,6,"Delhi","Tamil Nadu","male","2023/24",2023-10-23,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Tamil Nadu","field","Delhi",124,NA,NA,NA,NA,"HAS Khalid","Tapan Sharma",NA,"Prakash Bhatt","A Nand Kishore"
+1383523,6,"Uttar Pradesh","Tripura","male","2023/24",2023-10-23,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Tripura","field","Uttar Pradesh",68,NA,NA,NA,NA,"HAS Khalid","Tapan Sharma",NA,"Prakash Bhatt","A Nand Kishore"
+1383526,6,"Chhattisgarh","Baroda","male","2023/24",2023-10-25,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Baroda","field","Baroda",NA,7,NA,NA,NA,"M Kuppuraj","GR Sadashiv Iyer",NA,"P Dharmani",NA
+1383527,6,"Jammu & Kashmir","Mizoram","male","2023/24",2023-10-25,"Syed Mushtaq Ali Trophy","Sawai Mansingh Stadium, Jaipur","Jaipur","Jammu & Kashmir","bat","Jammu & Kashmir",7,NA,NA,NA,NA,"M Kuppuraj","GR Sadashiv Iyer",NA,"P Dharmani",NA
+1383534,6,"Railways","Gujarat","male","2023/24",2023-10-25,"Syed Mushtaq Ali Trophy","JSCA International Stadium Complex, Ranchi","Ranchi","Gujarat","field","Gujarat",NA,8,NA,NA,NA,"PM Joshi","Vinod Seshan",NA,"DS Manohar",NA
+1383539,6,"Uttar Pradesh","Karnataka","male","2023/24",2023-10-25,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Karnataka","field","Uttar Pradesh",40,NA,NA,NA,NA,"Abhijit Bhattacharya","VM Dhokre",NA,"Sanjay Verma","Tapan Sharma"
+1383541,6,"Tamil Nadu","Madhya Pradesh","male","2023/24",2023-10-25,"Syed Mushtaq Ali Trophy","Abhimanyu Cricket Academy, Dehradun","Dehra Dun","Tamil Nadu","bat","Madhya Pradesh",NA,7,NA,NA,NA,"Abhijit Bhattacharya","VM Dhokre",NA,"Sanjay Verma","Tapan Sharma"
+1383560,6,"Gujarat","Uttar Pradesh","male","2023/24",2023-10-31,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Uttar Pradesh","field","Uttar Pradesh",NA,6,NA,NA,NA,"R Pandit","MV Saidharshan Kumar",NA,"Shakti Singh","KN Ananthapadmanabhan"
+1383561,6,"Bengal","Assam","male","2023/24",2023-10-31,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Assam","field","Assam",NA,8,NA,NA,NA,"KN Ananthapadmanabhan","HAS Khalid",NA,"SS Raul","J Madanagopal"
+1383562,6,"Uttar Pradesh","Punjab","male","2023/24",2023-11-02,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Punjab","field","Punjab",NA,5,NA,NA,"N Wadhera","R Pandit","HAS Khalid",NA,"Shakti Singh","J Madanagopal"
+1383563,6,"Kerala","Assam","male","2023/24",2023-11-02,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Assam","field","Assam",NA,6,NA,NA,"S Ghadigaonkar","J Madanagopal","HAS Khalid",NA,"Shakti Singh","R Pandit"
+1383566,6,"Delhi","Punjab","male","2023/24",2023-11-04,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Punjab","field","Punjab",NA,6,NA,NA,NA,"J Madanagopal","HAS Khalid",NA,"SS Raul","R Pandit"
+1383567,6,"Assam","Baroda","male","2023/24",2023-11-04,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Baroda","field","Baroda",NA,6,NA,NA,"AV Rajput","KN Ananthapadmanabhan","HAS Khalid",NA,"Shakti Singh","MV Saidharshan Kumar"
+1383568,6,"Punjab","Baroda","male","2023/24",2023-11-06,"Syed Mushtaq Ali Trophy","Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","Chandigarh","Baroda","field","Punjab",20,NA,NA,NA,"Anmolpreet Singh","J Madanagopal","R Pandit",NA,"SS Raul","KN Ananthapadmanabhan"
