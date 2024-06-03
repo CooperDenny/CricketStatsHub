@@ -1,6 +1,6 @@
 ####################################################################################
 #	Script-file:   load_the_hundred_data.R
-#	Project:       Cricket Stats
+#	Project:       CricketStatsHub
 # Author:        Cooper Denny
 #
 # Purpose:  	   Code to download and process the hundred player data

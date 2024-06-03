@@ -1,6 +1,6 @@
 ####################################################################################
 #	Script-file:   load_mens_limited_overs_data.R
-#	Project:       Cricket Stats
+#	Project:       CricketStatsHub
 # Author:        Cooper Denny
 #
 # Purpose:  	   Code to download and process mens limited overs player data

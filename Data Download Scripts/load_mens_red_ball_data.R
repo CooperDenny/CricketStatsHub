@@ -1,6 +1,6 @@
 ####################################################################################
 #	Script-file:   load_mens_red_ball_data.R
-#	Project:       Cricket Stats
+#	Project:       CricketStatsHub
 # Author:        Cooper Denny
 #
 # Purpose:  	   Code to download and process mens red ball player data

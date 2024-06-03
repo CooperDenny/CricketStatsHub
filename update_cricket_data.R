@@ -1,6 +1,6 @@
 ####################################################################################
 #	Script-file:   update_cricket_data.R
-#	Project:       Cricket Stats
+#	Project:       CricketStatsHub
 # Author:        Cooper Denny
 #
 # Purpose:  	   Code to update cricket player data
@@ -25,16 +25,4 @@ rm(list=ls())
 source("Data Download Scripts/load_the_hundred_data.R")
 print("✅ The Hundred Data")
 rm(list=ls())
-
-#source("Data Download Scripts/load_ESPN_t20i_data.R")
-#print("✅ ESPN T20I Data")
-#rm(list=ls())
-
-#source("Data Download Scripts/load_ESPN_odi_data.R")
-#print("✅ ESPN ODI Data")
-#rm(list=ls())
-
-#source("Data Download Scripts/load_ESPN_test_data.R")
-#print("✅ ESPN Test Match Data")
-#rm(list=ls())
 
