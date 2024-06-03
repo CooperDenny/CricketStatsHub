@@ -2,7 +2,7 @@
 
 ## Overview
 
-CricketStatsHub is a repository containing summarised batting and bowling cricket data from a variety of international and domestic competitions. The data is sourced using the `cricketdata` R package, which facilitates the retrieval of cricket match data from providers like Cricsheet.
+CricketStatsHub is a repository containing batting and bowling cricket data (summarised by innings) from a variety of international and domestic competitions. The data is sourced using the `cricketdata` R package, which facilitates the retrieval of cricket match data from providers like Cricsheet.
 
 ## Competitions with Available Data
 
