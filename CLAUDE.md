@@ -47,9 +47,70 @@ fetch_cricket_data(competition, type = c("bbb", "batting", "bowling", "match"), 
 
 `cricketdata` R package, which pulls from Cricsheet (ball-by-ball data). Batting and bowling stats are derived by aggregating ball-by-ball data.
 
-## Competitions covered
+## Competition codes
 
-30+ competitions: BBL, WBBL, IPL, PSL, CPL, ODI, T20I, Test matches, Sheffield Shield, County Championship, women's competitions, and more.
+Pass these as the `competition` argument. For M/F competitions, also set `gender`.
+
+### International
+
+| Code | Competition | Gender |
+|------|-------------|--------|
+| `tests` | Test matches | M/F |
+| `odis` | One-day internationals | M/F |
+| `t20s` | T20 internationals | M/F |
+| `mdms` | Multi-day matches | M/F |
+| `odms` | One-day matches | M/F |
+| `it20s` | Non-official T20 internationals | M/F |
+
+### Men's domestic & franchise
+
+| Code | Competition |
+|------|-------------|
+| `bbl` | Big Bash League |
+| `blz` | T20 Blaze |
+| `bpl` | Bangladesh Premier League |
+| `bwt` | Bob Willis Trophy |
+| `cch` | County Championship |
+| `cpl` | Caribbean Premier League |
+| `ctc` | CSA T20 Challenge |
+| `hnd` | The Hundred |
+| `ilt` | International League T20 |
+| `ipo` | Cricket Ireland Inter-Provincial Limited Over Cup |
+| `ipl` | Indian Premier League |
+| `ipt` | Cricket Ireland Inter-Provincial Twenty20 Trophy |
+| `lpl` | Lanka Premier League |
+| `mcl` | Major Clubs Limited Over Tournament |
+| `mct` | Major Clubs T20 Tournament |
+| `mlc` | Major League Cricket |
+| `mlt` | Major League Tournament |
+| `msl` | Mzansi Super League |
+| `npl` | Nepal Premier League |
+| `ntb` | T20 Blast |
+| `odc` | One-Day Cup (Australia) |
+| `pks` | Plunket Shield |
+| `psl` | Pakistan Super League |
+| `rlc` | Royal London One-Day Cup |
+| `sat` | SA20 |
+| `sft` | Super 50 |
+| `sma` | Syed Mushtaq Ali Trophy |
+| `ssh` | Sheffield Shield |
+| `ssm` | Super Smash |
+
+### Women's domestic & franchise
+
+| Code | Competition |
+|------|-------------|
+| `cec` | Charlotte Edwards Cup |
+| `frb` | FairBreak Invitational Tournament |
+| `hnd` | The Hundred (use `gender = "female"`) |
+| `rhf` | Rachael Heyhoe Flint Trophy |
+| `wbb` | Women's Big Bash League |
+| `wcl` | Women's Caribbean Premier League |
+| `wod` | ECB Women's One-Day Cup |
+| `wpl` | Women's Premier League |
+| `wsl` | Women's Cricket Super League |
+| `wtb` | Women's T20 Blast |
+| `wtc` | Women's T20 Challenge |
 
 ## Packages
 
