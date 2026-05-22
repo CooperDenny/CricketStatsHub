@@ -1,32 +1,55 @@
 # CricketStatsHub
 
-R-based data pipeline that downloads, cleans, and stores batting and bowling cricket statistics from international and domestic competitions.
+R-based library for fetching clean cricket data from international and domestic competitions on demand.
 
 ## Structure
 
 ```
 CricketStatsHub/
-├── update_cricket_data.R            # Master script — runs all download scripts in sequence
-├── Data Download Scripts/
-│   ├── load_mens_limited_overs_data.R
-│   ├── load_womens_limited_overs_data.R
-│   ├── load_mens_red_ball_data.R
-│   ├── load_womens_red_ball_data.R
-│   └── load_the_hundred_data.R
-└── Database/                        # Output CSVs organised by competition
+├── fetch_cricket_data.R   # Core function — source this to use the library
+├── update_cricket_data.R  # Example usage of fetch_cricket_data()
+└── Database/              # Historical output CSVs (legacy)
 ```
 
 ## Usage
 
-Run `update_cricket_data.R` to refresh all datasets. Each sub-script sources data for its category, cleans it, and writes to `Database/`. The master script runs them in sequence and clears the environment between each to avoid memory issues.
+Source `fetch_cricket_data.R` and call `fetch_cricket_data()`:
+
+```r
+source("fetch_cricket_data.R")
+
+# Returns a clean tibble — no files written to disk
+bbl_batting <- fetch_cricket_data("bbl", type = "batting")
+ipl_bowling <- fetch_cricket_data("ipl", type = "bowling")
+t20_matches <- fetch_cricket_data("t20s", type = "match", gender = "male")
+```
+
+Run `cricsheet_codes` to see all available competition codes.
+
+## Function: fetch_cricket_data()
+
+```r
+fetch_cricket_data(competition, type = c("bbb", "batting", "bowling", "match"), gender = c("male", "female"))
+```
+
+| type | Returns |
+|------|---------|
+| `"bbb"` | Ball-by-ball data (one row per delivery) |
+| `"batting"` | Batting stats aggregated per batter per innings |
+| `"bowling"` | Bowling stats aggregated per bowler per innings |
+| `"match"` | Match metadata (teams, venue, date, umpires) |
+
+**Batting columns:** `batter`, `runs`, `balls_faced`, `fours`, `sixes`, `not_out`, `strike_rate`
+
+**Bowling columns:** `bowler`, `balls`, `overs`, `runs_conceded`, `wickets`, `economy`, `wides_bowled`, `no_balls_bowled`
 
 ## Data source
 
-`cricketdata` R package, which pulls from Cricsheet (ball-by-ball data aggregated to innings level).
+`cricketdata` R package, which pulls from Cricsheet (ball-by-ball data). Batting and bowling stats are derived by aggregating ball-by-ball data.
 
 ## Competitions covered
 
-Includes 30+ competitions: BBL, IPL, PSL, CPL, ODI, T20I, Test matches, Sheffield Shield, County Championship, women's competitions, and more. See README.md for the full list.
+30+ competitions: BBL, WBBL, IPL, PSL, CPL, ODI, T20I, Test matches, Sheffield Shield, County Championship, women's competitions, and more.
 
 ## Packages
 
@@ -34,5 +57,6 @@ Includes 30+ competitions: BBL, IPL, PSL, CPL, ODI, T20I, Test matches, Sheffiel
 
 ## Notes
 
-- Some matches may be missing from datasets (Cricsheet coverage gaps)
-- Data is summarised by innings — not ball-by-ball
+- Some matches may be missing (Cricsheet coverage gaps)
+- Run outs, retired hurt, and retired out are excluded from bowler wicket counts
+- Byes and leg byes are not charged to the bowler in `runs_conceded`

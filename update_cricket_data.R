@@ -1,28 +1,29 @@
 ####################################################################################
-#	Script-file:   update_cricket_data.R
-#	Project:       CricketStatsHub
-# Author:        Cooper Denny
+#  Script-file:   update_cricket_data.R
+#  Project:       CricketStatsHub
+#  Author:        Cooper Denny
 #
-# Purpose:  	   Code to update cricket player data
+#  Purpose:       Example usage of fetch_cricket_data().
+#                 Run `cricsheet_codes` to see all available competition codes.
 ####################################################################################
 
-source("Data Download Scripts/load_mens_limited_overs_data.R")
-print("✅ Mens Limited Overs Data")
-rm(list=ls())
+source("fetch_cricket_data.R")
 
-source("Data Download Scripts/load_womens_limited_overs_data.R")
-print("✅ Womens Limited Overs Data")
-rm(list=ls())
+# Ball-by-ball
+bbl_bbb <- fetch_cricket_data("bbl", type = "bbb")
 
-source("Data Download Scripts/load_mens_red_ball_data.R")
-print("✅ Mens Red Ball Data")
-rm(list=ls())
+# Batting stats per innings
+bbl_batting <- fetch_cricket_data("bbl", type = "batting")
 
-source("Data Download Scripts/load_womens_red_ball_data.R")
-print("✅ Womens Red Ball Data")
-rm(list=ls())
+# Bowling stats per innings
+bbl_bowling <- fetch_cricket_data("bbl", type = "bowling")
 
-source("Data Download Scripts/load_the_hundred_data.R")
-print("✅ The Hundred Data")
-rm(list=ls())
+# Match metadata
+bbl_matches <- fetch_cricket_data("bbl", type = "match")
 
+# Women's competition — specify gender
+wbbl_batting <- fetch_cricket_data("wbbl", type = "batting", gender = "female")
+
+# International — gender matters
+mens_t20_batting  <- fetch_cricket_data("t20s", type = "batting", gender = "male")
+womens_t20_batting <- fetch_cricket_data("t20s", type = "batting", gender = "female")
