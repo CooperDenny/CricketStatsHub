@@ -21,8 +21,8 @@ bbl_bowling <- fetch_cricket_data("bbl", type = "bowling")
 # Match metadata
 bbl_matches <- fetch_cricket_data("bbl", type = "match")
 
-# Women's competition — specify gender
-wbbl_batting <- fetch_cricket_data("wbbl", type = "batting", gender = "female")
+# Women's Big Bash League (women-only codes default to gender = "female")
+wbbl_batting <- fetch_cricket_data("wbb", type = "batting")
 
 # International — gender matters
 mens_t20_batting  <- fetch_cricket_data("t20s", type = "batting", gender = "male")

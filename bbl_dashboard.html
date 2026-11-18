@@ -495,7 +495,11 @@ function sortedData(arr, col, dir) {
       va = parseFloat(String(va).replace('.', '') || 0);
       vb = parseFloat(String(vb).replace('.', '') || 0);
     }
+    // Undefined stats (e.g. an average with no dismissals) always sort last
+    if (va == null || vb == null) return (va == null) - (vb == null);
     if (typeof va === 'string') return dir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+    // Best bowling: more wickets first, then fewer runs
+    if (col === 'best_wickets' && va === vb) return (a.best_runs ?? 0) - (b.best_runs ?? 0);
     return dir === 'asc' ? va - vb : vb - va;
   });
 }
@@ -521,9 +525,9 @@ function renderBatting() {
       <td>${teamChip(r.team)}</td>
       <td>${r.innings}</td>
       <td class="highlight-cell">${r.runs}</td>
-      <td>${r.highest}</td>
-      <td>${r.average}</td>
-      <td class="${r.strike_rate >= 150 ? 'badge-green' : r.strike_rate < 120 ? 'badge-orange' : ''}">${r.strike_rate}</td>
+      <td>${r.highest_label ?? r.highest}</td>
+      <td>${r.average ?? '–'}</td>
+      <td class="${r.strike_rate == null ? '' : r.strike_rate >= 150 ? 'badge-green' : r.strike_rate < 120 ? 'badge-orange' : ''}">${r.strike_rate ?? '–'}</td>
       <td>${r.fours}</td>
       <td class="${r.sixes >= 10 ? 'badge-green' : ''}">${r.sixes}</td>
     </tr>
@@ -553,9 +557,9 @@ function renderBowling() {
       <td class="highlight-cell">${r.wickets}</td>
       <td>${r.overs}</td>
       <td>${r.runs_conceded}</td>
-      <td class="${r.economy <= 7.5 ? 'badge-green' : r.economy >= 10 ? 'badge-orange' : ''}">${r.economy}</td>
-      <td>${r.average}</td>
-      <td>${r.best_wickets}w</td>
+      <td class="${r.economy == null ? '' : r.economy <= 7.5 ? 'badge-green' : r.economy >= 10 ? 'badge-orange' : ''}">${r.economy ?? '–'}</td>
+      <td>${r.average ?? '–'}</td>
+      <td>${r.best ?? r.best_wickets + 'w'}</td>
     </tr>
   `).join('');
 }

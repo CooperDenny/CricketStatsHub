@@ -2,11 +2,11 @@
 
 ## Overview
 
-CricketStatsHub is a repository containing batting and bowling cricket data (summarised by innings) from a variety of international and domestic competitions. The data is sourced using the `cricketdata` R package, which facilitates the retrieval of cricket match data from providers like Cricsheet.
+CricketStatsHub is an R function, `fetch_cricket_data()`, that returns clean ball-by-ball, batting, bowling or match data for any competition Cricsheet covers, plus a self-contained BBL dashboard built from it. Data comes from [Cricsheet](https://cricsheet.org) via the `cricketdata` R package; nothing is written to disk unless you ask.
 
 ## Competition Codes
 
-Pass these codes as the `competition` argument to `fetch_cricket_data()`. For competitions marked **M/F**, also specify `gender = "male"` or `gender = "female"`.
+Pass these codes as the `competition` argument to `fetch_cricket_data()`. For competitions marked **M/F**, also specify `gender = "male"` or `gender = "female"` (the default is `"male"`). Women-only competitions default to `"female"`, so `gender` can be left out.
 
 > Note: some matches may be missing due to Cricsheet coverage gaps.
 
@@ -75,7 +75,8 @@ Pass these codes as the `competition` argument to `fetch_cricket_data()`. For co
 
 - `fetch_cricket_data.R`: Core function — source this to fetch data.
 - `update_cricket_data.R`: Example usage of `fetch_cricket_data()`.
-- `Database`: Historical output CSVs (legacy).
+- `generate_bbl_dashboard_data.R`: Builds `bbl_dashboard_data.json` for the latest BBL season.
+- `bbl_dashboard.html`: Sortable, filterable BBL leaderboards, results and standings. Serve the folder (e.g. `python3 -m http.server`) and open it; it loads the JSON with `fetch`, which browsers block from `file://`.
 - `CricketStatsHub.Rproj`: R project file.
 
 ## Usage
@@ -94,4 +95,29 @@ ipl_bbb <- fetch_cricket_data("ipl", type = "bbb")
 
 # Match metadata
 bbl_matches <- fetch_cricket_data("bbl", type = "match")
+
+# Women-only competitions default to gender = "female"
+wbbl_batting <- fetch_cricket_data("wbb", type = "batting")
 ```
+
+## How the stats are calculated
+
+Batting and bowling figures are aggregated from ball-by-ball data, following the Laws of Cricket and the usual scorecard conventions. Every innings' batting runs plus extras reconcile to the team total.
+
+**Batting** (one row per batter per innings)
+- Every batter who came to the crease is included, even without facing a ball.
+- A batter is out if dismissed at either end, so a run out at the non-striker's end counts. Retired hurt (or retired not out) is not out; retired out is out.
+- Balls faced exclude wides and include no-balls. Fours exclude all-run fours.
+- `strike_rate` is `NA` when no balls were faced.
+
+**Bowling** (one row per bowler per innings)
+- Wickets count only dismissals credited to the bowler: bowled, caught, caught and bowled, lbw, stumped and hit wicket. Run outs, obstructing the field and retirements are not.
+- Runs conceded include wides and no-balls but not byes or leg byes.
+- Balls exclude wides and no-balls; `economy` is `NA` with no legal balls.
+
+**Super overs** are excluded from batting and bowling stats (innings 3+ in every competition except the multi-day ones: `tests`, `mdms`, `bwt`, `cch`, `pks`, `ssh`). They remain in `type = "bbb"`.
+
+## Known issues
+
+- Some matches may be missing (Cricsheet coverage gaps).
+- `type = "match"` fails in `cricketdata` 0.3.0 (the current CRAN release) on current Cricsheet files, with *"Names must be unique: match_id"*. This is a bug in the package, not in this repo. `generate_bbl_dashboard_data.R` keeps the previous run's results and standings for the same season when it happens.
