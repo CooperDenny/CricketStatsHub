@@ -8,7 +8,8 @@ R-based library for fetching clean cricket data from international and domestic 
 CricketStatsHub/
 ├── fetch_cricket_data.R   # Core function — source this to use the library
 ├── update_cricket_data.R  # Example usage of fetch_cricket_data()
-└── Database/              # Historical output CSVs (legacy)
+├── generate_bbl_dashboard_data.R  # Writes bbl_dashboard_data.json (latest BBL season)
+└── bbl_dashboard.html     # Static dashboard that loads the JSON (serve over HTTP)
 ```
 
 ## Usage
@@ -20,6 +21,7 @@ source("fetch_cricket_data.R")
 
 # Returns a clean tibble — no files written to disk
 bbl_batting <- fetch_cricket_data("bbl", type = "batting")
+wbbl_batting <- fetch_cricket_data("wbb", type = "batting")  # gender defaults to "female"
 ipl_bowling <- fetch_cricket_data("ipl", type = "bowling")
 t20_matches <- fetch_cricket_data("t20s", type = "match", gender = "male")
 ```
@@ -118,6 +120,13 @@ Pass these as the `competition` argument. For M/F competitions, also set `gender
 
 ## Notes
 
+- Cricsheet encodes "nothing" as `""`, not `NA`, in character columns (`player_dismissed`, `wicket_type`, `non_boundary`). Test with `has_value()`, never `!is.na()` alone: that mistake once counted every delivery as a wicket. Wides/no-balls are `NA` when absent. An all-empty column can be read as logical, so coerce before `bind_rows()`.
+- Bowler wickets are a whitelist (`bowler_wicket_types`): bowled, caught, caught and bowled, lbw, stumped, hit wicket.
+- Batting dismissals are taken from `player_dismissed` and `other_player_dismissed` (either end), so non-striker run outs count; retired hurt / retired not out are not out.
+- Super overs (innings 3+ outside `multi_day_codes`) are excluded from batting/bowling.
+- Women-only codes (`women_only_codes`) default to `gender = "female"`; Cricsheet publishes them only as `_female`.
+- Byes and leg byes are not charged to the bowler in `runs_conceded`.
+- In `summarise()`, a later expression sees already-summarised columns: compute per-innings maxima (highest score, best figures) before the totals.
+- Verification: every innings' batting runs + extras equals the team total, and batters out equals dismissals. Re-run that reconciliation after touching the aggregation.
+- `type = "match"` is broken in cricketdata 0.3.0 (CRAN) on current Cricsheet data (duplicate `match_id` in `pivot_wider`); the dashboard generator falls back to the previous JSON's results.
 - Some matches may be missing (Cricsheet coverage gaps)
-- Run outs, retired hurt, and retired out are excluded from bowler wicket counts
-- Byes and leg byes are not charged to the bowler in `runs_conceded`
