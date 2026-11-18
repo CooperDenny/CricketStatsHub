@@ -583,7 +583,7 @@ function renderMatches() {
         ${r.team1}<span class="vs">vs</span>${r.team2}
       </div>
       <div class="match-result">
-        ${r.winner ? `${r.winner} won by ${r.margin}` : 'No result'}
+        ${r.winner ? (r.super_over ? `${r.winner} won the Super Over` : `${r.winner} won by ${r.margin}`) : (r.margin || 'No result')}
       </div>
       ${r.player_of_match ? `<div class="match-pom">Player of Match: <span>${r.player_of_match}</span></div>` : ''}
     </div>

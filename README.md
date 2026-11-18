@@ -120,4 +120,4 @@ Batting and bowling figures are aggregated from ball-by-ball data, following the
 ## Known issues
 
 - Some matches may be missing (Cricsheet coverage gaps).
-- `type = "match"` fails in `cricketdata` 0.3.0 (the current CRAN release) on current Cricsheet files, with *"Names must be unique: match_id"*. This is a bug in the package, not in this repo. `generate_bbl_dashboard_data.R` keeps the previous run's results and standings for the same season when it happens.
+- `type = "match"` reads Cricsheet's match files directly, because `cricketdata` 0.3.0's `fetch_cricsheet("match")` fails on current files (they now carry their own `match_id`). `winner` includes ties won in a super over (`super_over = TRUE`), and `result` is `"won"`, `"tie"` or `"no result"`.
