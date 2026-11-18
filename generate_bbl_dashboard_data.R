@@ -24,9 +24,9 @@ cat("Fetching BBL bowling data...\n")
 bowling_all <- fetch_cricket_data("bbl", type = "bowling")
 
 cat("Fetching BBL match data...\n")
-# cricketdata 0.3.0 can fail to parse Cricsheet's match files. Batting and
-# bowling come from ball-by-ball data and don't depend on this, so if it fails
-# keep the previous run's results and standings for the same season.
+# Batting and bowling come from ball-by-ball data and don't depend on this, so
+# if the match files can't be fetched (e.g. offline), keep the previous run's
+# results and standings for the same season.
 matches_all <- tryCatch(
   fetch_cricket_data("bbl", type = "match"),
   error = function(e) {
@@ -119,34 +119,41 @@ if (!is.null(matches_all)) {
       winner,
       winner_runs,
       winner_wickets,
+      result,
+      super_over,
+      method,
       player_of_match,
       toss_winner,
       toss_decision
     ) |>
     mutate(
-      date       = as.character(date),
-      player_of_match = sapply(player_of_match, \(x) paste(x, collapse = ", ")),
-      margin     = case_when(
+      date   = format(date, "%Y/%m/%d"),
+      margin = case_when(
+        super_over             ~ "Super Over",
         !is.na(winner_runs)    ~ paste0(winner_runs, " runs"),
         !is.na(winner_wickets) ~ paste0(winner_wickets, " wickets"),
-        TRUE                   ~ "N/A"
-      )
+        result == "tie"        ~ "Tie",
+        TRUE                   ~ "No result"
+      ),
+      # Rain-affected results were decided by Duckworth-Lewis(-Stern)
+      margin = if_else(!is.na(method) & result == "won", paste0(margin, " (", method, ")"), margin)
     ) |>
     arrange(desc(date))
 
   # ── Team standings ───────────────────────────────────────────────────────────
-  # Derive from match results
+  # Derive from match results. A tie won in a super over counts as a win;
+  # no-results are listed separately and left out of played/win %.
   team_results <- bind_rows(
     match_results |> mutate(team = team1, won = team1 == winner),
     match_results |> mutate(team = team2, won = team2 == winner)
   ) |>
-    filter(!is.na(winner)) |>
     group_by(team) |>
     summarise(
-      played = n(),
-      wins   = sum(won),
-      losses = played - wins,
-      .groups = "drop"
+      played     = sum(!is.na(winner)),
+      wins       = sum(won, na.rm = TRUE),
+      losses     = played - wins,
+      no_results = sum(is.na(winner)),
+      .groups    = "drop"
     ) |>
     mutate(win_pct = round(wins / played * 100, 1)) |>
     arrange(desc(wins), desc(win_pct))

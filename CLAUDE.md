@@ -128,5 +128,5 @@ Pass these as the `competition` argument. For M/F competitions, also set `gender
 - Byes and leg byes are not charged to the bowler in `runs_conceded`.
 - In `summarise()`, a later expression sees already-summarised columns: compute per-innings maxima (highest score, best figures) before the totals.
 - Verification: every innings' batting runs + extras equals the team total, and batters out equals dismissals. Re-run that reconciliation after touching the aggregation.
-- `type = "match"` is broken in cricketdata 0.3.0 (CRAN) on current Cricsheet data (duplicate `match_id` in `pivot_wider`); the dashboard generator falls back to the previous JSON's results.
+- `type = "match"` uses `fetch_cricsheet_matches()`, which parses the `*_info.csv` files itself: `cricketdata::fetch_cricsheet("match")` (0.3.0) fails because Cricsheet now writes an `info,match_id` row that collides with the id cricketdata derives from the file name. Info rows are ragged (3-5 fields), so read them with `read.csv(fill = TRUE)`. A tie decided by super over has no `winner` row; the winner is in `eliminator`, so `winner = coalesce(winner, eliminator)`. Rain results carry `method` (e.g. "D/L"). The dashboard generator still falls back to the previous JSON's results if the download fails.
 - Some matches may be missing (Cricsheet coverage gaps)

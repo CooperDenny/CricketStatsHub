@@ -47,7 +47,7 @@ fetch_cricket_data <- function(
   gender <- match.arg(gender)
 
   if (type == "match") {
-    return(fetch_cricsheet("match", gender, competition))
+    return(fetch_cricsheet_matches(competition, gender))
   }
 
   bbb <- fetch_cricsheet("bbb", gender, competition)
@@ -136,4 +136,82 @@ summarise_bowling <- function(bbb) {
       economy = if_else(balls > 0, round(runs_conceded / (balls / 6), 2), NA_real_)
     ) |>
     arrange(match_id, innings, desc(wickets), runs_conceded)
+}
+
+# Match metadata, one row per match, read straight from Cricsheet's *_info.csv files.
+#
+# Replaces cricketdata::fetch_cricsheet("match"), which fails on current files:
+# Cricsheet now writes an "info,match_id" row, which collides with the match_id
+# cricketdata derives from the file name ("Names must be unique: match_id").
+#
+# winner is the team that won, including a tie won in a super over (Cricsheet
+# records those as outcome = "tie" with the super-over winner in "eliminator").
+# result is "won", "tie" (no super over or it was also tied) or "no result".
+fetch_cricsheet_matches <- function(competition, gender = c("male", "female")) {
+  gender <- match.arg(gender)
+  url <- paste0("https://cricsheet.org/downloads/", competition, "_", gender, "_csv2.zip")
+
+  zip_path <- tempfile(fileext = ".zip")
+  dir      <- tempfile("cricsheet_")
+  on.exit(unlink(c(zip_path, dir), recursive = TRUE), add = TRUE)
+  utils::download.file(url, zip_path, mode = "wb", quiet = TRUE)
+  files <- utils::unzip(zip_path, exdir = dir)
+  files <- files[grepl("_info\\.csv$", files)]
+
+  info <- map(files, \(f) {
+    # Rows are ragged (3 to 5 fields), which read.csv's fill handles quietly
+    utils::read.csv(f, header = FALSE, skip = 1, fill = TRUE, colClasses = "character",
+                    col.names = c("kind", "key", "value", "value2", "value3"),
+                    na.strings = "", encoding = "UTF-8")
+  }) |>
+    set_names(sub("_info\\.csv$", "", basename(files))) |>
+    list_rbind(names_to = "file_id") |>
+    filter(kind == "info")
+
+  # Keys with one value per match
+  single <- info |>
+    filter(key %in% c("match_id", "season", "date", "event", "match_number", "match_type",
+                      "venue", "city", "toss_winner", "toss_decision", "winner",
+                      "winner_runs", "winner_wickets", "outcome", "eliminator", "method")) |>
+    distinct(file_id, key, .keep_all = TRUE) |>
+    select(file_id, key, value) |>
+    pivot_wider(names_from = key, values_from = value)
+
+  # Keys that repeat: the two teams, and (occasionally) joint players of the match
+  teams <- info |>
+    filter(key == "team") |>
+    group_by(file_id) |>
+    summarise(team1 = first(value), team2 = nth(value, 2), .groups = "drop")
+  pom <- info |>
+    filter(key == "player_of_match") |>
+    group_by(file_id) |>
+    summarise(player_of_match = paste(value, collapse = ", "), .groups = "drop")
+
+  # Make sure optional columns exist even if no match in this competition used them
+  for (col in c("match_id", "match_number", "city", "winner", "winner_runs", "winner_wickets",
+                "outcome", "eliminator", "method", "event")) {
+    if (!col %in% names(single)) single[[col]] <- NA_character_
+  }
+
+  single |>
+    left_join(teams, by = "file_id") |>
+    left_join(pom, by = "file_id") |>
+    mutate(
+      match_id       = coalesce(match_id, file_id),
+      date           = as.Date(date, format = "%Y/%m/%d"),
+      winner_runs    = as.integer(winner_runs),
+      winner_wickets = as.integer(winner_wickets),
+      winner         = coalesce(winner, eliminator),
+      result         = case_when(
+        !is.na(winner)            ~ "won",
+        outcome == "no result"    ~ "no result",
+        outcome == "tie"          ~ "tie",
+        TRUE                      ~ coalesce(outcome, "unknown")
+      ),
+      super_over     = !is.na(eliminator)
+    ) |>
+    select(match_id, season, date, event, match_number, match_type, venue, city,
+           team1, team2, toss_winner, toss_decision, winner, winner_runs, winner_wickets,
+           result, super_over, method, player_of_match) |>
+    arrange(date, match_id)
 }
